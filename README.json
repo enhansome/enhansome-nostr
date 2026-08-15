@@ -19,7 +19,7 @@
             "last_commit": "2025-06-27T20:23:51Z",
             "owner": "nostr-protocol",
             "repo": "nostr",
-            "stars": 11928
+            "stars": 11931
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T18:22:25Z",
+            "last_commit": "2026-08-15T11:03:17Z",
             "owner": "nostr-protocol",
             "repo": "nips",
-            "stars": 3069
+            "stars": 3070
           }
         },
         {
@@ -100,7 +100,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-21T18:16:00Z",
+            "last_commit": "2026-08-14T19:55:17Z",
             "owner": "nostr-protocol",
             "repo": "registry-of-kinds",
             "stars": 18
@@ -181,7 +181,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:22:25Z",
+            "last_commit": "2026-08-15T16:29:57Z",
             "owner": "cameri",
             "repo": "nostream",
             "stars": 820
@@ -1016,20 +1016,6 @@
         },
         {
           "node_type": "item",
-          "title": "QNostr",
-          "description": "A Nostr protocol implementation for clients as a Qt Module in C++",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-07-24T13:48:25Z",
-            "owner": "Aseman-Land",
-            "repo": "QNostr",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
           "title": "SW2",
           "description": "A relay with read and write whitelisting for private uses, small communities, knowledge bases, or dropboxes.",
           "children": [],
@@ -1040,6 +1026,20 @@
             "owner": "bitvora",
             "repo": "sw2",
             "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QNostr",
+          "description": "A Nostr protocol implementation for clients as a Qt Module in C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-07-24T13:48:25Z",
+            "owner": "Aseman-Land",
+            "repo": "QNostr",
+            "stars": 10
           }
         },
         {
@@ -1368,7 +1368,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-14T18:08:19Z",
+            "last_commit": "2026-08-15T18:13:13Z",
             "owner": "divinevideo",
             "repo": "divine-mobile",
             "stars": 262
@@ -1382,7 +1382,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T02:45:33Z",
+            "last_commit": "2026-08-15T03:31:57Z",
             "owner": "HiveTalk",
             "repo": "hivetalksfu",
             "stars": 59
@@ -1573,7 +1573,7 @@
             "last_commit": "2026-08-14T01:56:31Z",
             "owner": "Spl0itable",
             "repo": "NYM",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -1646,10 +1646,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T18:39:16Z",
+            "last_commit": "2026-08-15T18:20:21Z",
             "owner": "block",
             "repo": "buzz",
-            "stars": 27360
+            "stars": 27550
           }
         },
         {
@@ -1660,10 +1660,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T18:39:16Z",
+            "last_commit": "2026-08-15T18:20:21Z",
             "owner": "block",
             "repo": "buzz",
-            "stars": 27360
+            "stars": 27550
           }
         },
         {
@@ -1674,7 +1674,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T16:25:37Z",
+            "last_commit": "2026-08-15T00:57:36Z",
             "owner": "vitorpamplona",
             "repo": "amethyst",
             "stars": 1583
@@ -1716,7 +1716,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-27T10:17:16Z",
+            "last_commit": "2026-08-15T17:43:14Z",
             "owner": "UwUDev",
             "repo": "francisca",
             "stars": 515
@@ -1772,7 +1772,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-29T19:51:53Z",
+            "last_commit": "2026-08-14T23:03:26Z",
             "owner": "v0l",
             "repo": "snort",
             "stars": 343
@@ -1842,7 +1842,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T16:13:39Z",
+            "last_commit": "2026-08-15T17:31:45Z",
             "owner": "VectorPrivacy",
             "repo": "Vector",
             "stars": 225
@@ -1926,7 +1926,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-08-14T07:41:18Z",
+            "last_commit": "2026-08-15T11:53:38Z",
             "owner": "SnowCait",
             "repo": "nostter",
             "stars": 178
@@ -2256,20 +2256,6 @@
         },
         {
           "node_type": "item",
-          "title": "narr",
-          "description": "self-hosted Nostr and RSS reader",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-27T12:31:14Z",
-            "owner": "fiatjaf",
-            "repo": "narr",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
           "title": "ngit-cli",
           "description": "cli for a nostr based github alternative for FOSS repositories",
           "children": [],
@@ -2279,6 +2265,20 @@
             "last_commit": "2026-07-10T18:30:56Z",
             "owner": "DanConwayDev",
             "repo": "ngit-cli",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "narr",
+          "description": "self-hosted Nostr and RSS reader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-04-27T12:31:14Z",
+            "owner": "fiatjaf",
+            "repo": "narr",
             "stars": 64
           }
         },
@@ -2528,7 +2528,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T23:37:48Z",
+            "last_commit": "2026-08-15T01:25:04Z",
             "owner": "nostrord",
             "repo": "nostrord",
             "stars": 37
@@ -2682,7 +2682,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T03:41:41Z",
+            "last_commit": "2026-08-15T10:55:08Z",
             "owner": "obelisk-app",
             "repo": "obelisk",
             "stars": 28
@@ -2808,7 +2808,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:26:56Z",
+            "last_commit": "2026-08-14T20:23:59Z",
             "owner": "BoldBitcoinWallet",
             "repo": "BoldWallet",
             "stars": 22
@@ -2892,7 +2892,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T18:50:07Z",
+            "last_commit": "2026-08-15T16:27:56Z",
             "owner": "mouse484",
             "repo": "astraea",
             "stars": 17
@@ -2948,7 +2948,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:59:49Z",
+            "last_commit": "2026-08-15T09:07:25Z",
             "owner": "arbadacarbaYK",
             "repo": "gittr",
             "stars": 16
@@ -3032,7 +3032,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:13:17Z",
+            "last_commit": "2026-08-15T12:53:10Z",
             "owner": "zeSchlausKwab",
             "repo": "earthly",
             "stars": 13
@@ -3152,6 +3152,20 @@
         },
         {
           "node_type": "item",
+          "title": "Vega",
+          "description": "A client for Linux, Windows and macOS (Tauri + React), with long-form writing and reading (NIP-23), V4V podcast streaming, WoT filtering and an optional built-in relay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-15T15:50:15Z",
+            "owner": "hoornet",
+            "repo": "vega",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Wherostr",
           "description": "A decentralized geo-social for iOS & Android.",
           "children": [],
@@ -3189,20 +3203,6 @@
             "last_commit": "2023-09-13T23:23:58Z",
             "owner": "coracle-social",
             "repo": "nostrtime",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vega",
-          "description": "A client for Linux, Windows and macOS (Tauri + React), with long-form writing and reading (NIP-23), V4V podcast streaming, WoT filtering and an optional built-in relay.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T18:31:52Z",
-            "owner": "hoornet",
-            "repo": "vega",
             "stars": 9
           }
         },
@@ -3264,6 +3264,20 @@
         },
         {
           "node_type": "item",
+          "title": "Plaza",
+          "description": "A fast, local-first Nostr client for macOS, built natively in Zig. Guest-first, with a built-in isolated signer. (In development.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-08-15T18:07:58Z",
+            "owner": "zig-nostr",
+            "repo": "plaza",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Zappix",
           "description": "A nostr image sharing application for browsing, sharing, and zapping visual content. Zappix.app",
           "children": [],
@@ -3301,20 +3315,6 @@
             "last_commit": "2026-07-13T17:20:13Z",
             "owner": "0n4t3",
             "repo": "n_cord",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Plaza",
-          "description": "A fast, local-first Nostr client for macOS, built natively in Zig. Guest-first, with a built-in isolated signer. (In development.)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2026-08-13T22:06:42Z",
-            "owner": "zig-nostr",
-            "repo": "plaza",
             "stars": 6
           }
         },
@@ -3508,7 +3508,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T14:58:39Z",
+            "last_commit": "2026-08-15T14:57:01Z",
             "owner": "DaBena",
             "repo": "Brezn",
             "stars": 2
@@ -3668,7 +3668,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T13:46:23Z",
+            "last_commit": "2026-08-14T21:59:18Z",
             "owner": "shopstr-eng",
             "repo": "shopstr",
             "stars": 99
@@ -3696,7 +3696,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T18:34:10Z",
+            "last_commit": "2026-08-15T00:22:13Z",
             "owner": "MostroP2P",
             "repo": "mobile",
             "stars": 67
@@ -3854,10 +3854,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-29T19:44:11Z",
+            "last_commit": "2026-08-15T11:00:40Z",
             "owner": "nbd-wtf",
             "repo": "nostr-tools",
-            "stars": 851
+            "stars": 852
           }
         },
         {
@@ -3871,7 +3871,7 @@
             "last_commit": "2026-08-07T10:44:58Z",
             "owner": "nostrdevkit",
             "repo": "nostr",
-            "stars": 664
+            "stars": 665
           }
         },
         {
@@ -4176,7 +4176,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:05:16Z",
+            "last_commit": "2026-08-15T11:47:31Z",
             "owner": "hzrd149",
             "repo": "applesauce",
             "stars": 50
@@ -4288,7 +4288,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-14T14:12:52Z",
+            "last_commit": "2026-08-15T17:54:07Z",
             "owner": "relaystr",
             "repo": "ndk",
             "stars": 27
@@ -4464,20 +4464,6 @@
         },
         {
           "node_type": "item",
-          "title": "libnostr-c",
-          "description": "A lightweight C library implementing the Nostr protocol with NIP-44 encryption and Lightning support, optimized for embedded systems like ESP32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-03T21:36:42Z",
-            "owner": "privkeyio",
-            "repo": "libnostr-c",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
           "title": "nostr-one",
           "description": "A reusable web component that provides a simple way to integrate with nostr NIP 98 HTTP Auth.",
           "children": [],
@@ -4534,6 +4520,20 @@
         },
         {
           "node_type": "item",
+          "title": "libnostr-c",
+          "description": "A lightweight C library implementing the Nostr protocol with NIP-44 encryption and Lightning support, optimized for embedded systems like ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T21:36:42Z",
+            "owner": "privkeyio",
+            "repo": "libnostr-c",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
           "title": "nostr.hs",
           "description": "Nostr client library for the Haskell ecosystem",
           "children": [],
@@ -4554,7 +4554,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:06:15Z",
+            "last_commit": "2026-08-15T14:01:26Z",
             "owner": "MostroP2P",
             "repo": "mostro-core",
             "stars": 10
@@ -4610,7 +4610,7 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-12T12:06:54Z",
+            "last_commit": "2026-08-15T07:44:34Z",
             "owner": "zig-nostr",
             "repo": "nostr",
             "stars": 7
@@ -4694,7 +4694,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T21:16:05Z",
+            "last_commit": "2026-08-15T00:38:41Z",
             "owner": "theborakompanioni",
             "repo": "nostr-spring-boot-starter",
             "stars": 6
@@ -4975,7 +4975,7 @@
             "last_commit": "2026-08-12T22:37:47Z",
             "owner": "spacecowboy",
             "repo": "Feeder",
-            "stars": 2960
+            "stars": 2961
           }
         },
         {
@@ -5241,7 +5241,7 @@
             "last_commit": "2026-08-14T03:06:54Z",
             "owner": "LibertyFarmer",
             "repo": "hamstr",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -5433,8 +5433,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T17:09:47Z",
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T20:41:06Z",
             "owner": "saiy2k",
             "repo": "nostr-components",
             "stars": 26
@@ -5798,7 +5798,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:45:43Z",
+            "last_commit": "2026-08-15T18:09:04Z",
             "owner": "Lokuyow",
             "repo": "ehagaki",
             "stars": 14
@@ -6288,7 +6288,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-07-31T17:55:49Z",
+            "last_commit": "2026-08-15T13:02:07Z",
             "owner": "nostorg",
             "repo": "scoop-nostr",
             "stars": 2
@@ -6579,7 +6579,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-11T03:00:32Z",
+            "last_commit": "2026-08-15T16:13:35Z",
             "owner": "damus-io",
             "repo": "nostrdb",
             "stars": 137
@@ -6593,7 +6593,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T03:01:09Z",
+            "last_commit": "2026-08-15T16:42:13Z",
             "owner": "damus-io",
             "repo": "nostrdb-rs",
             "stars": 30
@@ -6677,20 +6677,6 @@
         },
         {
           "node_type": "item",
-          "title": "signet",
-          "description": "NIP-46 remote signer with a web UI and Android app. Allows users to sign events with custom trust level policy, DM kill switch commands, built-in dead man's switch, bunker and nostrconnect support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-29T04:24:22Z",
-            "owner": "Letdown2491",
-            "repo": "signet",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
           "title": "keechain",
           "description": "Bitcoin application to transform your offline computer in an AirGap Signing Device (aka Hardware Wallet) with support to and .",
           "children": [],
@@ -6700,6 +6686,20 @@
             "last_commit": "2024-11-15T19:25:58Z",
             "owner": "yukibtc",
             "repo": "keechain",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "signet",
+          "description": "NIP-46 remote signer with a web UI and Android app. Allows users to sign events with custom trust level policy, DM kill switch commands, built-in dead man's switch, bunker and nostrconnect support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T04:24:22Z",
+            "owner": "Letdown2491",
+            "repo": "signet",
             "stars": 27
           }
         },
@@ -6739,7 +6739,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T18:05:47Z",
+            "last_commit": "2026-08-15T17:52:48Z",
             "owner": "privkeyio",
             "repo": "keep",
             "stars": 14
@@ -6753,7 +6753,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T18:05:47Z",
+            "last_commit": "2026-08-15T17:52:48Z",
             "owner": "privkeyio",
             "repo": "keep",
             "stars": 14
@@ -6781,7 +6781,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T19:54:08Z",
+            "last_commit": "2026-08-15T16:44:09Z",
             "owner": "privkeyio",
             "repo": "keep-android",
             "stars": 9
@@ -6961,7 +6961,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T18:03:01Z",
+            "last_commit": "2026-08-15T15:36:48Z",
             "owner": "MostroP2P",
             "repo": "mostro",
             "stars": 320
@@ -7259,7 +7259,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T16:25:37Z",
+            "last_commit": "2026-08-15T00:57:36Z",
             "owner": "vitorpamplona",
             "repo": "amethyst",
             "stars": 1583
@@ -7273,7 +7273,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-08-14T07:41:18Z",
+            "last_commit": "2026-08-15T11:53:38Z",
             "owner": "SnowCait",
             "repo": "nostter",
             "stars": 178
@@ -7363,7 +7363,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:04:08Z",
+            "last_commit": "2026-08-15T17:26:37Z",
             "owner": "ZeusLN",
             "repo": "zeus",
             "stars": 1398
@@ -7669,7 +7669,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:15:58Z",
+            "last_commit": "2026-08-15T04:53:36Z",
             "owner": "nostr-wot",
             "repo": "nostr-wot-extension",
             "stars": 8
@@ -7683,7 +7683,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T10:19:05Z",
+            "last_commit": "2026-08-15T08:37:35Z",
             "owner": "nostr-wot",
             "repo": "nostr-wot-sdk",
             "stars": 5
@@ -8238,7 +8238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:45:13.735Z",
+    "last_updated": "2026-08-15T18:20:34.178Z",
     "original_repository": "aljazceru/awesome-nostr",
     "original_repository_sha": "52474cc955ea84adf0f9b1d7a4fbdf5074a27a1a",
     "enhanced_repository": "enhansome/enhansome-nostr",
