@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 580128737,
                 "language": "C++",
-                "last_commit": "2026-08-18T19:28:21Z",
+                "last_commit": "2026-08-19T17:27:52Z",
                 "owner": "hoytech",
                 "repo": "strfry",
                 "stars": 713
@@ -1458,10 +1458,10 @@
                 "archived": false,
                 "id": 1002271234,
                 "language": "Dart",
-                "last_commit": "2026-08-19T12:34:49Z",
+                "last_commit": "2026-08-19T18:21:16Z",
                 "owner": "divinevideo",
                 "repo": "divine-mobile",
-                "stars": 262
+                "stars": 264
               }
             },
             {
@@ -1623,8 +1623,8 @@
                 "archived": false,
                 "id": 1185345086,
                 "language": "Rust",
-                "last_commit": "2026-08-18T17:37:09Z",
-                "owner": "maml",
+                "last_commit": "2026-08-19T18:15:54Z",
+                "owner": "Lightning-FM",
                 "repo": "lightning-fm-desktop",
                 "stars": 0
               }
@@ -1795,21 +1795,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Sprout",
-              "description": "Group chat client by Block.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1174789082,
-                "language": "Rust",
-                "last_commit": "2026-08-19T12:37:56Z",
-                "owner": "block",
-                "repo": "buzz",
-                "stars": 28528
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Buzz",
               "description": "Workspace where AI agents and humans collaborate on their own relay.",
               "children": [],
@@ -1817,10 +1802,25 @@
                 "archived": false,
                 "id": 1174789082,
                 "language": "Rust",
-                "last_commit": "2026-08-19T12:37:56Z",
+                "last_commit": "2026-08-19T18:23:44Z",
                 "owner": "block",
                 "repo": "buzz",
-                "stars": 28527
+                "stars": 28606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sprout",
+              "description": "Group chat client by Block.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1174789082,
+                "language": "Rust",
+                "last_commit": "2026-08-19T18:23:44Z",
+                "owner": "block",
+                "repo": "buzz",
+                "stars": 28606
               }
             },
             {
@@ -1832,7 +1832,7 @@
                 "archived": false,
                 "id": 587850619,
                 "language": "Kotlin",
-                "last_commit": "2026-08-19T06:03:16Z",
+                "last_commit": "2026-08-19T17:15:17Z",
                 "owner": "vitorpamplona",
                 "repo": "amethyst",
                 "stars": 1587
@@ -2042,7 +2042,7 @@
                 "archived": false,
                 "id": 581644549,
                 "language": "TypeScript",
-                "last_commit": "2026-08-08T14:58:03Z",
+                "last_commit": "2026-08-19T18:00:48Z",
                 "owner": "hzrd149",
                 "repo": "nostrudel",
                 "stars": 219
@@ -2057,7 +2057,7 @@
                 "archived": false,
                 "id": 878484385,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T15:26:28Z",
+                "last_commit": "2026-08-19T14:59:02Z",
                 "owner": "CodyTseng",
                 "repo": "jumble",
                 "stars": 214
@@ -2102,7 +2102,7 @@
                 "archived": false,
                 "id": 605404233,
                 "language": "Svelte",
-                "last_commit": "2026-08-19T07:43:26Z",
+                "last_commit": "2026-08-19T16:46:29Z",
                 "owner": "SnowCait",
                 "repo": "nostter",
                 "stars": 178
@@ -2207,7 +2207,7 @@
                 "archived": false,
                 "id": 215791627,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T06:43:40Z",
+                "last_commit": "2026-08-19T17:01:57Z",
                 "owner": "shocknet",
                 "repo": "Lightning.Pub",
                 "stars": 94
@@ -2897,7 +2897,7 @@
                 "archived": false,
                 "id": 1205148314,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T07:51:42Z",
+                "last_commit": "2026-08-19T12:55:34Z",
                 "owner": "obelisk-app",
                 "repo": "obelisk",
                 "stars": 29
@@ -3047,7 +3047,7 @@
                 "archived": false,
                 "id": 925445505,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T07:59:54Z",
+                "last_commit": "2026-08-19T15:50:03Z",
                 "owner": "BoldBitcoinWallet",
                 "repo": "BoldWallet",
                 "stars": 22
@@ -3557,7 +3557,7 @@
                 "archived": false,
                 "id": 1304760444,
                 "language": "Zig",
-                "last_commit": "2026-08-19T12:38:45Z",
+                "last_commit": "2026-08-19T13:23:46Z",
                 "owner": "zig-nostr",
                 "repo": "plaza",
                 "stars": 7
@@ -4014,7 +4014,7 @@
                 "archived": false,
                 "id": 795638797,
                 "language": "Dart",
-                "last_commit": "2026-08-19T04:03:16Z",
+                "last_commit": "2026-08-19T17:57:29Z",
                 "owner": "MostroP2P",
                 "repo": "mobile",
                 "stars": 68
@@ -4029,7 +4029,7 @@
                 "archived": false,
                 "id": 1154829623,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:52Z",
+                "last_commit": "2026-08-19T17:47:25Z",
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 7
@@ -4044,7 +4044,7 @@
                 "archived": false,
                 "id": 1154829623,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:52Z",
+                "last_commit": "2026-08-19T17:47:25Z",
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 7
@@ -4216,7 +4216,7 @@
             "last_commit": "2026-08-19T05:41:10Z",
             "owner": "nostrdevkit",
             "repo": "nostr",
-            "stars": 666
+            "stars": 667
           }
         },
         {
@@ -4543,7 +4543,7 @@
             "archived": false,
             "id": 862025266,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:21:33Z",
+            "last_commit": "2026-08-19T18:10:30Z",
             "owner": "hzrd149",
             "repo": "applesauce",
             "stars": 50
@@ -4663,7 +4663,7 @@
             "archived": false,
             "id": 701688640,
             "language": "Dart",
-            "last_commit": "2026-08-19T12:21:16Z",
+            "last_commit": "2026-08-19T17:24:24Z",
             "owner": "relaystr",
             "repo": "ndk",
             "stars": 27
@@ -4783,7 +4783,7 @@
             "archived": false,
             "id": 951148983,
             "language": "Rust",
-            "last_commit": "2026-08-16T07:46:17Z",
+            "last_commit": "2026-08-19T15:49:44Z",
             "owner": "nostrdevkit",
             "repo": "nostr-sdk-ffi",
             "stars": 17
@@ -5425,10 +5425,10 @@
             "archived": false,
             "id": 1179199801,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:10:12Z",
+            "last_commit": "2026-08-19T17:21:43Z",
             "owner": "mmalmi",
             "repo": "nostr-vpn",
-            "stars": 1140
+            "stars": 1142
           }
         },
         {
@@ -5440,10 +5440,10 @@
             "archived": false,
             "id": 1172886754,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:48:26Z",
+            "last_commit": "2026-08-19T16:02:46Z",
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 673
+            "stars": 674
           }
         },
         {
@@ -6085,7 +6085,7 @@
             "archived": false,
             "id": 951002601,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:37:26Z",
+            "last_commit": "2026-08-19T15:15:47Z",
             "owner": "dergigi",
             "repo": "ants",
             "stars": 20
@@ -7205,7 +7205,7 @@
             "archived": false,
             "id": 671206453,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T11:18:24Z",
+            "last_commit": "2026-08-19T17:33:12Z",
             "owner": "greenart7c3",
             "repo": "Amber",
             "stars": 340
@@ -7295,7 +7295,7 @@
             "archived": false,
             "id": 1062050081,
             "language": "Dart",
-            "last_commit": "2026-08-18T18:37:33Z",
+            "last_commit": "2026-08-19T14:06:43Z",
             "owner": "mplorentz",
             "repo": "horcrux",
             "stars": 20
@@ -7325,7 +7325,7 @@
             "archived": false,
             "id": 1118579649,
             "language": "Rust",
-            "last_commit": "2026-08-19T01:23:44Z",
+            "last_commit": "2026-08-19T16:39:30Z",
             "owner": "privkeyio",
             "repo": "keep",
             "stars": 14
@@ -7340,7 +7340,7 @@
             "archived": false,
             "id": 1118579649,
             "language": "Rust",
-            "last_commit": "2026-08-19T01:23:44Z",
+            "last_commit": "2026-08-19T16:39:30Z",
             "owner": "privkeyio",
             "repo": "keep",
             "stars": 14
@@ -7370,7 +7370,7 @@
             "archived": false,
             "id": 1141467006,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T04:34:46Z",
+            "last_commit": "2026-08-19T16:39:20Z",
             "owner": "privkeyio",
             "repo": "keep-android",
             "stars": 9
@@ -7562,7 +7562,7 @@
             "archived": false,
             "id": 569861981,
             "language": "Rust",
-            "last_commit": "2026-08-19T04:06:57Z",
+            "last_commit": "2026-08-19T18:11:05Z",
             "owner": "MostroP2P",
             "repo": "mostro",
             "stars": 321
@@ -7874,7 +7874,7 @@
             "archived": false,
             "id": 587850619,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T06:03:16Z",
+            "last_commit": "2026-08-19T17:15:17Z",
             "owner": "vitorpamplona",
             "repo": "amethyst",
             "stars": 1587
@@ -7889,7 +7889,7 @@
             "archived": false,
             "id": 605404233,
             "language": "Svelte",
-            "last_commit": "2026-08-19T07:43:26Z",
+            "last_commit": "2026-08-19T16:46:29Z",
             "owner": "SnowCait",
             "repo": "nostter",
             "stars": 178
@@ -8054,7 +8054,7 @@
             "archived": false,
             "id": 1255636519,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T14:44:02Z",
+            "last_commit": "2026-08-19T15:36:20Z",
             "owner": "lawalletio",
             "repo": "lawallet-nwc",
             "stars": 3
@@ -8075,7 +8075,7 @@
             "archived": false,
             "id": 171051201,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T01:55:14Z",
+            "last_commit": "2026-08-19T14:02:40Z",
             "owner": "ZeusLN",
             "repo": "zeus",
             "stars": 1398
@@ -8093,7 +8093,7 @@
             "last_commit": "2026-08-10T07:25:42Z",
             "owner": "lnbits",
             "repo": "lnbits",
-            "stars": 1231
+            "stars": 1232
           }
         },
         {
@@ -8231,7 +8231,7 @@
             "archived": false,
             "id": 1206299549,
             "language": "TypeScript",
-            "last_commit": "2026-07-30T12:47:39Z",
+            "last_commit": "2026-08-19T16:18:03Z",
             "owner": "elisymlabs",
             "repo": "elisym",
             "stars": 12
@@ -8246,7 +8246,7 @@
             "archived": false,
             "id": 1206299549,
             "language": "TypeScript",
-            "last_commit": "2026-07-30T12:47:39Z",
+            "last_commit": "2026-08-19T16:18:03Z",
             "owner": "elisymlabs",
             "repo": "elisym",
             "stars": 12
@@ -8402,7 +8402,7 @@
             "archived": false,
             "id": 1148249299,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:33:56Z",
+            "last_commit": "2026-08-19T12:48:48Z",
             "owner": "nostr-wot",
             "repo": "nostr-wot-extension",
             "stars": 8
@@ -8992,7 +8992,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:42:07.450Z",
+    "last_updated": "2026-08-19T18:26:31.537Z",
     "original_repository": "aljazceru/awesome-nostr",
     "original_repository_id": 450941276,
     "original_repository_sha": "bb9be0ad01a701ce039fe12fd1fa4c02f3685dca",
