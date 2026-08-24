@@ -15,7 +15,7 @@
             "last_commit": "2025-06-27T20:23:51Z",
             "owner": "nostr-protocol",
             "repo": "nostr",
-            "stars": 11991
+            "stars": 11993
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 487510752,
             "language": null,
-            "last_commit": "2026-08-19T00:10:00Z",
+            "last_commit": "2026-08-24T16:54:49Z",
             "owner": "nostr-protocol",
             "repo": "nips",
             "stars": 3084
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 482383845,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T16:49:44Z",
+                "last_commit": "2026-08-24T18:31:03Z",
                 "owner": "cameri",
                 "repo": "nostream",
                 "stars": 820
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 861510952,
                 "language": "Go",
-                "last_commit": "2026-06-18T15:28:16Z",
+                "last_commit": "2026-08-24T17:29:00Z",
                 "owner": "barrydeen",
                 "repo": "haven",
                 "stars": 194
@@ -1480,7 +1480,7 @@
                 "archived": false,
                 "id": 1002271234,
                 "language": "Dart",
-                "last_commit": "2026-08-24T13:42:52Z",
+                "last_commit": "2026-08-24T18:28:48Z",
                 "owner": "divinevideo",
                 "repo": "divine-mobile",
                 "stars": 265
@@ -1555,7 +1555,7 @@
                 "archived": false,
                 "id": 849554141,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:15:55Z",
+                "last_commit": "2026-08-24T15:32:42Z",
                 "owner": "v0l",
                 "repo": "zap-stream-core",
                 "stars": 25
@@ -1597,10 +1597,10 @@
               "description": "Browser extension for Nostr media discovery.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "id": 1180295189,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T01:14:36Z",
+                "last_commit": "2026-08-24T14:49:12Z",
                 "owner": "shawnyeager",
                 "repo": "flora-extension",
                 "stars": 6
@@ -1715,7 +1715,7 @@
                 "last_commit": "2026-08-24T08:52:06Z",
                 "owner": "Spl0itable",
                 "repo": "NYM",
-                "stars": 70
+                "stars": 71
               }
             },
             {
@@ -1824,10 +1824,10 @@
                 "archived": false,
                 "id": 1174789082,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:00:14Z",
+                "last_commit": "2026-08-24T18:20:11Z",
                 "owner": "block",
                 "repo": "buzz",
-                "stars": 30394
+                "stars": 30435
               }
             },
             {
@@ -1839,10 +1839,10 @@
                 "archived": false,
                 "id": 1174789082,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:00:14Z",
+                "last_commit": "2026-08-24T18:20:11Z",
                 "owner": "block",
                 "repo": "buzz",
-                "stars": 30394
+                "stars": 30435
               }
             },
             {
@@ -1854,7 +1854,7 @@
                 "archived": false,
                 "id": 587850619,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T13:22:48Z",
+                "last_commit": "2026-08-24T15:46:36Z",
                 "owner": "vitorpamplona",
                 "repo": "amethyst",
                 "stars": 1590
@@ -1959,10 +1959,10 @@
                 "archived": false,
                 "id": 579689245,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T23:03:26Z",
+                "last_commit": "2026-08-24T16:11:45Z",
                 "owner": "v0l",
                 "repo": "snort",
-                "stars": 344
+                "stars": 345
               }
             },
             {
@@ -2034,7 +2034,7 @@
                 "archived": false,
                 "id": 1021671308,
                 "language": "Rust",
-                "last_commit": "2026-08-24T12:15:24Z",
+                "last_commit": "2026-08-24T17:25:13Z",
                 "owner": "VectorPrivacy",
                 "repo": "Vector",
                 "stars": 227
@@ -2079,7 +2079,7 @@
                 "archived": false,
                 "id": 878484385,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:39:10Z",
+                "last_commit": "2026-08-24T14:29:12Z",
                 "owner": "CodyTseng",
                 "repo": "jumble",
                 "stars": 216
@@ -2229,7 +2229,7 @@
                 "archived": false,
                 "id": 215791627,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T18:29:40Z",
+                "last_commit": "2026-08-24T18:29:26Z",
                 "owner": "shocknet",
                 "repo": "Lightning.Pub",
                 "stars": 94
@@ -2424,7 +2424,7 @@
                 "archived": false,
                 "id": 737144601,
                 "language": "Rust",
-                "last_commit": "2026-08-17T21:08:43Z",
+                "last_commit": "2026-08-24T16:03:51Z",
                 "owner": "akiomik",
                 "repo": "nostui",
                 "stars": 68
@@ -2469,7 +2469,7 @@
                 "archived": false,
                 "id": 631746152,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T04:49:39Z",
+                "last_commit": "2026-08-24T17:03:31Z",
                 "owner": "arkin0x",
                 "repo": "cyberspace",
                 "stars": 67
@@ -2604,7 +2604,7 @@
                 "archived": false,
                 "id": 585619089,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T18:16:07Z",
+                "last_commit": "2026-08-24T18:14:00Z",
                 "owner": "carlitoplatanito",
                 "repo": "disgus",
                 "stars": 53
@@ -2754,7 +2754,7 @@
                 "archived": false,
                 "id": 1110571941,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T13:55:30Z",
+                "last_commit": "2026-08-24T16:17:24Z",
                 "owner": "nostrord",
                 "repo": "nostrord",
                 "stars": 39
@@ -3219,7 +3219,7 @@
                 "archived": false,
                 "id": 1099354844,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T11:28:42Z",
+                "last_commit": "2026-08-24T17:48:35Z",
                 "owner": "arbadacarbaYK",
                 "repo": "gittr",
                 "stars": 16
@@ -3834,7 +3834,7 @@
                 "archived": false,
                 "id": 1167734557,
                 "language": "C#",
-                "last_commit": "2026-08-24T14:00:15Z",
+                "last_commit": "2026-08-24T14:39:30Z",
                 "owner": "DavidGershony",
                 "repo": "Scramble",
                 "stars": 3
@@ -4036,7 +4036,7 @@
                 "archived": false,
                 "id": 795638797,
                 "language": "Dart",
-                "last_commit": "2026-08-24T12:37:35Z",
+                "last_commit": "2026-08-24T17:44:28Z",
                 "owner": "MostroP2P",
                 "repo": "mobile",
                 "stars": 69
@@ -4051,7 +4051,7 @@
                 "archived": false,
                 "id": 1154829623,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:39:22Z",
+                "last_commit": "2026-08-24T18:31:27Z",
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 7
@@ -4066,7 +4066,7 @@
                 "archived": false,
                 "id": 1154829623,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:39:22Z",
+                "last_commit": "2026-08-24T18:31:27Z",
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 7
@@ -4094,7 +4094,7 @@
             "archived": false,
             "id": 487510752,
             "language": null,
-            "last_commit": "2026-08-19T00:10:00Z",
+            "last_commit": "2026-08-24T16:54:49Z",
             "owner": "nostr-protocol",
             "repo": "nips",
             "stars": 3084
@@ -4170,7 +4170,7 @@
             "archived": false,
             "id": 487510752,
             "language": null,
-            "last_commit": "2026-08-19T00:10:00Z",
+            "last_commit": "2026-08-24T16:54:49Z",
             "owner": "nostr-protocol",
             "repo": "nips",
             "stars": 3084
@@ -4694,7 +4694,7 @@
             "archived": false,
             "id": 701688640,
             "language": "Dart",
-            "last_commit": "2026-08-22T14:49:59Z",
+            "last_commit": "2026-08-24T18:09:38Z",
             "owner": "relaystr",
             "repo": "ndk",
             "stars": 27
@@ -4882,6 +4882,21 @@
         },
         {
           "node_type": "item",
+          "title": "libnostr-c",
+          "description": "A lightweight C library implementing the Nostr protocol with NIP-44 encryption and Lightning support, optimized for embedded systems like ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1031589429,
+            "language": "C",
+            "last_commit": "2026-08-03T21:36:42Z",
+            "owner": "privkeyio",
+            "repo": "libnostr-c",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
           "title": "nostr-one",
           "description": "A reusable web component that provides a simple way to integrate with nostr NIP 98 HTTP Auth.",
           "children": [],
@@ -4937,21 +4952,6 @@
             "last_commit": "2025-11-07T21:02:57Z",
             "owner": "anasfik",
             "repo": "flutter_nostr",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libnostr-c",
-          "description": "A lightweight C library implementing the Nostr protocol with NIP-44 encryption and Lightning support, optimized for embedded systems like ESP32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1031589429,
-            "language": "C",
-            "last_commit": "2026-08-03T21:36:42Z",
-            "owner": "privkeyio",
-            "repo": "libnostr-c",
             "stars": 11
           }
         },
@@ -5405,7 +5405,7 @@
             "archived": false,
             "id": 1105167461,
             "language": "Go",
-            "last_commit": "2026-08-21T23:47:41Z",
+            "last_commit": "2026-08-24T15:11:23Z",
             "owner": "arbadacarbaYK",
             "repo": "gitnostr",
             "stars": 1
@@ -5429,7 +5429,7 @@
             "last_commit": "2026-08-24T08:07:32Z",
             "owner": "spacecowboy",
             "repo": "Feeder",
-            "stars": 2983
+            "stars": 2984
           }
         },
         {
@@ -5456,10 +5456,10 @@
             "archived": false,
             "id": 1172886754,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T19:48:28Z",
+            "last_commit": "2026-08-24T16:06:01Z",
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 679
+            "stars": 685
           }
         },
         {
@@ -6086,7 +6086,7 @@
             "archived": false,
             "id": 603136405,
             "language": "JavaScript",
-            "last_commit": "2026-07-01T08:15:29Z",
+            "last_commit": "2026-08-24T18:25:46Z",
             "owner": "snow-actions",
             "repo": "nostr",
             "stars": 20
@@ -6326,7 +6326,7 @@
             "archived": false,
             "id": 1023334001,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:59:57Z",
+            "last_commit": "2026-08-24T17:17:30Z",
             "owner": "Lokuyow",
             "repo": "ehagaki",
             "stars": 14
@@ -6986,7 +6986,7 @@
             "archived": false,
             "id": 1190966177,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T06:10:07Z",
+            "last_commit": "2026-08-24T17:56:02Z",
             "owner": "forgesworn",
             "repo": "bray",
             "stars": 0
@@ -7001,7 +7001,7 @@
             "archived": false,
             "id": 1105379401,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:47:45Z",
+            "last_commit": "2026-08-24T15:11:23Z",
             "owner": "arbadacarbaYK",
             "repo": "gittr-helper-tools",
             "stars": 0
@@ -7274,21 +7274,6 @@
         },
         {
           "node_type": "item",
-          "title": "keechain",
-          "description": "Bitcoin application to transform your offline computer in an AirGap Signing Device (aka Hardware Wallet) with support to and .",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "id": 570625115,
-            "language": "Rust",
-            "last_commit": "2024-11-15T19:25:58Z",
-            "owner": "yukibtc",
-            "repo": "keechain",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
           "title": "signet",
           "description": "NIP-46 remote signer with a web UI and Android app. Allows users to sign events with custom trust level policy, DM kill switch commands, built-in dead man's switch, bunker and nostrconnect support.",
           "children": [],
@@ -7299,6 +7284,21 @@
             "last_commit": "2026-06-29T04:24:22Z",
             "owner": "Letdown2491",
             "repo": "signet",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keechain",
+          "description": "Bitcoin application to transform your offline computer in an AirGap Signing Device (aka Hardware Wallet) with support to and .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 570625115,
+            "language": "Rust",
+            "last_commit": "2024-11-15T19:25:58Z",
+            "owner": "yukibtc",
+            "repo": "keechain",
             "stars": 27
           }
         },
@@ -7341,7 +7341,7 @@
             "archived": false,
             "id": 1118579649,
             "language": "Rust",
-            "last_commit": "2026-08-23T20:29:07Z",
+            "last_commit": "2026-08-24T18:23:52Z",
             "owner": "privkeyio",
             "repo": "keep",
             "stars": 15
@@ -7356,7 +7356,7 @@
             "archived": false,
             "id": 1118579649,
             "language": "Rust",
-            "last_commit": "2026-08-23T20:29:07Z",
+            "last_commit": "2026-08-24T18:23:52Z",
             "owner": "privkeyio",
             "repo": "keep",
             "stars": 15
@@ -7647,7 +7647,7 @@
             "last_commit": "2026-03-21T23:20:09Z",
             "owner": "fiatjaf",
             "repo": "nos2x",
-            "stars": 388
+            "stars": 389
           }
         },
         {
@@ -7890,7 +7890,7 @@
             "archived": false,
             "id": 587850619,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T13:22:48Z",
+            "last_commit": "2026-08-24T15:46:36Z",
             "owner": "vitorpamplona",
             "repo": "amethyst",
             "stars": 1590
@@ -8091,7 +8091,7 @@
             "archived": false,
             "id": 171051201,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:19:16Z",
+            "last_commit": "2026-08-24T17:10:09Z",
             "owner": "ZeusLN",
             "repo": "zeus",
             "stars": 1398
@@ -8106,7 +8106,7 @@
             "archived": false,
             "id": 226972903,
             "language": "Python",
-            "last_commit": "2026-08-24T12:29:25Z",
+            "last_commit": "2026-08-24T14:20:53Z",
             "owner": "lnbits",
             "repo": "lnbits",
             "stars": 1232
@@ -9050,7 +9050,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:15.681Z",
+    "last_updated": "2026-08-24T18:32:18.551Z",
     "original_repository": "aljazceru/awesome-nostr",
     "original_repository_id": 450941276,
     "original_repository_sha": "bb9be0ad01a701ce039fe12fd1fa4c02f3685dca",
