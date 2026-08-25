@@ -15,7 +15,7 @@
             "last_commit": "2025-06-27T20:23:51Z",
             "owner": "nostr-protocol",
             "repo": "nostr",
-            "stars": 11993
+            "stars": 11997
           }
         },
         {
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 482383845,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:31:03Z",
+                "last_commit": "2026-08-25T01:09:26Z",
                 "owner": "cameri",
                 "repo": "nostream",
                 "stars": 820
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-20T14:11:38Z",
                 "owner": "hoytech",
                 "repo": "strfry",
-                "stars": 715
+                "stars": 716
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-24T17:29:00Z",
                 "owner": "barrydeen",
                 "repo": "haven",
-                "stars": 194
+                "stars": 195
               }
             },
             {
@@ -1086,7 +1086,7 @@
                 "archived": false,
                 "id": 898776490,
                 "language": "Go",
-                "last_commit": "2025-02-19T14:02:53Z",
+                "last_commit": "2026-08-24T23:55:06Z",
                 "owner": "bitvora",
                 "repo": "sw2",
                 "stars": 11
@@ -1480,7 +1480,7 @@
                 "archived": false,
                 "id": 1002271234,
                 "language": "Dart",
-                "last_commit": "2026-08-24T18:28:48Z",
+                "last_commit": "2026-08-25T03:47:48Z",
                 "owner": "divinevideo",
                 "repo": "divine-mobile",
                 "stars": 265
@@ -1697,7 +1697,7 @@
                 "archived": false,
                 "id": 1126672238,
                 "language": "Dart",
-                "last_commit": "2026-08-07T00:22:43Z",
+                "last_commit": "2026-08-24T20:43:22Z",
                 "owner": "nogringo",
                 "repo": "nostr-mail-client",
                 "stars": 78
@@ -1745,7 +1745,7 @@
                 "last_commit": "2026-04-27T16:43:45Z",
                 "owner": "justinmoon",
                 "repo": "pika",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -1824,10 +1824,10 @@
                 "archived": false,
                 "id": 1174789082,
                 "language": "Rust",
-                "last_commit": "2026-08-24T18:20:11Z",
+                "last_commit": "2026-08-25T05:38:43Z",
                 "owner": "block",
                 "repo": "buzz",
-                "stars": 30435
+                "stars": 30528
               }
             },
             {
@@ -1839,10 +1839,10 @@
                 "archived": false,
                 "id": 1174789082,
                 "language": "Rust",
-                "last_commit": "2026-08-24T18:20:11Z",
+                "last_commit": "2026-08-25T05:38:43Z",
                 "owner": "block",
                 "repo": "buzz",
-                "stars": 30435
+                "stars": 30528
               }
             },
             {
@@ -2012,21 +2012,6 @@
             },
             {
               "node_type": "item",
-              "title": "algia",
-              "description": "A cli application for nostr.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 601848341,
-                "language": "Go",
-                "last_commit": "2026-07-31T15:45:09Z",
-                "owner": "mattn",
-                "repo": "algia",
-                "stars": 227
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Vector",
               "description": "A privacy-focused encrypted messenger built on Nostr using NIP-17, with zero metadata leakage. Available for Windows, macOS, Linux, and Android.",
               "children": [],
@@ -2037,6 +2022,21 @@
                 "last_commit": "2026-08-24T17:25:13Z",
                 "owner": "VectorPrivacy",
                 "repo": "Vector",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "algia",
+              "description": "A cli application for nostr.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601848341,
+                "language": "Go",
+                "last_commit": "2026-07-31T15:45:09Z",
+                "owner": "mattn",
+                "repo": "algia",
                 "stars": 227
               }
             },
@@ -2229,7 +2229,7 @@
                 "archived": false,
                 "id": 215791627,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:29:26Z",
+                "last_commit": "2026-08-24T19:53:55Z",
                 "owner": "shocknet",
                 "repo": "Lightning.Pub",
                 "stars": 94
@@ -2469,7 +2469,7 @@
                 "archived": false,
                 "id": 631746152,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T17:03:31Z",
+                "last_commit": "2026-08-25T03:03:41Z",
                 "owner": "arkin0x",
                 "repo": "cyberspace",
                 "stars": 67
@@ -2604,7 +2604,7 @@
                 "archived": false,
                 "id": 585619089,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T18:14:00Z",
+                "last_commit": "2026-08-25T04:51:50Z",
                 "owner": "carlitoplatanito",
                 "repo": "disgus",
                 "stars": 53
@@ -3219,7 +3219,7 @@
                 "archived": false,
                 "id": 1099354844,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:48:35Z",
+                "last_commit": "2026-08-24T21:25:54Z",
                 "owner": "arbadacarbaYK",
                 "repo": "gittr",
                 "stars": 16
@@ -3579,7 +3579,7 @@
                 "archived": false,
                 "id": 1304760444,
                 "language": "Zig",
-                "last_commit": "2026-08-24T10:58:25Z",
+                "last_commit": "2026-08-24T20:26:30Z",
                 "owner": "zig-nostr",
                 "repo": "plaza",
                 "stars": 7
@@ -3834,7 +3834,7 @@
                 "archived": false,
                 "id": 1167734557,
                 "language": "C#",
-                "last_commit": "2026-08-24T14:39:30Z",
+                "last_commit": "2026-08-24T19:48:19Z",
                 "owner": "DavidGershony",
                 "repo": "Scramble",
                 "stars": 3
@@ -3954,7 +3954,7 @@
                 "archived": false,
                 "id": 1162649168,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:34:40Z",
+                "last_commit": "2026-08-24T23:58:09Z",
                 "owner": "lonniev",
                 "repo": "dpyc-oracle",
                 "stars": 0
@@ -4036,10 +4036,10 @@
                 "archived": false,
                 "id": 795638797,
                 "language": "Dart",
-                "last_commit": "2026-08-24T17:44:28Z",
+                "last_commit": "2026-08-25T00:33:37Z",
                 "owner": "MostroP2P",
                 "repo": "mobile",
-                "stars": 69
+                "stars": 70
               }
             },
             {
@@ -4051,7 +4051,7 @@
                 "archived": false,
                 "id": 1154829623,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:31:27Z",
+                "last_commit": "2026-08-25T04:13:37Z",
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 7
@@ -4066,7 +4066,7 @@
                 "archived": false,
                 "id": 1154829623,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:31:27Z",
+                "last_commit": "2026-08-25T04:13:37Z",
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 7
@@ -5456,10 +5456,10 @@
             "archived": false,
             "id": 1172886754,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T16:06:01Z",
+            "last_commit": "2026-08-24T22:09:26Z",
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 685
+            "stars": 687
           }
         },
         {
@@ -5471,7 +5471,7 @@
             "archived": false,
             "id": 3557653,
             "language": "Python",
-            "last_commit": "2026-08-22T21:02:39Z",
+            "last_commit": "2026-08-24T22:14:05Z",
             "owner": "snarfed",
             "repo": "granary",
             "stars": 517
@@ -6086,7 +6086,7 @@
             "archived": false,
             "id": 603136405,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T18:25:46Z",
+            "last_commit": "2026-08-25T05:53:46Z",
             "owner": "snow-actions",
             "repo": "nostr",
             "stars": 20
@@ -6326,7 +6326,7 @@
             "archived": false,
             "id": 1023334001,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:17:30Z",
+            "last_commit": "2026-08-25T02:27:58Z",
             "owner": "Lokuyow",
             "repo": "ehagaki",
             "stars": 14
@@ -7089,7 +7089,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "dmnyc/ghostr",
               "description": "source code",
               "children": [],
               "repo_info": {
@@ -7269,7 +7269,7 @@
             "last_commit": "2026-05-17T14:46:00Z",
             "owner": "ZharlieW",
             "repo": "Aegis",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -7341,7 +7341,7 @@
             "archived": false,
             "id": 1118579649,
             "language": "Rust",
-            "last_commit": "2026-08-24T18:23:52Z",
+            "last_commit": "2026-08-24T21:31:26Z",
             "owner": "privkeyio",
             "repo": "keep",
             "stars": 15
@@ -7356,7 +7356,7 @@
             "archived": false,
             "id": 1118579649,
             "language": "Rust",
-            "last_commit": "2026-08-24T18:23:52Z",
+            "last_commit": "2026-08-24T21:31:26Z",
             "owner": "privkeyio",
             "repo": "keep",
             "stars": 15
@@ -7386,7 +7386,7 @@
             "archived": false,
             "id": 1141467006,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T18:23:15Z",
+            "last_commit": "2026-08-24T20:20:22Z",
             "owner": "privkeyio",
             "repo": "keep-android",
             "stars": 9
@@ -7647,7 +7647,7 @@
             "last_commit": "2026-03-21T23:20:09Z",
             "owner": "fiatjaf",
             "repo": "nos2x",
-            "stars": 389
+            "stars": 390
           }
         },
         {
@@ -8091,7 +8091,7 @@
             "archived": false,
             "id": 171051201,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:10:09Z",
+            "last_commit": "2026-08-24T23:21:07Z",
             "owner": "ZeusLN",
             "repo": "zeus",
             "stars": 1398
@@ -8247,7 +8247,7 @@
             "archived": false,
             "id": 1206299549,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:46:13Z",
+            "last_commit": "2026-08-24T22:51:01Z",
             "owner": "elisymlabs",
             "repo": "elisym",
             "stars": 12
@@ -8262,7 +8262,7 @@
             "archived": false,
             "id": 1206299549,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:46:13Z",
+            "last_commit": "2026-08-24T22:51:01Z",
             "owner": "elisymlabs",
             "repo": "elisym",
             "stars": 12
@@ -8285,7 +8285,7 @@
         },
         {
           "node_type": "item",
-          "title": "2020117",
+          "title": "qingfeng/2020117",
           "description": "A decentralized agent network on Nostr",
           "children": [],
           "repo_info": {
@@ -9050,7 +9050,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:32:18.551Z",
+    "last_updated": "2026-08-25T05:54:16.471Z",
     "original_repository": "aljazceru/awesome-nostr",
     "original_repository_id": 450941276,
     "original_repository_sha": "bb9be0ad01a701ce039fe12fd1fa4c02f3685dca",
