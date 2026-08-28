@@ -27,10 +27,10 @@
             "archived": false,
             "id": 487510752,
             "language": null,
-            "last_commit": "2026-08-26T18:33:31Z",
+            "last_commit": "2026-08-27T15:14:05Z",
             "owner": "nostr-protocol",
             "repo": "nips",
-            "stars": 3090
+            "stars": 3093
           }
         },
         {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-27T01:47:57Z",
                 "owner": "cameri",
                 "repo": "nostream",
-                "stars": 821
+                "stars": 822
               }
             },
             {
@@ -200,7 +200,7 @@
                 "archived": false,
                 "id": 580128737,
                 "language": "C++",
-                "last_commit": "2026-08-26T19:47:28Z",
+                "last_commit": "2026-08-27T18:53:16Z",
                 "owner": "hoytech",
                 "repo": "strfry",
                 "stars": 716
@@ -338,7 +338,7 @@
                 "last_commit": "2026-06-18T09:03:46Z",
                 "owner": "Spl0itable",
                 "repo": "nosflare",
-                "stars": 109
+                "stars": 110
               }
             },
             {
@@ -1041,7 +1041,7 @@
                 "archived": false,
                 "id": 721745659,
                 "language": "Java",
-                "last_commit": "2026-08-27T06:44:35Z",
+                "last_commit": "2026-08-28T00:07:49Z",
                 "owner": "avlo",
                 "repo": "superconductor",
                 "stars": 14
@@ -1370,7 +1370,7 @@
                 "archived": false,
                 "id": 1043652948,
                 "language": "HTML",
-                "last_commit": "2026-08-26T07:32:06Z",
+                "last_commit": "2026-08-27T18:03:40Z",
                 "owner": "permissionlesstech",
                 "repo": "georelays",
                 "stars": 130
@@ -1480,10 +1480,10 @@
                 "archived": false,
                 "id": 1002271234,
                 "language": "Dart",
-                "last_commit": "2026-08-27T08:32:06Z",
+                "last_commit": "2026-08-28T01:58:51Z",
                 "owner": "divinevideo",
                 "repo": "divine-mobile",
-                "stars": 263
+                "stars": 264
               }
             },
             {
@@ -1588,7 +1588,7 @@
                 "last_commit": "2026-04-09T04:48:15Z",
                 "owner": "suhailsaqan",
                 "repo": "swae",
-                "stars": 11
+                "stars": 12
               }
             },
             {
@@ -1712,7 +1712,7 @@
                 "archived": false,
                 "id": 1043110440,
                 "language": "Dart",
-                "last_commit": "2026-08-27T11:27:53Z",
+                "last_commit": "2026-08-27T14:38:00Z",
                 "owner": "Spl0itable",
                 "repo": "NYM",
                 "stars": 71
@@ -1824,10 +1824,10 @@
                 "archived": false,
                 "id": 1174789082,
                 "language": "Rust",
-                "last_commit": "2026-08-27T08:59:17Z",
+                "last_commit": "2026-08-28T01:59:51Z",
                 "owner": "block",
                 "repo": "buzz",
-                "stars": 31042
+                "stars": 31149
               }
             },
             {
@@ -1839,10 +1839,10 @@
                 "archived": false,
                 "id": 1174789082,
                 "language": "Rust",
-                "last_commit": "2026-08-27T08:59:17Z",
+                "last_commit": "2026-08-28T01:59:51Z",
                 "owner": "block",
                 "repo": "buzz",
-                "stars": 31042
+                "stars": 31149
               }
             },
             {
@@ -1854,7 +1854,7 @@
                 "archived": false,
                 "id": 587850619,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T05:16:44Z",
+                "last_commit": "2026-08-27T23:52:39Z",
                 "owner": "vitorpamplona",
                 "repo": "amethyst",
                 "stars": 1590
@@ -1944,7 +1944,7 @@
                 "archived": false,
                 "id": 570628699,
                 "language": "Svelte",
-                "last_commit": "2026-08-23T02:27:37Z",
+                "last_commit": "2026-08-28T01:02:34Z",
                 "owner": "coracle-social",
                 "repo": "coracle",
                 "stars": 365
@@ -1989,7 +1989,7 @@
                 "archived": false,
                 "id": 663120447,
                 "language": "Rust",
-                "last_commit": "2026-08-21T17:52:29Z",
+                "last_commit": "2026-08-27T19:02:37Z",
                 "owner": "damus-io",
                 "repo": "notedeck",
                 "stars": 311
@@ -2079,7 +2079,7 @@
                 "archived": false,
                 "id": 878484385,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:29:12Z",
+                "last_commit": "2026-08-27T14:29:31Z",
                 "owner": "CodyTseng",
                 "repo": "jumble",
                 "stars": 216
@@ -2124,7 +2124,7 @@
                 "archived": false,
                 "id": 605404233,
                 "language": "Svelte",
-                "last_commit": "2026-08-27T01:49:06Z",
+                "last_commit": "2026-08-28T01:58:44Z",
                 "owner": "SnowCait",
                 "repo": "nostter",
                 "stars": 178
@@ -2337,7 +2337,7 @@
                 "last_commit": "2026-08-17T10:27:34Z",
                 "owner": "formstr-hq",
                 "repo": "nostr-forms",
-                "stars": 80
+                "stars": 81
               }
             },
             {
@@ -2469,7 +2469,7 @@
                 "archived": false,
                 "id": 631746152,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T03:03:41Z",
+                "last_commit": "2026-08-27T19:46:41Z",
                 "owner": "arkin0x",
                 "repo": "cyberspace",
                 "stars": 67
@@ -2604,7 +2604,7 @@
                 "archived": false,
                 "id": 585619089,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T18:10:57Z",
+                "last_commit": "2026-08-27T18:08:31Z",
                 "owner": "carlitoplatanito",
                 "repo": "disgus",
                 "stars": 53
@@ -2709,7 +2709,7 @@
                 "archived": false,
                 "id": 567322453,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:22:28Z",
+                "last_commit": "2026-08-27T13:05:19Z",
                 "owner": "shocknet",
                 "repo": "wallet2",
                 "stars": 44
@@ -2769,7 +2769,7 @@
                 "archived": false,
                 "id": 1113911825,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:12:23Z",
+                "last_commit": "2026-08-27T14:36:08Z",
                 "owner": "purrgrammer",
                 "repo": "grimoire",
                 "stars": 39
@@ -3069,7 +3069,7 @@
                 "archived": false,
                 "id": 925445505,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:45:03Z",
+                "last_commit": "2026-08-27T19:00:54Z",
                 "owner": "BoldBitcoinWallet",
                 "repo": "BoldWallet",
                 "stars": 22
@@ -3159,7 +3159,7 @@
                 "archived": false,
                 "id": 598916956,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:37:37Z",
+                "last_commit": "2026-08-28T01:02:29Z",
                 "owner": "mouse484",
                 "repo": "astraea",
                 "stars": 17
@@ -4036,7 +4036,7 @@
                 "archived": false,
                 "id": 795638797,
                 "language": "Dart",
-                "last_commit": "2026-08-26T20:47:19Z",
+                "last_commit": "2026-08-27T22:44:58Z",
                 "owner": "MostroP2P",
                 "repo": "mobile",
                 "stars": 72
@@ -4051,7 +4051,7 @@
                 "archived": false,
                 "id": 1154829623,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T01:57:44Z",
+                "last_commit": "2026-08-28T00:29:20Z",
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 7
@@ -4066,7 +4066,7 @@
                 "archived": false,
                 "id": 1154829623,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T01:57:44Z",
+                "last_commit": "2026-08-28T00:29:20Z",
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 7
@@ -4094,10 +4094,10 @@
             "archived": false,
             "id": 487510752,
             "language": null,
-            "last_commit": "2026-08-26T18:33:31Z",
+            "last_commit": "2026-08-27T15:14:05Z",
             "owner": "nostr-protocol",
             "repo": "nips",
-            "stars": 3090
+            "stars": 3093
           },
           "title": "Nostr Marketplace clients (NIP-15 & NIP-99)"
         },
@@ -4170,10 +4170,10 @@
             "archived": false,
             "id": 487510752,
             "language": null,
-            "last_commit": "2026-08-26T18:33:31Z",
+            "last_commit": "2026-08-27T15:14:05Z",
             "owner": "nostr-protocol",
             "repo": "nips",
-            "stars": 3090
+            "stars": 3093
           },
           "title": "Web Bookmarking (NIP-B0)"
         },
@@ -4694,7 +4694,7 @@
             "archived": false,
             "id": 701688640,
             "language": "Dart",
-            "last_commit": "2026-08-27T08:00:21Z",
+            "last_commit": "2026-08-27T17:58:12Z",
             "owner": "relaystr",
             "repo": "ndk",
             "stars": 27
@@ -4724,7 +4724,7 @@
             "archived": false,
             "id": 618895012,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T22:12:30Z",
+            "last_commit": "2026-08-28T00:45:24Z",
             "owner": "coracle-social",
             "repo": "welshman",
             "stars": 27
@@ -5039,7 +5039,7 @@
             "archived": false,
             "id": 1296450280,
             "language": "Zig",
-            "last_commit": "2026-08-21T15:45:47Z",
+            "last_commit": "2026-08-27T23:34:47Z",
             "owner": "zig-nostr",
             "repo": "nostr",
             "stars": 8
@@ -5069,7 +5069,7 @@
             "archived": false,
             "id": 752773506,
             "language": "Java",
-            "last_commit": "2026-08-27T08:01:46Z",
+            "last_commit": "2026-08-27T13:31:09Z",
             "owner": "theborakompanioni",
             "repo": "nostr-spring-boot-starter",
             "stars": 7
@@ -5429,7 +5429,7 @@
             "last_commit": "2026-08-26T10:03:34Z",
             "owner": "spacecowboy",
             "repo": "Feeder",
-            "stars": 2987
+            "stars": 2989
           }
         },
         {
@@ -5456,10 +5456,10 @@
             "archived": false,
             "id": 1172886754,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:54:40Z",
+            "last_commit": "2026-08-27T21:54:10Z",
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 693
+            "stars": 696
           }
         },
         {
@@ -5471,7 +5471,7 @@
             "archived": false,
             "id": 3557653,
             "language": "Python",
-            "last_commit": "2026-08-24T22:14:05Z",
+            "last_commit": "2026-08-27T22:59:13Z",
             "owner": "snarfed",
             "repo": "granary",
             "stars": 517
@@ -5594,7 +5594,7 @@
             "last_commit": "2026-06-18T09:03:46Z",
             "owner": "Spl0itable",
             "repo": "nosflare",
-            "stars": 109
+            "stars": 110
           }
         },
         {
@@ -6341,7 +6341,7 @@
             "archived": false,
             "id": 1023334001,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:24:18Z",
+            "last_commit": "2026-08-27T19:06:10Z",
             "owner": "Lokuyow",
             "repo": "ehagaki",
             "stars": 14
@@ -7470,7 +7470,7 @@
             "last_commit": "2026-08-13T03:16:18Z",
             "owner": "TP-Lab",
             "repo": "key-generator",
-            "stars": 83
+            "stars": 82
           }
         },
         {
@@ -7578,7 +7578,7 @@
             "archived": false,
             "id": 569861981,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:32:33Z",
+            "last_commit": "2026-08-27T20:07:19Z",
             "owner": "MostroP2P",
             "repo": "mostro",
             "stars": 324
@@ -7647,7 +7647,7 @@
             "last_commit": "2026-03-21T23:20:09Z",
             "owner": "fiatjaf",
             "repo": "nos2x",
-            "stars": 391
+            "stars": 392
           }
         },
         {
@@ -7890,7 +7890,7 @@
             "archived": false,
             "id": 587850619,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T05:16:44Z",
+            "last_commit": "2026-08-27T23:52:39Z",
             "owner": "vitorpamplona",
             "repo": "amethyst",
             "stars": 1590
@@ -7905,7 +7905,7 @@
             "archived": false,
             "id": 605404233,
             "language": "Svelte",
-            "last_commit": "2026-08-27T01:49:06Z",
+            "last_commit": "2026-08-28T01:58:44Z",
             "owner": "SnowCait",
             "repo": "nostter",
             "stars": 178
@@ -8091,10 +8091,10 @@
             "archived": false,
             "id": 171051201,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:35:35Z",
+            "last_commit": "2026-08-27T17:01:25Z",
             "owner": "ZeusLN",
             "repo": "zeus",
-            "stars": 1399
+            "stars": 1400
           }
         },
         {
@@ -8109,7 +8109,7 @@
             "last_commit": "2026-08-27T07:31:15Z",
             "owner": "lnbits",
             "repo": "lnbits",
-            "stars": 1232
+            "stars": 1233
           }
         },
         {
@@ -8250,7 +8250,7 @@
             "last_commit": "2026-08-25T22:18:56Z",
             "owner": "elisymlabs",
             "repo": "elisym",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -8265,7 +8265,7 @@
             "last_commit": "2026-08-25T22:18:56Z",
             "owner": "elisymlabs",
             "repo": "elisym",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -8468,21 +8468,6 @@
         },
         {
           "node_type": "item",
-          "title": "nostr-wot-sdk",
-          "description": "JavaScript SDK for Nostr Web of Trust — query trust distance, check network membership, compute trust scores",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1148684649,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T19:24:12Z",
-            "owner": "nostr-wot",
-            "repo": "nostr-wot-sdk",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
           "title": "nostr-wot-oracle",
           "description": "A global follow-graph indexer that answers pairwise distance queries between any two Nostr pubkeys, returning hop count, path count, and bridging nodes.",
           "children": [],
@@ -8493,6 +8478,21 @@
             "last_commit": "2026-06-04T15:05:44Z",
             "owner": "nostr-wot",
             "repo": "nostr-wot-oracle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nostr-wot-sdk",
+          "description": "JavaScript SDK for Nostr Web of Trust — query trust distance, check network membership, compute trust scores",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1148684649,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T19:24:12Z",
+            "owner": "nostr-wot",
+            "repo": "nostr-wot-sdk",
             "stars": 5
           }
         },
@@ -8607,7 +8607,7 @@
             "archived": false,
             "id": 721745659,
             "language": "Java",
-            "last_commit": "2026-08-27T06:44:35Z",
+            "last_commit": "2026-08-28T00:07:49Z",
             "owner": "avlo",
             "repo": "superconductor",
             "stars": 14
@@ -9050,7 +9050,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:54.596Z",
+    "last_updated": "2026-08-28T02:00:01.373Z",
     "original_repository_info": {
       "archived": false,
       "id": 450941276,
