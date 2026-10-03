@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "nostr-protocol",
             "repo": "nostr",
-            "stars": 12067,
+            "stars": 12069,
             "topics": [
               "nostr"
             ]
@@ -42,7 +42,7 @@
             "open_issues": 732,
             "owner": "nostr-protocol",
             "repo": "nips",
-            "stars": 3107,
+            "stars": 3108,
             "topics": [
               "nostr"
             ]
@@ -226,7 +226,7 @@
             "id": 798435885,
             "language": "Shell",
             "license": "Unlicense",
-            "last_commit": "2026-10-02T12:15:29Z",
+            "last_commit": "2026-10-03T13:43:28Z",
             "open_issues": 3,
             "owner": "adamdecaf",
             "repo": "nostr-book",
@@ -245,6 +245,35 @@
             ]
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
+          "title": "opal",
+          "description": "Nostr in your Omarchy bar: NIP-46 signer (bunker) with your nsec in the keyring, notifications, and NIP-38 now-playing/status ⚡ zap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Nostr in your Omarchy bar: NIP-46 signer (bunker) with your nsec in the keyring, notifications, and NIP-38 now-playing/status",
+            "homepage": null,
+            "id": 1386369372,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-02T19:19:01Z",
+            "open_issues": 5,
+            "owner": "derekross",
+            "repo": "opal",
+            "stars": 6,
+            "topics": [
+              "bunker",
+              "hyprland",
+              "nip-46",
+              "nostr",
+              "omarchy",
+              "quickshell",
+              "rust"
+            ]
+          },
+          "first_seen": "2026-10-03T20:30:24.747Z"
         },
         {
           "node_type": "item",
@@ -318,8 +347,8 @@
                 "id": 482383845,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:39:27Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-03T16:55:46Z",
+                "open_issues": 68,
                 "owner": "cameri",
                 "repo": "nostream",
                 "stars": 829,
@@ -342,7 +371,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-04T16:16:02Z",
-                "open_issues": 34,
+                "open_issues": 32,
                 "owner": "hoytech",
                 "repo": "strfry",
                 "stars": 729,
@@ -833,7 +862,7 @@
                 "id": 836867407,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-01T19:47:57Z",
+                "last_commit": "2026-10-03T19:27:29Z",
                 "open_issues": 18,
                 "owner": "0ceanSlim",
                 "repo": "grain",
@@ -1531,8 +1560,8 @@
                 "id": 906097758,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T12:52:51Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-03T06:02:09Z",
+                "open_issues": 8,
                 "owner": "SnowCait",
                 "repo": "snowflare",
                 "stars": 21,
@@ -2304,7 +2333,7 @@
                 "id": 1043652948,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-02T07:05:42Z",
+                "last_commit": "2026-10-03T07:02:57Z",
                 "open_issues": 1,
                 "owner": "permissionlesstech",
                 "repo": "georelays",
@@ -2312,6 +2341,120 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nostrich-client",
+              "description": "Nostrich is a free and open-source Nostr client. Notes, profiles and media live on Nostr relays and are not hosted by Nostrich. Your keys are your account, your notes live on relays anyone can run.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nostrich is a free and open-source Nostr client. Notes, profiles and media live on Nostr relays and are not hosted by Nostrich. Your keys are your account, your notes live on relays anyone can run.",
+                "homepage": "https://nostrich.org",
+                "id": 1382738248,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-24T03:00:56Z",
+                "open_issues": 1,
+                "owner": "nostrichOS",
+                "repo": "nostrich-client",
+                "stars": 6,
+                "topics": [
+                  "bitcoin",
+                  "decentralized",
+                  "lightning",
+                  "nextjs",
+                  "nostr",
+                  "nostr-client",
+                  "open-source",
+                  "react",
+                  "social-network",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nostr-no-su",
+              "description": "Nostr bunker (NIP-46) and utility server in Gleam/BEAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nostr bunker (NIP-46) and utility server in Gleam/BEAM",
+                "homepage": null,
+                "id": 1362056962,
+                "language": "Gleam",
+                "license": "MIT",
+                "last_commit": "2026-09-29T21:53:37Z",
+                "open_issues": 0,
+                "owner": "neverclear86",
+                "repo": "nostr-no-su",
+                "stars": 5,
+                "topics": [
+                  "container",
+                  "gleam",
+                  "gleam-lang",
+                  "gleam-language",
+                  "nip-46",
+                  "nostr",
+                  "nostr-tools"
+                ]
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
+            },
+            {
+              "node_type": "item",
+              "title": "watchtower",
+              "description": "An admin panel for relays that speak NIP-86, the relay management API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An admin panel for relays that speak NIP-86, the relay management API.",
+                "homepage": "https://watchtower.nostrfy.org",
+                "id": 1383609133,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-09-23T14:28:49Z",
+                "open_issues": 0,
+                "owner": "fiatjaf",
+                "repo": "watchtower",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
+            },
+            {
+              "node_type": "item",
+              "title": "styx",
+              "description": "Experimental secure application substrate for sensitive workflows: self-custodied identity, E2EE collaboration, verifiable state, offline operation, and untrusted relay infrastructure. Building toward Themis, privacy-preserving case management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Experimental secure application substrate for sensitive workflows: self-custodied identity, E2EE collaboration, verifiable state, offline operation, and untrusted relay infrastructure. Building toward Themis,   privacy-preserving case management.",
+                "homepage": "https://styxsecure.org",
+                "id": 1297474421,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-03T17:12:44Z",
+                "open_issues": 130,
+                "owner": "styx-secure",
+                "repo": "styx",
+                "stars": 0,
+                "topics": [
+                  "case-management",
+                  "civil-society",
+                  "end-to-end-encryption",
+                  "human-rights",
+                  "mls",
+                  "nostr",
+                  "offline-first",
+                  "open-source",
+                  "privacy",
+                  "whistleblowing"
+                ]
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
             }
           ],
           "description": "Websites with lists of relays and their performance/health:",
@@ -2477,8 +2620,8 @@
                 "id": 1002271234,
                 "language": "Dart",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-03T04:52:36Z",
-                "open_issues": 663,
+                "last_commit": "2026-10-03T20:23:03Z",
+                "open_issues": 659,
                 "owner": "divinevideo",
                 "repo": "divine-mobile",
                 "stars": 265,
@@ -2550,8 +2693,8 @@
                 "id": 997642368,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T20:31:24Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-03T10:53:59Z",
+                "open_issues": 22,
                 "owner": "flox1an",
                 "repo": "nostube",
                 "stars": 37,
@@ -2751,7 +2894,7 @@
                 "language": "Swift",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T17:11:07Z",
-                "open_issues": 123,
+                "open_issues": 124,
                 "owner": "damus-io",
                 "repo": "damus",
                 "stars": 2143,
@@ -2822,7 +2965,7 @@
                 "id": 1043110440,
                 "language": "Dart",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T02:32:38Z",
+                "last_commit": "2026-10-03T14:01:55Z",
                 "open_issues": 1,
                 "owner": "Spl0itable",
                 "repo": "NYM",
@@ -2943,6 +3086,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LiberMedia",
+              "description": "Web client and PWA for iOS and Android, with zaps, encrypted DMs, Reels, group chats and media hosting. ⚡ zap",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LiberMedia Android TWA — Trusted Web Activity wrapper para media.libernet.app",
+                "homepage": null,
+                "id": 1248057497,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-08-09T15:10:23Z",
+                "open_issues": 0,
+                "owner": "lucianocasalunga",
+                "repo": "libermedia-twa",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Makoré",
+              "description": "End-to-end encrypted messenger with NIP-17/NIP-44 DMs, group chats and zaps. Android + Web. Makoré instance ⚡ zap",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Makoré — Android TWA wrapper for the E2E messenger (makore.libernet.app)",
+                "homepage": null,
+                "id": 1318589029,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-07-31T18:29:58Z",
+                "open_issues": 0,
+                "owner": "lucianocasalunga",
+                "repo": "makore-twa",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
             }
           ],
           "description": null,
@@ -2951,27 +3136,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "Sprout",
-              "description": "Group chat client by Block.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A hive mind communication platform",
-                "homepage": null,
-                "id": 1174789082,
-                "language": "Rust",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:43:24Z",
-                "open_issues": 3606,
-                "owner": "block",
-                "repo": "buzz",
-                "stars": 35429,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T01:23:33.140Z"
-            },
             {
               "node_type": "item",
               "title": "Buzz",
@@ -2984,11 +3148,32 @@
                 "id": 1174789082,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:43:24Z",
-                "open_issues": 3606,
+                "last_commit": "2026-10-03T19:12:17Z",
+                "open_issues": 3604,
                 "owner": "block",
                 "repo": "buzz",
-                "stars": 35428,
+                "stars": 35447,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:23:33.140Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Sprout",
+              "description": "Group chat client by Block.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A hive mind communication platform",
+                "homepage": null,
+                "id": 1174789082,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-03T19:12:17Z",
+                "open_issues": 3604,
+                "owner": "block",
+                "repo": "buzz",
+                "stars": 35447,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
@@ -3164,7 +3349,7 @@
                 "language": "Svelte",
                 "license": "MIT",
                 "last_commit": "2026-10-02T21:58:28Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "coracle-social",
                 "repo": "coracle",
                 "stars": 367,
@@ -3402,7 +3587,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T14:57:22Z",
-                "open_issues": 275,
+                "open_issues": 274,
                 "owner": "CodyTseng",
                 "repo": "jumble",
                 "stars": 218,
@@ -3478,8 +3663,8 @@
                 "id": 605404233,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T04:55:27Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-03T13:29:55Z",
+                "open_issues": 73,
                 "owner": "SnowCait",
                 "repo": "nostter",
                 "stars": 182,
@@ -3846,7 +4031,7 @@
                 "id": 589524132,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T15:42:21Z",
+                "last_commit": "2026-10-03T13:49:16Z",
                 "open_issues": 27,
                 "owner": "camelus-hq",
                 "repo": "camelus",
@@ -4228,6 +4413,32 @@
             },
             {
               "node_type": "item",
+              "title": "Nostree",
+              "description": "nostree.me A Nostr-based application linktree-style to create, manage and discover link lists, show notes and other stuff.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Nostr-based application to create, manage and discover link lists, show notes and other stuff.",
+                "homepage": "https://nostree.me",
+                "id": 665172658,
+                "language": "Svelte",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-29T09:46:56Z",
+                "open_issues": 10,
+                "owner": "gzuuus",
+                "repo": "linktr-nostr",
+                "stars": 55,
+                "topics": [
+                  "ndk",
+                  "nostr",
+                  "nostr-protocol",
+                  "svelte"
+                ]
+              },
+              "first_seen": "2026-08-29T01:23:33.140Z"
+            },
+            {
+              "node_type": "item",
               "title": "Clawstr",
               "description": "Social network for AI agents on Nostr clawstr.com",
               "children": [],
@@ -4252,32 +4463,6 @@
             },
             {
               "node_type": "item",
-              "title": "Nostree",
-              "description": "nostree.me A Nostr-based application linktree-style to create, manage and discover link lists, show notes and other stuff.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Nostr-based application to create, manage and discover link lists, show notes and other stuff.",
-                "homepage": "https://nostree.me",
-                "id": 665172658,
-                "language": "Svelte",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-29T09:46:56Z",
-                "open_issues": 10,
-                "owner": "gzuuus",
-                "repo": "linktr-nostr",
-                "stars": 54,
-                "topics": [
-                  "ndk",
-                  "nostr",
-                  "nostr-protocol",
-                  "svelte"
-                ]
-              },
-              "first_seen": "2026-08-29T01:23:33.140Z"
-            },
-            {
-              "node_type": "item",
               "title": "Disgus",
               "description": "A comment widget like Disqus, but for Nostr.",
               "children": [],
@@ -4288,7 +4473,7 @@
                 "id": 585619089,
                 "language": "JavaScript",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T18:23:41Z",
+                "last_commit": "2026-10-03T19:30:06Z",
                 "open_issues": 87,
                 "owner": "carlitoplatanito",
                 "repo": "disgus",
@@ -4492,8 +4677,8 @@
                 "id": 567322453,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T18:54:52Z",
-                "open_issues": 35,
+                "last_commit": "2026-10-03T14:22:00Z",
+                "open_issues": 34,
                 "owner": "shocknet",
                 "repo": "wallet2",
                 "stars": 46,
@@ -5162,6 +5347,35 @@
             },
             {
               "node_type": "item",
+              "title": "Agora",
+              "description": "Follow your favorite topics in nostr-verse (and even posts from Mastodon, Reddit, Bluesky, and Twitter)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Follow your interests across Mastodon, Bluesky, Nostr, and Threads",
+                "homepage": "https://agorasocial.app",
+                "id": 705073273,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2024-10-30T08:48:03Z",
+                "open_issues": 0,
+                "owner": "ghobs91",
+                "repo": "Agora",
+                "stars": 19,
+                "topics": [
+                  "activitypub",
+                  "bluesky",
+                  "fediverse",
+                  "lemmy",
+                  "mastodon",
+                  "nostr",
+                  "social-network"
+                ]
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
+            },
+            {
+              "node_type": "item",
               "title": "Anonostr",
               "description": "Anonostr allows users to send anonymous notes to the Nostr network without revealing their identity. For each note submission, the app generates a new key pair, sends the note through select relays, and then securely burns the key pair. It supports tagging, threading, quoting, and replying to existing notes.",
               "children": [],
@@ -5273,7 +5487,7 @@
                 "id": 598916956,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-03T04:27:29Z",
+                "last_commit": "2026-10-03T20:26:49Z",
                 "open_issues": 21,
                 "owner": "mouse484",
                 "repo": "astraea",
@@ -5297,7 +5511,7 @@
                 "id": 1099354844,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-01T08:03:01Z",
+                "last_commit": "2026-10-03T17:49:45Z",
                 "open_issues": 2,
                 "owner": "arbadacarbaYK",
                 "repo": "gittr",
@@ -5504,7 +5718,7 @@
             {
               "node_type": "item",
               "title": "Plektos",
-              "description": "Plektos is a decentralized meetup, events, and calendar platform built on Nostr. Plektos.app",
+              "description": "Plektos is a decentralized meetup, events, and calendar platform built on Nostr. Plektos.app ⚡ zap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5666,8 +5880,8 @@
                 "id": 1175973513,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-27T18:29:32Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T07:54:44Z",
+                "open_issues": 7,
                 "owner": "hoornet",
                 "repo": "vega",
                 "stars": 12,
@@ -5807,7 +6021,7 @@
             {
               "node_type": "item",
               "title": "Zappix",
-              "description": "A nostr image sharing application for browsing, sharing, and zapping visual content. Zappix.app",
+              "description": "A nostr image sharing application for browsing, sharing, and zapping visual content. Zappix.app ⚡ zap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5900,7 +6114,7 @@
             {
               "node_type": "item",
               "title": "Plaza",
-              "description": "A fast, local-first Nostr client for macOS, built natively in Zig. Guest-first, with a built-in isolated signer. (In development.)",
+              "description": "A fast, local-first Nostr client for macOS and Linux, built natively in Zig. Reads without an account; the feed renders from a local store, and the key stays in NIP-46 signer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5931,6 +6145,34 @@
                 ]
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Votestr",
+              "description": "Poll web app with nostr authentication and blind signature unlinkability",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Vote in polls using nostr and blind signatures",
+                "homepage": null,
+                "id": 596734873,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2023-03-11T05:07:35Z",
+                "open_issues": 3,
+                "owner": "vilm3r",
+                "repo": "votestr",
+                "stars": 8,
+                "topics": [
+                  "docker",
+                  "nextjs",
+                  "nostr",
+                  "nx",
+                  "prisma",
+                  "self-hosted"
+                ]
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
             },
             {
               "node_type": "item",
@@ -6299,7 +6541,7 @@
                     "id": 1269968918,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T05:20:24Z",
+                    "last_commit": "2026-10-03T20:20:13Z",
                     "open_issues": 0,
                     "owner": "irislib",
                     "repo": "iris-chat-rs",
@@ -6316,7 +6558,7 @@
                 "id": 1141263989,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-02T15:45:09Z",
+                "last_commit": "2026-10-03T18:44:13Z",
                 "open_issues": 0,
                 "owner": "irislib",
                 "repo": "iris-chat",
@@ -6466,6 +6708,44 @@
             },
             {
               "node_type": "item",
+              "title": "statim",
+              "description": "Self-custodial messenger. Your account is twelve words on your device: encrypted chats over XMTP, Nostr and Waku, Telegram and Matrix in the same inbox, and a wallet in the conversation. iOS, macOS, Windows, Linux, Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-custodial messenger. Your account is twelve words on your device: encrypted chats over XMTP, Nostr and Waku, Telegram and Matrix in the same inbox, and a wallet in the conversation. iOS, macOS, Windows, Linux, Android.",
+                "homepage": "https://statim.laibe.cc",
+                "id": 1378427484,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-03T18:12:00Z",
+                "open_issues": 0,
+                "owner": "alaibe",
+                "repo": "statim",
+                "stars": 2,
+                "topics": [
+                  "bitcoin",
+                  "cryptowallet",
+                  "end-to-end-encryption",
+                  "ethereum",
+                  "expo",
+                  "matrix",
+                  "messenger",
+                  "nostr",
+                  "privacy",
+                  "react-native",
+                  "self-custodial",
+                  "solana",
+                  "tauri",
+                  "telegram",
+                  "waku",
+                  "xmtp"
+                ]
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
+            },
+            {
+              "node_type": "item",
               "title": "Coracle Chat",
               "description": "A standalone port of Coracle's old chat functionality",
               "children": [],
@@ -6528,6 +6808,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
+            },
+            {
+              "node_type": "item",
+              "title": "verdana",
+              "description": "napp runner for desktop and android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "napp runner for desktop and android",
+                "homepage": null,
+                "id": 1377388661,
+                "language": "Go",
+                "license": null,
+                "last_commit": "2026-10-03T16:06:19Z",
+                "open_issues": 2,
+                "owner": "fiatjaf",
+                "repo": "verdana",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
             },
             {
               "node_type": "item",
@@ -6666,7 +6967,7 @@
             {
               "node_type": "item",
               "title": "Zaplytics",
-              "description": "Analytics for your Nostr Zaps, helping creators dive into their Zap earnings. Zaplytics.app",
+              "description": "Analytics for your Nostr Zaps, helping creators dive into their Zap earnings. Zaplytics.app ⚡ zap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6812,8 +7113,8 @@
                 "id": 795638797,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-02T21:03:31Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-03T15:19:15Z",
+                "open_issues": 48,
                 "owner": "MostroP2P",
                 "repo": "mobile",
                 "stars": 82,
@@ -6833,8 +7134,8 @@
                 "id": 1154829623,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T03:50:06Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-03T16:45:39Z",
+                "open_issues": 14,
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 11,
@@ -6862,8 +7163,8 @@
                 "id": 1154829623,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T03:50:06Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-03T16:45:39Z",
+                "open_issues": 14,
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 11,
@@ -6914,7 +7215,7 @@
             "open_issues": 732,
             "owner": "nostr-protocol",
             "repo": "nips",
-            "stars": 3107,
+            "stars": 3108,
             "topics": [
               "nostr"
             ]
@@ -7024,6 +7325,27 @@
                 ]
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pinstr",
+              "description": "Pinstr is a bookmark manager that uses Nostr to store and sync your bookmarks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 969086471,
+                "language": "Ruby",
+                "license": null,
+                "last_commit": "2025-12-05T11:09:56Z",
+                "open_issues": 12,
+                "owner": "zeroxbob",
+                "repo": "pinstr",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T20:30:24.747Z"
             }
           ],
           "description": null,
@@ -7039,7 +7361,7 @@
             "open_issues": 732,
             "owner": "nostr-protocol",
             "repo": "nips",
-            "stars": 3107,
+            "stars": 3108,
             "topics": [
               "nostr"
             ]
@@ -7651,7 +7973,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-01T13:24:54Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "hzrd149",
             "repo": "applesauce",
             "stars": 52,
@@ -7897,8 +8219,8 @@
             "id": 701688640,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:35:04Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-03T19:45:49Z",
+            "open_issues": 86,
             "owner": "relaystr",
             "repo": "ndk",
             "stars": 28,
@@ -8383,8 +8705,8 @@
             "id": 620343660,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:44:24Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T19:48:06Z",
+            "open_issues": 1,
             "owner": "MostroP2P",
             "repo": "mostro-core",
             "stars": 11,
@@ -8923,6 +9245,33 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sidestr-rs",
+          "description": "sidestr-rs — Rust port of Melvin Carvalho's sidestr sidechains, AGPL-3.0-only: the economic engine for did:nostr agents. A did:nostr key is a sidechain wallet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "sidestr-rs — Rust port of Melvin Carvalho's sidestr sidechains, AGPL-3.0-only: the economic engine for did:nostr agents. A did:nostr key is a sidechain wallet.",
+            "homepage": "https://visionflow.info",
+            "id": 1383740099,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-02T23:44:16Z",
+            "open_issues": 0,
+            "owner": "DreamLab-AI",
+            "repo": "sidestr-rs",
+            "stars": 0,
+            "topics": [
+              "bitcoin",
+              "did-nostr",
+              "nostr",
+              "rust",
+              "sidechain"
+            ]
+          },
+          "first_seen": "2026-10-03T20:30:24.747Z"
         }
       ],
       "title": "Libraries"
@@ -9185,7 +9534,7 @@
             "open_issues": 232,
             "owner": "spacecowboy",
             "repo": "Feeder",
-            "stars": 3058,
+            "stars": 3059,
             "topics": [
               "android",
               "atom",
@@ -9214,7 +9563,7 @@
             "open_issues": 44,
             "owner": "mmalmi",
             "repo": "nostr-vpn",
-            "stars": 1178,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
@@ -9231,11 +9580,11 @@
             "id": 1172886754,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:35:41Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T16:17:16Z",
+            "open_issues": 0,
             "owner": "aeonfun",
             "repo": "aeon",
-            "stars": 759,
+            "stars": 761,
             "topics": [
               "agent-framework",
               "agents",
@@ -9262,16 +9611,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🪞 Not a chatbot. A presence you keep. 💫",
+            "description": "🎷 See you, space agent. 🚀",
             "homepage": "https://steve02081504.github.io/fount/",
             "id": 862251163,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T04:58:43Z",
+            "last_commit": "2026-10-03T15:08:41Z",
             "open_issues": 4,
             "owner": "steve02081504",
             "repo": "fount",
-            "stars": 691,
+            "stars": 692,
             "topics": [
               "a-topic",
               "agents",
@@ -9351,7 +9700,7 @@
             "open_issues": 7,
             "owner": "ipv6rslimited",
             "repo": "cloudseeder",
-            "stars": 200,
+            "stars": 199,
             "topics": [
               "homelab",
               "selfhosting",
@@ -10088,7 +10437,7 @@
             "id": 933061420,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T13:14:23Z",
+            "last_commit": "2026-10-03T17:05:33Z",
             "open_issues": 31,
             "owner": "saiy2k",
             "repo": "nostr-components",
@@ -10361,8 +10710,8 @@
             "id": 951002601,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-18T08:59:35Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-03T19:45:45Z",
+            "open_issues": 27,
             "owner": "dergigi",
             "repo": "ants",
             "stars": 21,
@@ -10799,7 +11148,7 @@
             "id": 1023334001,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:10:51Z",
+            "last_commit": "2026-10-03T12:23:06Z",
             "open_issues": 1,
             "owner": "Lokuyow",
             "repo": "ehagaki",
@@ -10924,8 +11273,8 @@
             "id": 602759574,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-09-23T23:20:49Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T18:16:53Z",
+            "open_issues": 3,
             "owner": "nostorg",
             "repo": "homebrew-nostr",
             "stars": 11,
@@ -11323,6 +11672,40 @@
         },
         {
           "node_type": "item",
+          "title": "deed",
+          "description": "A nostr command line in Zig: keys, signing and verifying, NIP-19, NIP-44, relay queries and publishing, with a local event store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The nostr command line: keys, signing, NIP-19, NIP-44, relay queries, publishing, and a local event store. One binary for macOS and Linux.",
+            "homepage": "https://zignostr.com/deed",
+            "id": 1379793646,
+            "language": "Zig",
+            "license": "MIT",
+            "last_commit": "2026-09-24T12:11:52Z",
+            "open_issues": 0,
+            "owner": "zig-nostr",
+            "repo": "deed",
+            "stars": 4,
+            "topics": [
+              "cli",
+              "command-line-tool",
+              "lmdb",
+              "local-first",
+              "nip19",
+              "nip44",
+              "nostr",
+              "nostr-protocol",
+              "zig",
+              "zig-application",
+              "zig-index",
+              "zig-program"
+            ]
+          },
+          "first_seen": "2026-10-03T20:30:24.747Z"
+        },
+        {
+          "node_type": "item",
           "title": "heyxynip5",
           "description": "A CLI helper for converting nostr npub/nsec to their hex format for NIP-05 verification.",
           "children": [],
@@ -11658,7 +12041,7 @@
             "id": 692583830,
             "language": "PowerShell",
             "license": "Unlicense",
-            "last_commit": "2026-09-16T13:33:54Z",
+            "last_commit": "2026-10-03T19:17:08Z",
             "open_issues": 0,
             "owner": "nostorg",
             "repo": "scoop-nostr",
@@ -11912,6 +12295,38 @@
         },
         {
           "node_type": "item",
+          "title": "cambium",
+          "description": "Android NIP-55 signer that holds no keys: every request is proxied to a Heartwood hardware signer over NIP-46",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Android NIP-55 signer that holds no keys: every request is proxied to a Heartwood hardware signer over NIP-46",
+            "homepage": "https://cambium.forgesworn.dev",
+            "id": 1293166308,
+            "language": "Kotlin",
+            "license": "MIT",
+            "last_commit": "2026-09-26T07:57:33Z",
+            "open_issues": 0,
+            "owner": "forgesworn",
+            "repo": "cambium",
+            "stars": 1,
+            "topics": [
+              "android",
+              "grapheneos",
+              "hardware-signer",
+              "kotlin",
+              "nip46",
+              "nip55",
+              "nostr",
+              "privacy",
+              "security",
+              "signer"
+            ]
+          },
+          "first_seen": "2026-10-03T20:30:24.747Z"
+        },
+        {
+          "node_type": "item",
           "title": "gittr-helper-tools",
           "description": "Production code snippets from gittr.space: file fetching, URL normalization, GRASP detection, NIP-46 signer, NIP-25 stars, NIP-51 following, markdown media handling, and NIP-C0 code snippets.",
           "children": [],
@@ -11922,7 +12337,7 @@
             "id": 1105379401,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T06:54:32Z",
+            "last_commit": "2026-10-03T18:08:49Z",
             "open_issues": 0,
             "owner": "arbadacarbaYK",
             "repo": "gittr-helper-tools",
@@ -12060,6 +12475,41 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
+          "title": "kithmoot",
+          "description": "Multi-device conference rooms over Nostr: a town hall nobody owns",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Multi-device conference rooms over Nostr: a town hall nobody owns",
+            "homepage": "https://kithmoot.forgesworn.dev",
+            "id": 1346075794,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-03T16:31:01Z",
+            "open_issues": 2,
+            "owner": "forgesworn",
+            "repo": "kithmoot",
+            "stars": 0,
+            "topics": [
+              "agents",
+              "decentralized",
+              "end-to-end-encryption",
+              "group-chat",
+              "mcp",
+              "nostr",
+              "pwa",
+              "screen-share",
+              "serverless",
+              "video-calls",
+              "voice-calls",
+              "webrtc",
+              "workspace"
+            ]
+          },
+          "first_seen": "2026-10-03T20:30:24.747Z"
         },
         {
           "node_type": "group",
@@ -12265,8 +12715,8 @@
             "id": 671206453,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:09:45Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-03T17:33:10Z",
+            "open_issues": 10,
             "owner": "greenart7c3",
             "repo": "Amber",
             "stars": 354,
@@ -12513,6 +12963,46 @@
             ]
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Notary",
+          "description": "Native NIP-46 remote signer for macOS and Linux, written in Zig. The key stays in a local daemon, encrypted with NIP-49, and a native window shows each request before it is signed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A native signer for Nostr. Your key stays on your machine.",
+            "homepage": "https://zignostr.com/notary",
+            "id": 1297067915,
+            "language": "Zig",
+            "license": "MIT",
+            "last_commit": "2026-09-25T07:50:17Z",
+            "open_issues": 2,
+            "owner": "zig-nostr",
+            "repo": "notary",
+            "stars": 10,
+            "topics": [
+              "bunker",
+              "cryptography",
+              "desktop",
+              "key-management",
+              "linux",
+              "macos",
+              "native-sdk",
+              "nip46",
+              "nostr",
+              "nostr-connect",
+              "nostr-protocol",
+              "nostr-signer",
+              "remote-signer",
+              "secp256k1",
+              "zig",
+              "zig-application",
+              "zig-index",
+              "zig-program"
+            ]
+          },
+          "first_seen": "2026-10-03T20:30:24.747Z"
         },
         {
           "node_type": "item",
@@ -12868,9 +13358,9 @@
             "homepage": "https://mostro.network",
             "id": 569861981,
             "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-10-03T03:28:14Z",
-            "open_issues": 88,
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-03T20:23:59Z",
+            "open_issues": 99,
             "owner": "MostroP2P",
             "repo": "mostro",
             "stars": 332,
@@ -12919,7 +13409,7 @@
             "id": 583342682,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T03:31:33Z",
+            "last_commit": "2026-10-03T11:44:10Z",
             "open_issues": 7,
             "owner": "MostroP2P",
             "repo": "mostro-cli",
@@ -12954,6 +13444,35 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
+          "title": "proxy-shopping",
+          "description": "Buy from cash-only or unsupported shops by paying a local proxy shopper in BTC through a per-order 2-of-3 escrow; browser demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Earn as a proxy shopper or buy from cash-only shops with crypto: P2P (libp2p + Nostr) proxy shopping with a 2-of-3 escrow — Go node, contracts, lab",
+            "homepage": null,
+            "id": 1390340468,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-01T13:24:31Z",
+            "open_issues": 0,
+            "owner": "pad01g",
+            "repo": "proxy-shopping-go",
+            "stars": 0,
+            "topics": [
+              "agent-skills",
+              "bitcoin",
+              "escrow",
+              "libp2p",
+              "mcp",
+              "nostr",
+              "proxy-shopping"
+            ]
+          },
+          "first_seen": "2026-10-03T20:30:24.747Z"
         }
       ],
       "title": "Peer-to-peer markets"
@@ -13391,8 +13910,8 @@
             "id": 605404233,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T04:55:27Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-03T13:29:55Z",
+            "open_issues": 73,
             "owner": "SnowCait",
             "repo": "nostter",
             "stars": 182,
@@ -13658,11 +14177,11 @@
             "id": 1255636519,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:36:13Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T05:39:20Z",
+            "open_issues": 1,
             "owner": "lawalletio",
             "repo": "lawallet-nwc",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "address",
               "lawallet",
@@ -13712,7 +14231,7 @@
             "id": 171051201,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:28:51Z",
+            "last_commit": "2026-10-03T19:58:12Z",
             "open_issues": 412,
             "owner": "ZeusLN",
             "repo": "zeus",
@@ -13753,7 +14272,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T12:41:17Z",
-            "open_issues": 71,
+            "open_issues": 73,
             "owner": "lnbits",
             "repo": "lnbits",
             "stars": 1236,
@@ -13968,7 +14487,7 @@
             "id": 1206299549,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:23:56Z",
+            "last_commit": "2026-10-03T20:11:41Z",
             "open_issues": 1,
             "owner": "elisymlabs",
             "repo": "elisym",
@@ -14004,7 +14523,7 @@
             "id": 1206299549,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:23:56Z",
+            "last_commit": "2026-10-03T20:11:41Z",
             "open_issues": 1,
             "owner": "elisymlabs",
             "repo": "elisym",
@@ -14027,6 +14546,27 @@
             ]
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vendata.io",
+          "description": "data processing AI marketplace with nostr data vending machines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Vendata",
+            "homepage": "https://vendata-io.vercel.app",
+            "id": 676934452,
+            "language": "Svelte",
+            "license": null,
+            "last_commit": "2023-09-29T15:37:39Z",
+            "open_issues": 5,
+            "owner": "pablof7z",
+            "repo": "vendata.io",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T20:30:24.747Z"
         },
         {
           "node_type": "item",
@@ -14301,7 +14841,7 @@
             "id": 1148249299,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:45:43Z",
+            "last_commit": "2026-10-03T19:13:40Z",
             "open_issues": 0,
             "owner": "nostr-wot",
             "repo": "nostr-wot-extension",
@@ -14463,7 +15003,7 @@
                 "id": 1136069729,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-02T17:37:06Z",
+                "last_commit": "2026-10-03T19:51:34Z",
                 "open_issues": 0,
                 "owner": "mmalmi",
                 "repo": "hashtree",
@@ -14480,7 +15020,7 @@
             "id": 1136069729,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-02T17:37:06Z",
+            "last_commit": "2026-10-03T19:51:34Z",
             "open_issues": 0,
             "owner": "mmalmi",
             "repo": "hashtree",
@@ -14700,7 +15240,7 @@
             "open_issues": 1,
             "owner": "mbarulli",
             "repo": "nostr-logo",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
@@ -15251,7 +15791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:58:43.340Z",
+    "last_updated": "2026-10-03T20:30:24.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things ",
@@ -15259,16 +15799,16 @@
       "id": 450941276,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-09-29T11:15:54Z",
-      "open_issues": 10,
+      "last_commit": "2026-10-03T06:55:13Z",
+      "open_issues": 3,
       "owner": "aljazceru",
       "repo": "awesome-nostr",
-      "stars": 2967,
+      "stars": 2969,
       "topics": [
         "nostr"
       ]
     },
-    "original_repository_sha": "0ee3c7b0d9340fbd25eae995b19444dbc0348a59",
+    "original_repository_sha": "af3bf93abc3b6f11d1ae196541c646c6b7de7a50",
     "enhanced_repository": "enhansome/enhansome-nostr",
     "enhanced_repository_description": null,
     "title": "Awesome nostr with stars"
