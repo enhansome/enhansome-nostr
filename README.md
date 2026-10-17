@@ -31,17 +31,17 @@ nostr.net services [start.nostr.net](https://start.nostr.net) || [relay.nostr.ne
 
 ## Protocol
 
-* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,087 | 🐛 64 | 📅 2025-06-27![stars](https://img.shields.io/github/stars/nostr-protocol/nostr.svg?style=social) - Overview and FAQ
-* [NIPs](https://github.com/nostr-protocol/nips) ⭐ 3,117 | 🐛 736 | 📅 2026-10-16![stars](https://img.shields.io/github/stars/nostr-protocol/nips.svg?style=social) - the "**N**ostr **I**mplementation **P**ossibilities" describe the protocol in technical detail
-* [Marmot Protocol](https://github.com/marmot-protocol/marmot) ⭐ 144 | 🐛 26 | 📅 2026-10-16![stars](https://img.shields.io/github/stars/marmot-protocol/marmot.svg?style=social) - A messaging protocol specification for efficient end-to-end encrypted group messaging using Nostr's decentralized identity & relay network combined with the MLS Protocol.
+* [nostr](https://github.com/nostr-protocol/nostr) ⭐ 12,091 | 🐛 64 | 📅 2025-06-27![stars](https://img.shields.io/github/stars/nostr-protocol/nostr.svg?style=social) - Overview and FAQ
+* [NIPs](https://github.com/nostr-protocol/nips) ⭐ 3,117 | 🐛 736 | 📅 2026-10-17![stars](https://img.shields.io/github/stars/nostr-protocol/nips.svg?style=social) - the "**N**ostr **I**mplementation **P**ossibilities" describe the protocol in technical detail
+* [Marmot Protocol](https://github.com/marmot-protocol/marmot) ⭐ 144 | 🐛 26 | 📅 2026-10-17![stars](https://img.shields.io/github/stars/marmot-protocol/marmot.svg?style=social) - A messaging protocol specification for efficient end-to-end encrypted group messaging using Nostr's decentralized identity & relay network combined with the MLS Protocol.
 * [nostr, a basic tour](https://github.com/rajarshimaitra/rust-nostr/blob/main/VISION.md) ⭐ 130 | 🐛 4 | 🌐 Rust | 📅 2022-12-26 - an intro to nostr
 * [data-vending-machines](https://github.com/nostr-protocol/data-vending-machines) ⚠️ Archived![stars](https://img.shields.io/github/stars/nostr-protocol/data-vending-machines.svg?style=social) - DVM documentation and kind registry
 * [nostr address book](https://github.com/aitechguy/nostr-address-book) ⭐ 32 | 🐛 5 | 📅 2024-07-06 - A directory of X (formerly Twitter)  users accounts and their NOSTR addresses
 * [registry-of-kinds](https://github.com/nostr-protocol/registry-of-kinds) ⭐ 24 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02![stars](https://img.shields.io/github/stars/nostr-protocol/registry-of-kinds.svg?style=social) - Registry of NIP kind definitions
 * [persian nostr book](https://github.com/kehiy/persian-nostr-book) ⭐ 13 | 🐛 0 | 🌐 Markdown | 📅 2025-05-16 - a book written in the Persian language about nostr, containing nips translation. [⚡ zap](https://nostr.net/grant/?zap=kehiy@walletofsatoshi.com)
 * [NosTracker](https://marcodpt.github.io/nostracker/) [![stars](https://img.shields.io/github/stars/marcodpt/nostracker.svg?style=social)](https://github.com/marcodpt/nostracker) ⭐ 12 | 🐛 0 | 🌐 HTML | 📅 2025-08-31 - Information about NIP support for clients, relays, tools and libraries. Like a caniuse but for NIPs.
-* [nostr-book](https://github.com/adamdecaf/nostr-book) ⭐ 11 | 🐛 3 | 🌐 Shell | 📅 2026-10-16![stars](https://img.shields.io/github/stars/adamdecaf/nostr-book.svg?style=social) - NIPs reordered into chapters for readability. [PDF](https://github.com/adamdecaf/nostr-book/raw/master/nostr-book.pdf) ⭐ 11 | 🐛 3 | 🌐 Shell | 📅 2026-10-16, [ePUB](https://github.com/adamdecaf/nostr-book/raw/master/nostr-book.epub) ⭐ 11 | 🐛 3 | 🌐 Shell | 📅 2026-10-16, and [web](https://nostr-book.org/).
-* [opal](https://github.com/derekross/opal) ⭐ 8 | 🐛 6 | 🌐 Rust | 📅 2026-10-11![stars](https://img.shields.io/github/stars/derekross/opal.svg?style=social) - Nostr in your Omarchy bar: NIP-46 signer (bunker) with your nsec in the keyring, notifications, and NIP-38 now-playing/status [⚡ zap](https://nostr.net/grant/?zap=pay@derekross.me)
+* [nostr-book](https://github.com/adamdecaf/nostr-book) ⭐ 11 | 🐛 3 | 🌐 Shell | 📅 2026-10-17![stars](https://img.shields.io/github/stars/adamdecaf/nostr-book.svg?style=social) - NIPs reordered into chapters for readability. [PDF](https://github.com/adamdecaf/nostr-book/raw/master/nostr-book.pdf) ⭐ 11 | 🐛 3 | 🌐 Shell | 📅 2026-10-17, [ePUB](https://github.com/adamdecaf/nostr-book/raw/master/nostr-book.epub) ⭐ 11 | 🐛 3 | 🌐 Shell | 📅 2026-10-17, and [web](https://nostr-book.org/).
+* [opal](https://github.com/derekross/opal) ⭐ 8 | 🐛 7 | 🌐 Rust | 📅 2026-10-11![stars](https://img.shields.io/github/stars/derekross/opal.svg?style=social) - Nostr in your Omarchy bar: NIP-46 signer (bunker) with your nsec in the keyring, notifications, and NIP-38 now-playing/status [⚡ zap](https://nostr.net/grant/?zap=pay@derekross.me)
 * [gozzip](https://github.com/gozzip-protocol/gozzip) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-07-29![stars](https://img.shields.io/github/stars/gozzip-protocol/gozzip.svg?style=social) - An open, censorship-resistant protocol for social media and messaging. Inherits Nostr's proven primitives — secp256k1 identity, signed events, relay transport — and adds a storage and retrieval layer where users own their data
 * [keytr](https://github.com/sovITxyz/keytr) ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-04![stars](https://img.shields.io/github/stars/sovITxyz/keytr.svg?style=social) - KEYS TRANSMITTED OVER RELAYS Nostr login protocol using WebAuthn passkeys to encrypt and distribute nsec keys
 * [Lazarus](https://github.com/dmnyc/lazarus) ⭐ 0 | 🐛 0 | 📅 2026-10-15![stars](https://img.shields.io/github/stars/dmnyc/lazarus.svg?style=social) - A protocol for recovering follow lists, mute lists, profiles and other replaceable events that a client overwrote, from the old versions relays still hold. Restores happen only on an explicit click, with the user's own signer.
@@ -62,7 +62,7 @@ of the public instances.
 
 ### Implementations
 
-* [nostream](https://github.com/Cameri/nostream) ⭐ 831 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/Cameri/nostream.svg?style=social) - a nostr relay written in Typescript backed by PostgreSQL (renamed from nostr-ts-relay).
+* [nostream](https://github.com/Cameri/nostream) ⭐ 831 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/Cameri/nostream.svg?style=social) - a nostr relay written in Typescript backed by PostgreSQL (renamed from nostr-ts-relay).
 * [strfry](https://github.com/hoytech/strfry) ⭐ 733 | 🐛 40 | 🌐 C++ | 📅 2026-09-04![stars](https://img.shields.io/github/stars/hoytech/strfry.svg?style=social) - C++ implementation backed by LMDB with efficient syncing of events using Merkle trees
 * [Relayer Basic](https://github.com/fiatjaf/relayer/tree/master/examples/basic) ⭐ 345 | 🐛 2 | 🌐 Go | 📅 2026-09-14 - a simple relay based on *relayer* backed by Postgres
 * [HAVEN](https://github.com/bitvora/haven) ⭐ 206 | 🐛 11 | 🌐 Go | 📅 2026-08-26![stars](https://img.shields.io/github/stars/bitvora/haven.svg?style=social) - Four relays in one + Blossom Media Server for a modern, sovereign and personal Nostr experience.
@@ -78,7 +78,7 @@ of the public instances.
 * [søstr](https://github.com/metasikander/s0str) ⭐ 92 | 🐛 2 | 🌐 Rust | 📅 2023-01-02![stars](https://img.shields.io/github/stars/metasikander/s0str.svg?style=social) - a private Nostr relay written in rust, saves all notes from one pubkey and publish them to anyone that requests them
 * [WoT relay](https://github.com/bitvora/wot-relay.git) ⭐ 88 | 🐛 11 | 🌐 Go | 📅 2026-04-22![stars](https://img.shields.io/github/stars/bitvora/wot-relay.svg?style=social) - relay for every note in your web of trust
 * [Chorus](https://github.com/mikedilger/chorus) ⭐ 84 | 🐛 15 | 🌐 Rust | 📅 2026-04-29![stars](https://img.shields.io/github/stars/mikedilger/chorus.svg?style=social) - Rust based personal or community relay.
-* [nostr-relay](https://github.com/mattn/nostr-relay) ⭐ 65 | 🐛 1 | 🌐 Go | 📅 2026-10-05![stars](https://img.shields.io/github/stars/mattn/nostr-relay.svg?style=social) - Nostr relay in Go based on relayer. Backend by sqlite3/PostgreSQL/mysql.
+* [nostr-relay](https://github.com/mattn/nostr-relay) ⭐ 65 | 🐛 1 | 🌐 Go | 📅 2026-10-17![stars](https://img.shields.io/github/stars/mattn/nostr-relay.svg?style=social) - Nostr relay in Go based on relayer. Backend by sqlite3/PostgreSQL/mysql.
 * [Denostr](https://github.com/guakamoli/denostr) ⭐ 58 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-24![stars](https://img.shields.io/github/stars/guakamoli/denostr.svg?style=social) - Deno based, cloud native nostr implemention.
 * [nostr-relay-nestjs](https://github.com/CodyTseng/nostr-relay-nestjs) ⭐ 56 | 🐛 13 | 🌐 TypeScript | 📅 2025-01-05![stars](https://img.shields.io/github/stars/CodyTseng/nostr-relay-nestjs.svg?style=social) - A Nostr relay with a clear architecture and high test coverage (PostgreSQL, MeiliSearch, NestJS)
 * [AlgoRelay](https://github.com/bitvora/algo-relay) ⭐ 54 | 🐛 0 | 🌐 Go | 📅 2025-03-01![stars](https://img.shields.io/github/stars/bitvora/algo-relay.svg?style=social) - An algorithmic Nostr relay that personalizes feeds based on user interactions, follows, and viral content.
@@ -89,7 +89,7 @@ of the public instances.
 * [NostrPostr Relay](https://github.com/Giszmo/NostrPostr/tree/master/NostrRelay) ⭐ 45 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13 - a Kotlin Relay supporting both SQLite and Postgresql.
 * [PyRelay](https://github.com/johnny423/pyrelay) ⭐ 45 | 🐛 4 | 🌐 Python | 📅 2023-04-08![stars](https://img.shields.io/github/stars/johnny423/pyrelay.svg?style=social) - a python implementation of a Nostr relay, using asyncio.
 * [booger](https://github.com/stackernews/booger) ⭐ 43 | 🐛 3 | 🌐 JavaScript | 📅 2023-08-09![stars](https://img.shields.io/github/stars/stackernews/booger.svg?style=social) - Nostr relay implementation by Stacker News.
-* [cagliostr](https://github.com/mattn/cagliostr) ⭐ 41 | 🐛 2 | 🌐 C++ | 📅 2026-10-05![stars](https://img.shields.io/github/stars/mattn/cagliostr.svg?style=social) - Faster Nostr relay in C++ backend by sqlite3.
+* [cagliostr](https://github.com/mattn/cagliostr) ⭐ 41 | 🐛 2 | 🌐 C++ | 📅 2026-10-17![stars](https://img.shields.io/github/stars/mattn/cagliostr.svg?style=social) - Faster Nostr relay in C++ backend by sqlite3.
 * [Immortal](https://github.com/dezh-tech/immortal) ⭐ 40 | 🐛 0 | 🌐 Rust | 📅 2025-11-23![stars](https://img.shields.io/github/stars/dezh-tech/immortal.svg?style=social) - A relay designed for scale and high-load.
 * [HORNET Storage](https://github.com/HORNET-Storage/HORNETS-Nostr-Relay) ⭐ 40 | 🐛 2 | 🌐 Go | 📅 2026-08-07![stars](https://img.shields.io/github/stars/HORNET-Storage/HORNETS-Nostr-Relay.svg?style=social) - A multimedia-focused Nostr relay with built-in support for storing larger media files.
 * [chronicle](https://github.com/dtonon/chronicle) ⭐ 37 | 🐛 3 | 🌐 Go | 📅 2026-10-16![stars](https://img.shields.io/github/stars/dtonon/chronicle.svg?style=social) - A personal Nostr relay that lets you keep your own copy of your notes.
@@ -115,9 +115,9 @@ of the public instances.
   * [Zapoli](https://github.com/dezh-tech/ddsr/tree/main/zapoli) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2025-08-26 - A Specialized Nostr Relay For AppStores.
   * [210Maxi](https://github.com/dezh-tech/ddsr/tree/main/210maxi) ⭐ 20 | 🐛 2 | 🌐 Go | 📅 2025-08-26 - A nostr relay that only accepts 210 character events (NIP-B1).
 * [zooid](https://github.com/coracle-social/zooid) ⚠️ Archived![stars](https://img.shields.io/github/stars/coracle-social/zooid.svg?style=social) - A multi-tenant Nostr relay designed for communities.
-* [wisp](https://github.com/privkeyio/wisp) ⭐ 19 | 🐛 16 | 🌐 Zig | 📅 2026-10-10![stars](https://img.shields.io/github/stars/privkeyio/wisp.svg?style=social) - A lightweight Nostr relay implementation focused on simplicity and performance
+* [wisp](https://github.com/privkeyio/wisp) ⭐ 19 | 🐛 16 | 🌐 Zig | 📅 2026-10-17![stars](https://img.shields.io/github/stars/privkeyio/wisp.svg?style=social) - A lightweight Nostr relay implementation focused on simplicity and performance
 * [Fenrir-s](https://github.com/rushmi0/Fenrir-s) ⭐ 15 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-30![stars](https://img.shields.io/github/stars/rushmi0/Fenrir-s.svg?style=social) - a Nostr Relay written in Kotlin with PostgreSQL backend and GraalVM support. [⚡ zap](https://nostr.net/grant/?zap=parkinghot99@walletofsatoshi.com)
-* [nostrfy](https://github.com/iqbqioza/nostrfy) ⭐ 15 | 🐛 1 | 🌐 Rust | 📅 2026-10-16![stars](https://img.shields.io/github/stars/iqbqioza/nostrfy.svg?style=social) - High-performance Nostr relay engine written in Rust. Fast, memory-efficient, all-in-one NIPs relay & built-in Blossom server, and built for modern relays.
+* [nostrfy](https://github.com/iqbqioza/nostrfy) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2026-10-17![stars](https://img.shields.io/github/stars/iqbqioza/nostrfy.svg?style=social) - High-performance Nostr relay engine written in Rust. Fast, memory-efficient, all-in-one NIPs relay & built-in Blossom server, and built for modern relays.
 * [SuperConductor](https://github.com/avlo/superconductor) ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2026-09-23![stars](https://img.shields.io/github/stars/avlo/superconductor.svg?style=social) - Java Nostr-Relay Framework & Web Application. Java 20, Spring WebSocketSession 3.2.2, Spring Boot 3.2.4, atop [nostr-java library](https://github.com/tcheeric/nostr-java) ⭐ 89 | 🐛 8 | 🌐 Java | 📅 2026-10-09. Simple. Clean. OO.
 * [netstr](https://github.com/bezysoftware/netstr) ⭐ 13 | 🐛 11 | 🌐 C# | 📅 2024-12-04![stars](https://img.shields.io/github/stars/bezysoftware/netstr.svg?style=social) - A general purpose Nostr relay written in C# with high test coverage, backed by Postgres DB.
 * [noxir](https://github.com/kphrx/noxir) ⭐ 13 | 🐛 5 | 🌐 Elixir | 📅 2025-03-10![stars](https://img.shields.io/github/stars/kphrx/noxir.svg?style=social) - Nostr relay implementation in Elixir.
@@ -143,6 +143,7 @@ of the public instances.
 * [Minds Nostr Relay](https://gitlab.com/minds/infrastructure/nostr-relay) - a relay for [Minds](https://www.minds.com), an open-source social network
   * [Minds Engine - Nostr](https://gitlab.com/minds/engine/-/tree/master/Core/Nostr) - relevant Minds API code for reading/writing Minds posts using Nostr
 * [Nerostr](https://codeberg.org/pluja/nerostr) - A Nostr expensive relay paid with Monero and written in Go.
+* [Nostella](https://ngit.dev/henk.tech/nostella) - a cross-platform Rust relay inspired by the Gnutella network that meshes with peer relays and fetches and caches events from other relays.
 * [nostr\_relay](https://code.pobblelabs.org/fossil/nostr_relay/) - a nostr relay written in Python, backed by SQLite
 * [nostr-rs-relay](https://sr.ht/~gheartsfield/nostr-rs-relay/) - a minimalistic relay written in Rust that saves data on SQLite
   * [keychat-relay-ext](https://github.com/keychat-io/keychat-relay-ext) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-12-30![stars](https://img.shields.io/github/stars/keychat-io/keychat-relay-ext.svg?style=social) - Enable cashu ecash payments per message by grpc authorization server
@@ -154,10 +155,10 @@ of the public instances.
 
 Websites with lists of relays and their performance/health:
 
-* [georelays](https://github.com/permissionlesstech/georelays) ⭐ 134 | 🐛 1 | 🌐 HTML | 📅 2026-10-16![stars](https://img.shields.io/github/stars/permissionlesstech/georelays.svg?style=social) - A collection of nostr relays and their estimated geographic locations for discovering nearby relays.
-* [nostr-no-su](https://github.com/neverclear86/nostr-no-su) ⭐ 7 | 🐛 14 | 🌐 Gleam | 📅 2026-10-11![stars](https://img.shields.io/github/stars/neverclear86/nostr-no-su.svg?style=social) - Nostr bunker (NIP-46) and utility server in Gleam/BEAM
+* [georelays](https://github.com/permissionlesstech/georelays) ⭐ 134 | 🐛 1 | 🌐 HTML | 📅 2026-10-17![stars](https://img.shields.io/github/stars/permissionlesstech/georelays.svg?style=social) - A collection of nostr relays and their estimated geographic locations for discovering nearby relays.
+* [nostr-no-su](https://github.com/neverclear86/nostr-no-su) ⭐ 7 | 🐛 7 | 🌐 Gleam | 📅 2026-10-17![stars](https://img.shields.io/github/stars/neverclear86/nostr-no-su.svg?style=social) - Nostr bunker (NIP-46) and utility server in Gleam/BEAM
 * [watchtower](https://github.com/fiatjaf/watchtower) ⭐ 0 | 🐛 0 | 📅 2026-09-23![stars](https://img.shields.io/github/stars/fiatjaf/watchtower.svg?style=social) - An admin panel for relays that speak NIP-86, the relay management API.
-* [styx](https://github.com/styx-secure/styx) ⭐ 0 | 🐛 149 | 🌐 Python | 📅 2026-10-14![stars](https://img.shields.io/github/stars/styx-secure/styx.svg?style=social) - Experimental secure application substrate for sensitive workflows: self-custodied identity, E2EE collaboration, verifiable state, offline operation, and untrusted relay infrastructure. Building toward Themis,   privacy-preserving case management.
+* [styx](https://github.com/styx-secure/styx) ⭐ 0 | 🐛 150 | 🌐 Python | 📅 2026-10-17![stars](https://img.shields.io/github/stars/styx-secure/styx.svg?style=social) - Experimental secure application substrate for sensitive workflows: self-custodied identity, E2EE collaboration, verifiable state, offline operation, and untrusted relay infrastructure. Building toward Themis,   privacy-preserving case management.
 * [relay.nostr.net](wss://relay.nostr.net) - relay run by nostr.net
 * [nostr.info](https://nostr.info/relays/) - real-time checking of the status of some known relays.
 * [nostr.watch](https://nostr.watch)![stars](https://img.shields.io/github/stars/sandwichfarm/nostr-watch.svg?style=social) - real-time checking of the status of some known relays.
@@ -185,11 +186,11 @@ Websites with lists of relays and their performance/health:
 
 ### Video/Audio
 
-* [Divine](https://github.com/divinevideo/divine-mobile) ⭐ 266 | 🐛 701 | 🌐 Dart | 📅 2026-10-16![stars](https://img.shields.io/github/stars/divinevideo/divine-mobile.svg?style=social) -  Divine is a decentralized, short-form video sharing global discovery platform built on the Nostr protocol.
+* [Divine](https://github.com/divinevideo/divine-mobile) ⭐ 266 | 🐛 691 | 🌐 Dart | 📅 2026-10-17![stars](https://img.shields.io/github/stars/divinevideo/divine-mobile.svg?style=social) -  Divine is a decentralized, short-form video sharing global discovery platform built on the Nostr protocol.
 * [HiveTalk](https://github.com/hivetalk/hivetalksfu) ⚠️ Archived![stars](https://img.shields.io/github/stars/hivetalk/hivetalksfu.svg?style=social) - Hivetalk is an open source real-time Video and screensharing platform built on mirotalk that integrates Nostr and Lightning.
   * [hivetalk.org](https://HiveTalk.org/) -  live instance
 * [Nostr Nests](https://github.com/nostrnests/nests/) ⭐ 39 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-11![stars](https://img.shields.io/github/stars/nostrnests/nests.svg?style=social) - Nostr Nests is an audio space for chatting, brainstorming, debating, jamming, micro-conferences and more. [NostrNests.com](https://nostrnests.com/)
-* [nostrube](https://github.com/flox1an/nostube) ⭐ 38 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/flox1an/nostube.svg?style=social) - Nostr based video sharing platform
+* [nostrube](https://github.com/flox1an/nostube) ⭐ 38 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/flox1an/nostube.svg?style=social) - Nostr based video sharing platform
   * [Nostube](https://nostu.be/) - Nostr based video platform live instance
 * [Corny Chat](https://github.com/vicariousdrama/cornychat) ⭐ 36 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-21![stars](https://img.shields.io/github/stars/vicariousdrama/cornychat.svg?style=social) -  Corny Chat is an open source audio space built on Jam that integrates Nostr and Lightning.
   * [cornychat.com](https://cornychat.com/)
@@ -208,10 +209,10 @@ Websites with lists of relays and their performance/health:
   * [damus on testflight](https://testflight.apple.com/join/CLwjLxWl)
   * [damus on Mac app store](https://apps.apple.com/us/app/damus/id1628663131)
 * [Zemzeme](https://github.com/whisperbit-labs/zemzeme-android) ⭐ 224 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-11![stars](https://img.shields.io/github/stars/whisperbit-labs/zemzeme-android.svg?style=social) - Private, serverless messaging for Android — offline Bluetooth mesh, peer-to-peer, and Nostr relay. No accounts, no internet required
-* [Nmail](https://github.com/nogringo/nostr-mail-client) ⭐ 83 | 🐛 12 | 🌐 Dart | 📅 2026-10-10![stars](https://img.shields.io/github/stars/nogringo/nostr-mail-client.svg?style=social) -  Flutter email client for Nostr - send and receive encrypted emails using the Nostr protocol.
+* [Nmail](https://github.com/nogringo/nostr-mail-client) ⭐ 83 | 🐛 9 | 🌐 Dart | 📅 2026-10-17![stars](https://img.shields.io/github/stars/nogringo/nostr-mail-client.svg?style=social) -  Flutter email client for Nostr - send and receive encrypted emails using the Nostr protocol.
 * [Nymchat](https://github.com/Spl0itable/NYM) ⭐ 77 | 🐛 1 | 🌐 Dart | 📅 2026-10-11![stars](https://img.shields.io/github/stars/Spl0itable/NYM.svg?style=social) -  A like iRC lightweight, yet feature-rich, ephemeral chat client built on Nostr protocol, bridged with Bitchat for anonymous, temporary messaging.
 * [nospeak](https://github.com/psic4t/nospeak) ⭐ 58 | 🐛 7 | 🌐 TypeScript | 📅 2026-06-07![stars](https://img.shields.io/github/stars/psic4t/nospeak.svg?style=social) - A nospeak is a modern F-Droid Nostr chat client.
-* [Pika](https://github.com/sledtools/pika) ⭐ 44 | 🐛 112 | 🌐 Rust | 📅 2026-04-27![stars](https://img.shields.io/github/stars/sledtools/pika.svg?style=social) -  End-to-end encrypted messaging for iOS, Android, and Desktop, built on MLS over Nostr.
+* [Pika](https://github.com/sledtools/pika) ⭐ 44 | 🐛 111 | 🌐 Rust | 📅 2026-04-27![stars](https://img.shields.io/github/stars/sledtools/pika.svg?style=social) -  End-to-end encrypted messaging for iOS, Android, and Desktop, built on MLS over Nostr.
 * [Daisy](https://github.com/neb-b/daisy) ⭐ 43 | 🐛 23 | 🌐 TypeScript | 📅 2023-02-07 - Mobile client for Android and iOS
   * [testflight + android builds](https://neb.lol/nostr)
 * [NosCall](https://github.com/sanah9/noscall) ⭐ 27 | 🐛 3 | 🌐 Dart | 📅 2026-09-16![stars](https://img.shields.io/github/stars/sanah9/noscall.svg?style=social) -  A secure audio and video calling app built on Nostr protocol. Features end-to-end encrypted calls with cross-platform support.
@@ -227,9 +228,9 @@ Websites with lists of relays and their performance/health:
 
 ### Other
 
-* [Buzz](https://github.com/block/buzz) ⭐ 36,060 | 🐛 3,629 | 🌐 Rust | 📅 2026-10-16![stars](https://img.shields.io/github/stars/block/buzz.svg?style=social) - Workspace where AI agents and humans collaborate on their own relay.
-* [Amethyst](https://github.com/vitorpamplona/amethyst) ⭐ 1,611 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-16![stars](https://img.shields.io/github/stars/vitorpamplona/amethyst.svg?style=social) - An Android client for nostr written in Kotlin
-* [gossip](https://github.com/mikedilger/gossip) ⭐ 886 | 🐛 214 | 🌐 Rust | 📅 2026-06-19![stars](https://img.shields.io/github/stars/mikedilger/gossip.svg?style=social) - A desktop client in rust presented with egui
+* [Buzz](https://github.com/block/buzz) ⭐ 36,098 | 🐛 3,626 | 🌐 Rust | 📅 2026-10-17![stars](https://img.shields.io/github/stars/block/buzz.svg?style=social) - Workspace where AI agents and humans collaborate on their own relay.
+* [Amethyst](https://github.com/vitorpamplona/amethyst) ⭐ 1,612 | 🐛 120 | 🌐 Kotlin | 📅 2026-10-17![stars](https://img.shields.io/github/stars/vitorpamplona/amethyst.svg?style=social) - An Android client for nostr written in Kotlin
+* [gossip](https://github.com/mikedilger/gossip) ⭐ 886 | 🐛 213 | 🌐 Rust | 📅 2026-10-17![stars](https://img.shields.io/github/stars/mikedilger/gossip.svg?style=social) - A desktop client in rust presented with egui
 * [iris](https://github.com/irislib/iris-messenger) ⚠️ Archived![stars](https://img.shields.io/github/stars/irislib/iris-messenger.svg?style=social) - A nostr web client
   * [iris.to](https://iris.to) - live instance
   * [Android app](https://play.google.com/store/apps/details?id=to.iris.twa)
@@ -239,7 +240,7 @@ Websites with lists of relays and their performance/health:
 * [Coracle](https://github.com/coracle-social/coracle) ⭐ 367 | 🐛 98 | 🌐 Svelte | 📅 2026-10-13![stars](https://img.shields.io/github/stars/coracle-social/coracle.svg?style=social) - A nostr web client
 * [Snort](https://github.com/v0l/snort) ⭐ 347 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-12![stars](https://img.shields.io/github/stars/v0l/snort.svg?style=social) - Nostr UI written in react
   * [snort.social](https://snort.social)
-* [Notedeck](https://github.com/damus-io/notedeck) ⭐ 317 | 🐛 431 | 🌐 Rust | 📅 2026-10-14![stars](https://img.shields.io/github/stars/damus-io/notedeck.svg?style=social) - Rust based desktop nostr browser by Damus
+* [Notedeck](https://github.com/damus-io/notedeck) ⭐ 317 | 🐛 430 | 🌐 Rust | 📅 2026-10-16![stars](https://img.shields.io/github/stars/damus-io/notedeck.svg?style=social) - Rust based desktop nostr browser by Damus
 * [more-speech](https://github.com/unclebob/more-speech) ⭐ 312 | 🐛 5 | 🌐 Clojure | 📅 2024-02-06![stars](https://img.shields.io/github/stars/unclebob/more-speech.svg?style=social) - desktop client for nostr written in Clojure
 * [noscl](https://github.com/fiatjaf/noscl) ⚠️ Archived![stars](https://img.shields.io/github/stars/fiatjaf/noscl.svg?style=social) - a basic command-line client written in Go
 * [Vector](https://github.com/VectorPrivacy/Vector) ⭐ 242 | 🐛 17 | 🌐 Rust | 📅 2026-10-15![stars](https://img.shields.io/github/stars/VectorPrivacy/Vector.svg?style=social) - A privacy-focused encrypted messenger built on Nostr using NIP-17, with zero metadata leakage. Available for Windows, macOS, Linux, and Android.
@@ -252,10 +253,10 @@ Websites with lists of relays and their performance/health:
   * [jumble.social](https://jumble.social/) - live instance
 * [Coop](https://github.com/lumehq/coop) ⭐ 203 | 🐛 18 | 🌐 Rust | 📅 2026-01-11![stars](https://img.shields.io/github/stars/lumehq/coop.svg?style=social) - A Nostr client by the Lume team.
 * [Oracolo](https://github.com/dtonon/oracolo) ⭐ 194 | 🐛 9 | 🌐 Svelte | 📅 2026-08-11![stars](https://img.shields.io/github/stars/dtonon/oracolo.svg?style=social) - Oracolo is a minimalist blog, powered by Nostr, that consists of a single html file.
-* [nostter](https://github.com/SnowCait/nostter) ⭐ 184 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-14![stars](https://img.shields.io/github/stars/SnowCait/nostter.svg?style=social) - Twitter-like web client
+* [nostter](https://github.com/SnowCait/nostter) ⭐ 184 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/SnowCait/nostter.svg?style=social) - Twitter-like web client
 * [Nos](https://github.com/planetary-social/nos) ⭐ 151 | 🐛 290 | 🌐 HTML | 📅 2025-07-24 ![stars](https://img.shields.io/github/stars/planetary-social/nos.svg?style=social) - A UX-focused iOS / MacOS native app focused on a polished new user experience. [planetary.social](https://planetary.social) [⚡ zap](https://nostr.net/grant/?zap=strongsnail1@primal.net)
 * [Nostrmo](https://github.com/haorendashu/nostrmo) ⭐ 122 | 🐛 17 | 🌐 Dart | 📅 2026-05-27![stars](https://img.shields.io/github/stars/haorendashu/nostrmo.svg?style=social) - A flutter nostr client for Android, IOS, MacOS, Windows, Web and Linux.
-* [gitstr](https://github.com/fiatjaf/gitstr) ⚠️ Archived![stars](https://img.shields.io/github/stars/fiatjaf/gitstr.svg?style=social) - Send and receive git patches over Nostr, using [NIP-34](https://github.com/nostr-protocol/nips/blob/master/34.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-16.
+* [gitstr](https://github.com/fiatjaf/gitstr) ⚠️ Archived![stars](https://img.shields.io/github/stars/fiatjaf/gitstr.svg?style=social) - Send and receive git patches over Nostr, using [NIP-34](https://github.com/nostr-protocol/nips/blob/master/34.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-17.
 * [Satellite](https://github.com/lovvtide/satellite-web) ⭐ 117 | 🐛 17 | 🌐 JavaScript | 📅 2024-02-05![stars](https://img.shields.io/github/stars/lovvtide/satellite-web.svg?style=social) - Nostr web client with Reddit-style threads
   * [satellite.earth](https://satellite.earth) - live instance
 * [nostr-relay-tray](https://github.com/CodyTseng/nostr-relay-tray) ⭐ 110 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-30![stars](https://img.shields.io/github/stars/CodyTseng/nostr-relay-tray.svg?style=social) - a simple nostr relay tray app written in Electron
@@ -292,7 +293,7 @@ Websites with lists of relays and their performance/health:
 * [Clawstr](https://github.com/clawstr/clawstr) ⭐ 55 | 🐛 3 | 🌐 TypeScript | 📅 2026-02-09![stars](https://img.shields.io/github/stars/clawstr/clawstr.svg?style=social) - Social network for AI agents on Nostr [clawstr.com](https://clawstr.com/)
 * [Disgus](https://github.com/carlitoplatanito/disgus) ⭐ 54 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/carlitoplatanito/disgus.svg?style=social) - A comment widget like Disqus, but for Nostr.
 * [danmakustr](https://github.com/CodyTseng/danmakustr) ⭐ 49 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-30![stars](https://img.shields.io/github/stars/codytseng/danmakustr.svg?style=social) - a chrome extension allowing users to send special comments (弹幕, danmaku) on YouTube and display them above the video.
-* [Nostroots](https://github.com/Trustroots/nostroots) ⭐ 49 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/Trustroots/nostroots.svg?style=social) - Trustroots-style hospitality network on Nostr.
+* [Nostroots](https://github.com/Trustroots/nostroots) ⭐ 49 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/Trustroots/nostroots.svg?style=social) - Trustroots-style hospitality network on Nostr.
 * [Roadstr](https://github.com/jooray/roadstr) ⭐ 49 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-29![stars](https://img.shields.io/github/stars/jooray/roadstr.svg?style=social) - Bikers and motorists community client on Nostr. [⚡ zap](https://nostr.net/grant/?zap=juraj-bzzz@pay.cypherpunk.today)
 * [Fevela](https://github.com/dtonon/fevela) ⭐ 48 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-05![stars](https://img.shields.io/github/stars/dtonon/fevela.svg?style=social) - A Nostr social client with an innovative interface that gives you back full control of your attention and time.
   * [fevela.me](https://fevela.me) - live instance
@@ -300,7 +301,7 @@ Websites with lists of relays and their performance/health:
   * [member.cash](https://member.cash/) - live instance
 * [dispute](https://github.com/ethicnology/dispute) ⭐ 47 | 🐛 0 | 🌐 Dart | 📅 2026-04-21![stars](https://img.shields.io/github/stars/ethicnology/dispute.svg?style=social) - A cross-platform (Linux, Android, iOS, macOS, Windows and Web) client for NOSTR
 * [NostrEmitter](https://github.com/cmdruid/nostr-emitter) ⭐ 47 | 🐛 1 | 🌐 JavaScript | 📅 2023-02-05![stars](https://img.shields.io/github/stars/cmdruid/nostr-emitter.svg?style=social) - Simple E2E encrypted client and EventEmitter object
-* [shockwallet](https://github.com/shocknet/wallet2) ⭐ 47 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/shocknet/wallet2.svg?style=social) - A Lightning wallet that uses nostr and lnurl to connect to nodes
+* [shockwallet](https://github.com/shocknet/wallet2) ⭐ 47 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/shocknet/wallet2.svg?style=social) - A Lightning wallet that uses nostr and lnurl to connect to nodes
 * [+Chorus](https://github.com/andotherstuff/chorus/) ⭐ 43 | 🐛 43 | 🌐 TypeScript | 📅 2025-07-08![stars](https://img.shields.io/github/stars/andotherstuff/chorus.svg?style=social) - +chorus is a simple space for communities to gather, share, and support each other.
 * [Nostrord](https://github.com/nostrord/nostrord) ⭐ 43 | 🐛 53 | 🌐 Kotlin | 📅 2026-09-03![stars](https://img.shields.io/github/stars/nostrord/nostrord.svg?style=social) - A cross-platform NIP-29 group chat client built with Kotlin Multiplatform & Compose Multiplatform.
 * [Grimoire](https://github.com/purrgrammer/grimoire) ⭐ 41 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/purrgrammer/grimoire.svg?style=social) - A themed Nostr client designed for magicians and magic enthusiasts
@@ -338,8 +339,8 @@ Websites with lists of relays and their performance/health:
 * [Agora](https://github.com/ghobs91/Agora) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-30 ![stars](https://img.shields.io/github/stars/ghobs91/agora.svg?style=social) - Follow your favorite topics in nostr-verse (and even posts from Mastodon, Reddit, Bluesky, and Twitter)
 * [Gitworkshop](https://github.com/DanConwayDev/gitworkshop) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-28![stars](https://img.shields.io/github/stars/DanConwayDev/gitworkshop.svg?style=social) - Git is a Nostr and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [Hugo2Nostr](https://github.com/delirehberi/hugo2nostr) ⭐ 19 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-28![stars](https://img.shields.io/github/stars/delirehberi/hugo2nostr.svg?style=social) - Sync your hugo blog with nostr network. The tool have scripts to sync contents.
-* [astraea](https://github.com/mouse484/astraea) ⭐ 18 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/mouse484/astraea.svg?style=social) - A nostr client
-* [gittr](https://github.com/arbadacarbaYK/gittr) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-13![stars](https://img.shields.io/github/stars/arbadacarbaYK/gittr.svg?style=social) - Decentralized Git platform with native zaps, bounties, SSH keys, and decentralized storage. Uses [NIP-34](https://github.com/nostr-protocol/nips/blob/master/34.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-16 for repositories, PRs, and issues.
+* [astraea](https://github.com/mouse484/astraea) ⭐ 18 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/mouse484/astraea.svg?style=social) - A nostr client
+* [gittr](https://github.com/arbadacarbaYK/gittr) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-13![stars](https://img.shields.io/github/stars/arbadacarbaYK/gittr.svg?style=social) - Decentralized Git platform with native zaps, bounties, SSH keys, and decentralized storage. Uses [NIP-34](https://github.com/nostr-protocol/nips/blob/master/34.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-17 for repositories, PRs, and issues.
   * [gittr.space](https://gittr.space) - live instance
 * [Written](https://github.com/silencesoft/written) ⭐ 18 | 🐛 1 | 🌐 TypeScript | 📅 2023-07-05![stars](https://img.shields.io/github/stars/silencesoft/written.svg?style=social) - Self hosted blog using nostr long-form content (NIP-23) and it shows only posts by selected authors.
   * [Demo](https://written-weld.vercel.app/)
@@ -353,11 +354,12 @@ Websites with lists of relays and their performance/health:
 * [scalastr](https://github.com/benthecarman/scalastr) ⭐ 14 | 🐛 18 | 🌐 Scala | 📅 2026-08-22![stars](https://img.shields.io/github/stars/benthecarman/scalastr.svg?style=social) - A barebones nostr client written in scala
 * [Swarmstr](https://github.com/ptrio42/swarmstr.com) ⭐ 14 | 🐛 10 | 🌐 TypeScript | 📅 2024-08-28![stars](https://img.shields.io/github/stars/ptrio42/swarmstr.com.svg?style=social)  - Your knowledge hub for curious minds
   * [Swarmstr](https://swarmstr.com) - live instance
+* [verdana](https://github.com/fiatjaf/verdana) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2026-10-16![stars](https://img.shields.io/github/stars/fiatjaf/verdana.svg?style=social) - napp runner for desktop and android
 * [algia-web](https://github.com/ryogrid/algia-web) ⭐ 13 | 🐛 0 | 🌐 HTML | 📅 2023-10-26![stars](https://img.shields.io/github/stars/ryogrid/algia-web.svg?style=social) - A small resource consumption oriented Nostr web client
 * [electron-nostr](https://github.com/wds4/electron-react-boilerplate-nostr) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2023-06-07![stars](https://img.shields.io/github/stars/wds4/electron-react-boilerplate-nostr?style=social) - A bare-bones desktop nostr client using electron-react-boilerplate. The goal is to be an easy template for people to experiment with different ideas on decentralized ratings, reputation, and web of trust
 * [Nostr Playground](https://github.com/sepehr-safari/nostr-playground) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-25 ![stars](https://img.shields.io/github/stars/sepehr-safari/nostr-playground.svg?style=social) - A simple and user-friendly playground for Nostr.
   * [playground.nostr.com](https://playground.nostr.com/) - Live instance.
-* [Vega](https://github.com/hoornet/vega) ⭐ 13 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-14![stars](https://img.shields.io/github/stars/hoornet/vega.svg?style=social) - A client for Linux, Windows and macOS (Tauri + React), with long-form writing and reading (NIP-23), V4V podcast streaming, WoT filtering and an optional built-in relay. [⚡ zap](https://nostr.net/grant/?zap=jure@getalby.com)
+* [Vega](https://github.com/hoornet/vega) ⭐ 13 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/hoornet/vega.svg?style=social) - A client for Linux, Windows and macOS (Tauri + React), with long-form writing and reading (NIP-23), V4V podcast streaming, WoT filtering and an optional built-in relay. [⚡ zap](https://nostr.net/grant/?zap=jure@getalby.com)
   * [veganostr.com](https://veganostr.com/)
 * [Noflux](https://github.com/fiatjaf/noflux) ⭐ 12 | 🐛 0 | 🌐 Go | 📅 2025-01-25![stars](https://img.shields.io/github/stars/fiatjaf/noflux.svg?style=social) - minimalist and opinionated feed reader
 * [Docstr](https://github.com/sepehr-safari/docstr) ⭐ 11 | 🐛 2 | 🌐 TypeScript | 📅 2024-07-04 - Collaborative Documents (Google Docs Alternative)
@@ -391,13 +393,13 @@ Websites with lists of relays and their performance/health:
 * [Postr For Nostr](https://github.com/joel-st/postr-for-nostr) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-12![stars](https://img.shields.io/github/stars/joel-st/postr-for-nostr.svg?style=social) - Post to Nostr directly from within WordPress using NIP-07
 * [Tides](https://github.com/arbadacarbayk/tides) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09![stars](https://img.shields.io/github/stars/arbadacarbayk/tides.svg?style=social) - Chrome Extension Messenger with a hotlink for Noderunners Radio Stream
 * [Bikel](https://github.com/Mnpezz/bikel) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-05![stars](https://img.shields.io/github/stars/Mnpezz/bikel.svg?style=social) - Bicycle ride tracking,sharing, and cycling event client app and webpage [www.bikel.ink](https://bikel.ink/)
-* [Brezn](https://github.com/DaBena/Brezn) ⭐ 4 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-11![stars](https://img.shields.io/github/stars/DaBena/Brezn.svg?style=social) - PWA client for Nostr focusing on local networking using five-digit geohash (4.9 × 4.9 km cell). Like CB radio for the internet: local communication in your area, without central control.
+* [Brezn](https://github.com/DaBena/Brezn) ⭐ 4 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/DaBena/Brezn.svg?style=social) - PWA client for Nostr focusing on local networking using five-digit geohash (4.9 × 4.9 km cell). Like CB radio for the internet: local communication in your area, without central control.
   * [dabena.github.io/Brezn/](https://dabena.github.io/Brezn/) - live instance
 * [Nostr Read Only Client](https://github.com/delirehberi/nostr-ro-client/) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11![stars](https://img.shields.io/github/stars/delirehberi/nostr-ro-client.svg?style=social) - simple cloudflare worker to serve a single user's nostr content (kind:1) as web page preview: nostr.emre.xyz
 * [pocket-wallet](https://github.com/RetricSu/pocket-wallet) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-20![stars](https://img.shields.io/github/stars/RetricSu/pocket-wallet.svg?style=social) - PocketWallet is a nostr-based wallet on CKB blockchain supportting Nip07 and Nip46.
 * [zephyr](https://github.com/coracle-social/zephyr) ⭐ 4 | 🐛 0 | 🌐 Svelte | 📅 2023-10-09![stars](https://img.shields.io/github/stars/coracle-social/zephyr.svg?style=social) - A meditative nostr feed reader
-* [Iris Chat](https://github.com/irislib/iris-chat) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/irislib/iris-chat.svg?style=social) - Decentralized end-to-end encrypted messenger using the double-ratchet protocol, with no email or phone registration
-  * [Native apps and CLI](https://github.com/irislib/iris-chat-rs) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-10-16 - includes a command-line client for scripts and agents
+* [Iris Chat](https://github.com/irislib/iris-chat) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/irislib/iris-chat.svg?style=social) - Decentralized end-to-end encrypted messenger using the double-ratchet protocol, with no email or phone registration
+  * [Native apps and CLI](https://github.com/irislib/iris-chat-rs) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-10-17 - includes a command-line client for scripts and agents
   * [chat.iris.to](https://chat.iris.to) - web app
 * [ni.py](https://github.com/0n4t3/nipy) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2024-05-06![stars](https://img.shields.io/github/stars/0n4t3/nipy.svg?style=social) - CLI post only client for Nostr, Activity Pub, and the AT Protocol written in Python.
 * [Pollstr](https://github.com/mroxso/pollstr) ⚠️ Archived![stars](https://img.shields.io/github/stars/mroxso/pollstr?style=social) - A nostr web client with a focus on polls.
@@ -412,12 +414,11 @@ Websites with lists of relays and their performance/health:
 * [Coracle Chat](https://github.com/coracle-social/legacy-chat) ⭐ 1 | 🐛 0 | 🌐 Svelte | 📅 2023-09-25![stars](https://img.shields.io/github/stars/coracle-social/legacy-chat.svg?style=social) - A standalone port of Coracle's old chat functionality
 * [Coracle DMs](https://github.com/coracle-social/legacy-dms) ⭐ 1 | 🐛 0 | 🌐 Svelte | 📅 2023-12-13![stars](https://img.shields.io/github/stars/coracle-social/legacy-dms.svg?style=social) - A standalone port of Coracle's old DM functionality
 * [Nostr Feedz](https://github.com/PlebOne/Nostr-Feedz) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-28![stars](https://img.shields.io/github/stars/PlebOne/Nostr-Feedz.svg?style=social) - Nostr feed aggregator.
-* [verdana](https://github.com/fiatjaf/verdana) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-10-16![stars](https://img.shields.io/github/stars/fiatjaf/verdana.svg?style=social) - napp runner for desktop and android
 * [badger](https://github.com/0ceanslim/badger) ⭐ 0 | 🐛 2 | 🌐 Go | 📅 2024-09-20![stars](https://img.shields.io/github/stars/0ceanslim/badger.svg?style=social) - A NIP58 nostr badge client. Create Badges view Profile Badges and more.
 * [NOW - Nostr Outbox for Wordpress](https://github.com/Mnpezz/nostr-outbox-for-wordpress/tree/main) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-01-05![stars](https://img.shields.io/github/stars/Mnpezz/nostr-outbox-for-wordpress.svg?style=social) - Send WordPress and WooCommerce notifications via Nostr instead of email. Includes Lightning payments at checkout, Nostr login, NIP-05 verification, and encrypted direct messaging.
 * [Streakstr](https://github.com/theakash04/Streakstr) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-24![stars](https://img.shields.io/github/stars/theakash04/Streakstr.svg?style=social) - A daily activity tracker for Nostr. Post every day to keep your streak alive, monitored automatically by a behind-the-scenes bot.
   * [streakstr.online](https://streakstr.online/) - live instance
-* [Tollbooth-DPYC](https://github.com/lonniev/dpyc-oracle) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - Tollbooth DPYC is a network state ecosystem for Bitcoin entrepreneurs who monetize their MCP services according to the Don't Pester Your Customer (DPYC) principles.
+* [Tollbooth-DPYC](https://github.com/lonniev/dpyc-oracle) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-17 - Tollbooth DPYC is a network state ecosystem for Bitcoin entrepreneurs who monetize their MCP services according to the Don't Pester Your Customer (DPYC) principles.
 * [Zaplytics](https://github.com/derekross/zaplytics) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-11![stars](https://img.shields.io/github/stars/derekross/zaplytics.svg?style=social) - Analytics for your Nostr Zaps, helping creators dive into their Zap earnings. [Zaplytics.app](https://zaplytics.app/) [⚡ zap](https://nostr.net/grant/?zap=pay@derekross.me)
 * [Sanki](https://sanki.app) - Chess, ōgi and xiongqi playing each other on one 8×8 board; no sign-up, games are signed events (custom kinds 3418-3441, NIPs at [sashite/nostr](https://github.com/sashite/nostr) ⭐ 0 | 🐛 0 | 📅 2026-09-06)
 * [Asknostr.site](https://asknostr.site) - A Quora/StackOverflow Q\&A site using the nostr network and #asknostr content
@@ -459,7 +460,7 @@ Websites with lists of relays and their performance/health:
 * [Pareto](https://pareto.space/read) - The Pareto client is a part of an open-source publishing ecosystem for uncensorable citizen journalism, specialized in writing and reading of long-form Nostr articles.
 * [Paz](https://pazstr.codeberg.page) - Paz is a desktop semantic Nostr client that transforms events into linked data (RDF) and makes queries on the events graph.
 * [Pollerama](https://pollerama.fun/) - A polls implementation on nostr, with features like Proof of Work Filtering, Followset filtering, and more.
-  * [Github Repo](https://github.com/abhay-raizada/nostr-polls) ⭐ 18 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-08![stars](https://img.shields.io/github/stars/abhay-raizada/nostr-polls)
+  * [Github Repo](https://github.com/abhay-raizada/nostr-polls) ⭐ 18 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/abhay-raizada/nostr-polls)
 * [Primal](https://primal.net) - Lightning-fast web client for Nostr. Features extensive analytics, vanity profiles, and more.
 * [P2P band](https://p2p.band/)![stars](https://img.shields.io/github/stars/KoalaSat/p2pband.svg?style=social) -  P2P Bitcoin exchanges decentralized aggregator
 * [Rebased](https://codeberg.org/Zsub/rebased) - rebased — unify dev cryptography with your npub..
@@ -491,19 +492,19 @@ Websites with lists of relays and their performance/health:
 * [Flotilla](https://flotilla.social) - Communities and group chat on Nostr.
 * [Marmota](https://groups.privdm.com) - MLS-based group chat on Nostr.
 
-### Nostr Marketplace clients ([NIP-15](https://github.com/nostr-protocol/nips/blob/master/15.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-16 & [NIP-99](https://github.com/nostr-protocol/nips/blob/master/99.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-16)
+### Nostr Marketplace clients ([NIP-15](https://github.com/nostr-protocol/nips/blob/master/15.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-17 & [NIP-99](https://github.com/nostr-protocol/nips/blob/master/99.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-17)
 
 * [LNBits Nostrmarket](https://github.com/lnbits/nostrmarket) ⭐ 145 | 🐛 15 | 🌐 JavaScript | 📅 2026-02-16![stars](https://img.shields.io/github/stars/lnbits/nostrmarket.svg?style=social) - Nostrmarket extension for LNBits allows you to sell items directly from your LNBits instance
 * [Shopstr](https://github.com/shopstr-eng/shopstr) ⭐ 104 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-11![stars](https://img.shields.io/github/stars/shopstr-eng/shopstr.svg?style=social) - The Lightning and Cashu-native self-sovereign marketplace built on top of NIP-99 includes fixed-price items
 * [Plebeian Market](https://github.com/PlebeianTech/plebeian-market) ⚠️ Archived![stars](https://img.shields.io/github/stars/PlebeianTech/plebeian-market.svg?style=social) - The Bitcoin-native self-sovereign marketplace built on top of NIP-15 includes fixed-price items and auctions
 * [Mostro Mobile](https://github.com/MostroP2P/mobile) ⭐ 83 | 🐛 51 | 🌐 Dart | 📅 2026-10-07![stars](https://img.shields.io/github/stars/MostroP2P/mobile.svg?style=social) - Mobile client for the Mostro P2P exchange platform. [⚡ zap](https://nostr.net/grant/?zap=mostro_p2p@sats.mobi)
-* [Conduit Market](https://shop.conduit.market) - Nostr-native marketplace for browsing merchant listings, carts, checkout, order tracking, and buyer-merchant communication. [Source](https://github.com/Conduit-BTC/conduit-mono) ⭐ 12 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-16
-* [Conduit Merchant Portal](https://sell.conduit.market) - Seller dashboard for managing Nostr-native product listings, orders, Lightning invoices, and buyer conversations. [Source](https://github.com/Conduit-BTC/conduit-mono) ⭐ 12 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-16
-* [infinitemarkets](https://github.com/bitkarrot/infinitemarkets) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-16![stars](https://img.shields.io/github/stars/bitkarrot/infinitemarkets.svg?style=social) - A NIP-99 compliant open markets extension for LNBits
+* [Conduit Market](https://shop.conduit.market) - Nostr-native marketplace for browsing merchant listings, carts, checkout, order tracking, and buyer-merchant communication. [Source](https://github.com/Conduit-BTC/conduit-mono) ⭐ 12 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-17
+* [Conduit Merchant Portal](https://sell.conduit.market) - Seller dashboard for managing Nostr-native product listings, orders, Lightning invoices, and buyer conversations. [Source](https://github.com/Conduit-BTC/conduit-mono) ⭐ 12 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-17
+* [infinitemarkets](https://github.com/bitkarrot/infinitemarkets) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-17![stars](https://img.shields.io/github/stars/bitkarrot/infinitemarkets.svg?style=social) - A NIP-99 compliant open markets extension for LNBits
 * [Kartapio](https://github.com/vstabile/kartapio) ⭐ 1 | 🐛 5 | 🌐 Svelte | 📅 2025-02-27![stars](https://img.shields.io/github/stars/vstabile/kartapio.svg?style=social) - A Nostr-based marketplace.
 * [Milk Market](https://milk.market) - A Nostr-native marketplace.
 
-### Web Bookmarking ([NIP-B0](https://github.com/nostr-protocol/nips/blob/master/B0.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-16)
+### Web Bookmarking ([NIP-B0](https://github.com/nostr-protocol/nips/blob/master/B0.md) ⭐ 3,117 | 🐛 736 | 📅 2026-10-17)
 
 * [Community Curated Nostr Stuff (CCNS)](https://github.com/Sebastix/CCNS) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2026-10-14![stars](https://img.shields.io/github/stars/Sebastix/CCNS.svg?style=social) - CCNS is a Nostr-focused community platform centered around link aggregation and discussion topics.
 * [KUCHIYOSE](https://github.com/nikolat/kuchiyose) ⭐ 6 | 🐛 0 | 🌐 Svelte | 📅 2026-10-15![stars](https://img.shields.io/github/stars/nikolat/kuchiyose.svg?style=social) - Nostr events of web bookmark.
@@ -554,19 +555,19 @@ Websites with lists of relays and their performance/health:
 * [NostrPostr](https://github.com/Giszmo/NostrPostr) ⭐ 45 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13![stars](https://img.shields.io/github/stars/Giszmo/NostrPostr.svg?style=social) - a Kotlin Nostr library for clients or relays
 * [nostr-types](https://github.com/mikedilger/nostr-types) ⭐ 39 | 🐛 3 | 🌐 Rust | 📅 2026-06-14![stars](https://img.shields.io/github/stars/mikedilger/nostr-types.svg?style=social) - a rust library defining types useful for the nostr protocol
 * [NIP-44](https://github.com/paulmillr/nip44) ⭐ 37 | 🐛 3 | 🌐 C | 📅 2024-12-04![stars](https://img.shields.io/github/stars/paulmillr/nip44.svg?style=social) - NIP44 spec and implementations of encrypted messages for nostr
-* [dart NDK](https://github.com/relaystr/ndk) ⭐ 29 | 🐛 86 | 🌐 Dart | 📅 2026-10-13 ![stars](https://img.shields.io/github/stars/relaystr/ndk.svg?style=social) - Nostr Development Kit for dart applications
+* [dart NDK](https://github.com/relaystr/ndk) ⭐ 29 | 🐛 87 | 🌐 Dart | 📅 2026-10-16 ![stars](https://img.shields.io/github/stars/relaystr/ndk.svg?style=social) - Nostr Development Kit for dart applications
 * [nostr-ts](https://github.com/franzos/nostr-ts) ⭐ 29 | 🐛 3 | 🌐 TypeScript | 📅 2026-04-02![stars](https://img.shields.io/github/stars/franzos/nostr-ts.svg?style=social) - a Typescript implementation of the nostr protocol plus toys
 * [nostr](https://github.com/wilsonsilva/nostr) ⭐ 29 | 🐛 6 | 🌐 Ruby | 📅 2025-02-27![stars](https://img.shields.io/github/stars/wilsonsilva/nostr.svg?style=social) - a Ruby Nostr gem for use by clients
 * [paravel](https://github.com/coracle-social/paravel) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-12 ![stars](https://img.shields.io/github/stars/coracle-social/paravel.svg?style=social) - an abstract toolkit for writing nostr clients.
+* [nostr-double-ratchet](https://github.com/mmalmi/nostr-double-ratchet) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15![stars](https://img.shields.io/github/stars/mmalmi/nostr-double-ratchet.svg?style=social) - Signal-style secure private messaging channels
 * [nostr-deno](https://github.com/KiPSOFT/nostr-deno) ⭐ 24 | 🐛 6 | 🌐 TypeScript | 📅 2023-02-05![stars](https://img.shields.io/github/stars/KiPSOFT/nostr-deno.svg?style=social) - a client library for Deno javascript runtime.
-* [nostr-double-ratchet](https://github.com/mmalmi/nostr-double-ratchet) ⭐ 24 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15![stars](https://img.shields.io/github/stars/mmalmi/nostr-double-ratchet.svg?style=social) - Signal-style secure private messaging channels
 * [Nostra](https://github.com/lontivero/Nostra) ⭐ 23 | 🐛 0 | 🌐 F# | 📅 2026-09-20![stars](https://img.shields.io/github/stars/lontivero/nostra.svg?style=social) - a F# library, available as a NuGet package, for interacting with relays. Nostra relay is built on top of it too.
 * [NostrKit](https://github.com/cnixbtc/NostrKit) ⭐ 19 | 🐛 3 | 🌐 Swift | 📅 2024-01-25![stars](https://img.shields.io/github/stars/cnixbtc/NostrKit.svg?style=social) - a Swift library for interacting with relays
 * [nostr-sdk-ffi](https://github.com/rust-nostr/nostr-sdk-ffi) ⭐ 19 | 🐛 8 | 🌐 Rust | 📅 2026-09-01![stars](https://img.shields.io/github/stars/rust-nostr/nostr-sdk-ffi.svg?style=social) - Nostr SDK native language bindings — enables using the Rust nostr-sdk from other languages via FFI
 * [noscrypt](https://github.com/vnuge/noscrypt) ⭐ 17 | 🐛 0 | 🌐 C | 📅 2026-06-29![stars](https://img.shields.io/github/stars/vnuge/noscrypt.svg?style=social) - A C89 library for nostr specific cryptography operations. [⚡ zap](https://nostr.net/grant/?zap=chiptuner@coinos.io)
 * [nostr-relay](https://github.com/CodyTseng/nostr-relay) ⭐ 17 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-10![starts](https://img.shields.io/github/stars/CodyTseng/nostr-relay.svg?style=social) - A typescript library that helps you easily build your customized Nostr relay.
 * [libnostr-z](https://github.com/privkeyio/libnostr-z) ⭐ 16 | 🐛 9 | 🌐 Zig | 📅 2026-10-06![stars](https://img.shields.io/github/stars/privkeyio/libnostr-z.svg?style=social) - A Zig library implementing the Nostr protocol, covering keypair generation, event signing, and relay communication.
-* [nostr-social-graph](https://github.com/mmalmi/nostr-social-graph) ⭐ 16 | 🐛 2 | 🌐 Rust | 📅 2026-10-15![stars](https://img.shields.io/github/stars/mmalmi/nostr-social-graph.svg?style=social) - TypeScript library for building and querying social graphs from Nostr follow events, with efficient binary serialization and pre-crawled datasets
+* [nostr-social-graph](https://github.com/mmalmi/nostr-social-graph) ⭐ 16 | 🐛 2 | 🌐 Rust | 📅 2026-10-17![stars](https://img.shields.io/github/stars/mmalmi/nostr-social-graph.svg?style=social) - TypeScript library for building and querying social graphs from Nostr follow events, with efficient binary serialization and pre-crawled datasets
 * [libnostr-c](https://github.com/privkeyio/libnostr-c) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2026-10-05![stars](https://img.shields.io/github/stars/privkeyio/libnostr-c.svg?style=social) - A lightweight C library implementing the Nostr protocol with NIP-44 encryption and Lightning support, optimized for embedded systems like ESP32.
 * [nmostr](https://github.com/Gruruya/nmostr) ⭐ 14 | 🐛 4 | 🌐 Nim | 📅 2024-04-04![stars](https://img.shields.io/github/stars/Gruruya/nmostr.svg?style=social) - a Nim library for Nostr
 * [nostr-typedef](https://github.com/penpenpng/nostr-typedef) ⭐ 13 | 🐛 2 | 📅 2026-01-27![stars](https://img.shields.io/github/stars/penpenpng/nostr-typedef.svg?style=social) - Type definition files to develop Nostr applications in TypeScript
@@ -585,7 +586,7 @@ Websites with lists of relays and their performance/health:
 * [schorr\_snap](https://github.com/neeboo/schnorr_snap) ⭐ 7 | 🐛 2 | 🌐 TypeScript | 📅 2022-12-21![stars](https://img.shields.io/github/stars/neeboo/schnorr_snap.svg?style=social) - A snap plugin for Metamask Flask, supports nostr
 * [swift-nostr-client](https://github.com/yysskk/swift-nostr-client) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2026-09-21![stars](https://img.shields.io/github/stars/yysskk/swift-nostr-client.svg?style=social) - A modern Swift library for the Nostr protocol with Swift 6 concurrency support
 * [nostr-sdk-flutter](https://github.com/rust-nostr/nostr-sdk-flutter) ⭐ 7 | 🐛 3 | 🌐 Rust | 📅 2026-01-29![stars](https://img.shields.io/github/stars/rust-nostr/nostr-sdk-flutter.svg?style=social) - Nostr protocol implementation, Relay, RelayPool, high-level client library, NWC client and more
-* [better-auth-nostr](https://github.com/leon-wbr/better-auth-nostr) ⭐ 6 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-15![stars](https://img.shields.io/github/stars/leon-wbr/better-auth-nostr.svg?style=social) – A plugin for Better Auth to add Nostr sign-in.
+* [better-auth-nostr](https://github.com/leon-wbr/better-auth-nostr) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/leon-wbr/better-auth-nostr.svg?style=social) – A plugin for Better Auth to add Nostr sign-in.
 * [navigatr](https://github.com/coracle-social/navigatr) ⚠️ Archived![stars](https://img.shields.io/github/stars/coracle-social/navigatr.svg?style=social) - A utility for discovering relays and scraping events
 * [nostrclient](https://github.com/duozhutuan/nostrclient) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-05-23![stars](https://img.shields.io/github/stars/duozhutuan/nostrclient.svg?style=social)- Nostr python client library
 * [ring-sig](https://github.com/forgesworn/ring-sig) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-05![stars](https://img.shields.io/github/stars/forgesworn/ring-sig.svg?style=social) - SAG and LSAG ring signatures on secp256k1 for proving group membership without revealing which key signed. TypeScript.
@@ -634,11 +635,11 @@ Websites with lists of relays and their performance/health:
 
 ## Tools
 
-* [Feeder](https://github.com/spacecowboy/Feeder) ⭐ 3,075 | 🐛 231 | 🌐 Kotlin | 📅 2026-10-16![stars](https://img.shields.io/github/stars/spacecowboy/Feeder.svg?style=social) - RSS reader with Nostr support.
-* [nostr-vpn](https://github.com/mmalmi/nostr-vpn) ⭐ 1,184 | 🐛 45 | 🌐 Rust | 📅 2026-10-05![stars](https://img.shields.io/github/stars/mmalmi/nostr-vpn.svg?style=social) - Tailscale-style private mesh VPN with Nostr identities and signed enrollment rosters, a FIPS data plane, subnet routes, and exit nodes
-* [Aeon](https://github.com/aeonfun/aeon) ⭐ 776 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/aeonfun/aeon.svg?style=social) - Autonomous AI agent framework that publishes signed notes to Nostr relays as an outbound channel.
+* [Feeder](https://github.com/spacecowboy/Feeder) ⭐ 3,073 | 🐛 232 | 🌐 Kotlin | 📅 2026-10-16![stars](https://img.shields.io/github/stars/spacecowboy/Feeder.svg?style=social) - RSS reader with Nostr support.
+* [nostr-vpn](https://github.com/mmalmi/nostr-vpn) ⭐ 1,196 | 🐛 46 | 🌐 Rust | 📅 2026-10-05![stars](https://img.shields.io/github/stars/mmalmi/nostr-vpn.svg?style=social) - Tailscale-style private mesh VPN with Nostr identities and signed enrollment rosters, a FIPS data plane, subnet routes, and exit nodes
+* [Aeon](https://github.com/aeonfun/aeon) ⭐ 777 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/aeonfun/aeon.svg?style=social) - Autonomous AI agent framework that publishes signed notes to Nostr relays as an outbound channel.
 * [fount](https://github.com/steve02081504/fount) ⭐ 693 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-10![stars](https://img.shields.io/github/stars/steve02081504/fount.svg?style=social) - A programmable AI agent runtime that federates peers over Nostr relays (as a fallback P2P transport for LAN, Bluetooth and WebRTC).
-* [granary](https://github.com/snarfed/granary) ⭐ 516 | 🐛 35 | 🌐 Python | 📅 2026-10-15![stars](https://img.shields.io/github/stars/snarfed/granary.svg?style=social) - Convert nostr content into atom, html, rss, json, indieweb feed, mastodon, microformats2, activitystreams, activitypub/fediverse, jsonfeed, and bluesky's atproto all with web and rest-api.
+* [granary](https://github.com/snarfed/granary) ⭐ 516 | 🐛 35 | 🌐 Python | 📅 2026-10-16![stars](https://img.shields.io/github/stars/snarfed/granary.svg?style=social) - Convert nostr content into atom, html, rss, json, indieweb feed, mastodon, microformats2, activitystreams, activitypub/fediverse, jsonfeed, and bluesky's atproto all with web and rest-api.
   * [granary.io](https://granary.io/) - live instance
 * [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder) ⭐ 199 | 🐛 7 | 🌐 Shell | 📅 2025-06-10![stars](https://img.shields.io/github/stars/ipv6rslimited/cloudseeder.svg?style=social) - A 1-click deployment and management tool for nostr-rs-relay and other appliances.
 * [Nostr in Move](https://github.com/rooch-network/rooch/tree/main/examples/nostr) ⭐ 186 | 🐛 220 | 🌐 Rust | 📅 2026-07-20 - A tool to help persist Nostr event in Move oriented blockchains.
@@ -670,8 +671,8 @@ Websites with lists of relays and their performance/health:
 * [nostr-delete](https://github.com/blakejakopovic/nostr_delete) ⭐ 31 | 🐛 5 | 🌐 Svelte | 📅 2024-02-11![stars](https://img.shields.io/github/stars/blakejakopovic/nostr_delete.svg?style=social) - generate delete events requesting relays drop and delete content you've published. Blasts out delete requests to many relays.
   * [nostr-delete web app](https://nostr-delete.vercel.app/)
 * [nostr-broadcast](https://github.com/leesalminen/nostr-broadcast) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-06-10![stars](https://img.shields.io/github/stars/leesalminen/nostr-broadcast.svg?style=social) - This tool lets you take your events from some relays and broadcast them to another relay. Could help back up your notes to a private relay.
+* [nostr-components](https://github.com/saiy2k/nostr-components) ⭐ 29 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-10![stars](https://img.shields.io/github/stars/saiy2k/nostr-components.svg?style=social) - Nostr Components makes it easy to embed Nostr profiles, posts, follow buttons, Live chat box, comment section, DM buttons in any website
 * [nostreq](https://github.com/blakejakopovic/nostreq) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2023-05-19![stars](https://img.shields.io/github/stars/blakejakopovic/nostreq.svg?style=social) - Nostr relay event request generator
-* [nostr-components](https://github.com/saiy2k/nostr-components) ⭐ 28 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-10![stars](https://img.shields.io/github/stars/saiy2k/nostr-components.svg?style=social) - Nostr Components makes it easy to embed Nostr profiles, posts, follow buttons, Live chat box, comment section, DM buttons in any website
 * [nostrends](https://github.com/akiomik/nostrends) ⭐ 27 | 🐛 5 | 🌐 TypeScript | 📅 2025-11-21![stars](https://img.shields.io/github/stars/akiomik/nostrends?style=social) - Trending on Nostr, like Twitter trends. Live at [nostrends.vercel.app](https://nostrends.vercel.app).
 * [Nostrobots](https://github.com/ocknamo/n8n-nodes-nostrobots) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-11![stars](https://img.shields.io/github/stars/ocknamo/n8n-nodes-nostrobots.svg?style=social) - a set of community nodes for using n8n workflow automation with Nostr
 * [nostro](https://github.com/r3drun3/nostro) ⚠️ Archived![stars](https://img.shields.io/github/stars/r3drun3/nostro.svg?style=social) - nostr osint (open source intelligence) tool
@@ -682,7 +683,7 @@ Websites with lists of relays and their performance/health:
 * [tostr](https://github.com/slaninas/tostr) ⚠️ Archived![stars](https://img.shields.io/github/stars/slaninas/tostr.svg?style=social) - a twitter to nostr bot
 * [ndxstr](https://github.com/ArcadeCity/ndxstr) ⭐ 23 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-29![stars](https://img.shields.io/github/stars/ArcadeCity/ndxstr.svg?style=social) - nostr's layer 2 indexing nodes, with more advanced querying capability than currently supported by relays
 * [nos.today](https://github.com/darashi/nos.today) ⭐ 23 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-30![stars](https://img.shields.io/github/stars/darashi/nos.today.svg?style=social) - Nostr NIP-50 search web client for searching across Nostr relays
-* [nosdump](https://github.com/jiftechnify/nosdump) ⭐ 21 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-10![stars](https://img.shields.io/github/stars/jiftechnify/nosdump.svg?style=social) - A command line tool which dumps (download) events stored in Nostr relays
+* [nosdump](https://github.com/jiftechnify/nosdump) ⭐ 21 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/jiftechnify/nosdump.svg?style=social) - A command line tool which dumps (download) events stored in Nostr relays
 * [Nostr action](https://github.com/snow-actions/nostr) ⭐ 21 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-01![stars](https://img.shields.io/github/stars/snow-actions/nostr.svg?style=social) - Send events from GitHub Actions
 * [ants](https://github.com/dergigi/ants) ⭐ 21 | 🐛 27 | 🌐 HTML | 📅 2026-10-10![stars](https://img.shields.io/github/stars/dergigi/ants.svg?style=social)[⚡ zap](https://nostr.net/grant/?zap=dergigi@primal.net) - Search and discovery utilities for Nostr.
 * [nip06-cli](https://github.com/jaonoctus/nip06-cli) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2024-05-12![stars](https://img.shields.io/github/stars/jaonoctus/nip06-cli.svg?style=social) - a Node.js CLI to generate or restore NIP-06 seed phrases
@@ -707,9 +708,9 @@ Websites with lists of relays and their performance/health:
   * [snapnostr.app](https://snapnostr.app/) - live instance
 * [nostr-post-checker](https://github.com/koteitan/nostr-post-checker) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-06![stars](https://img.shields.io/github/stars/koteitan/nostr-post-checker?style=social) - check if event exists on relays
   * [nostr-post-checker](https://koteitan.github.io/nostr-post-checker/) - live instance
-* [homebrew-nostr](https://github.com/nostorg/homebrew-nostr) ⭐ 12 | 🐛 2 | 🌐 Ruby | 📅 2026-10-16![stars](https://img.shields.io/github/stars/nostorg/homebrew-nostr?style=social) - Homebrew tap for Nostr software.
+* [homebrew-nostr](https://github.com/nostorg/homebrew-nostr) ⭐ 12 | 🐛 3 | 🌐 Ruby | 📅 2026-10-17![stars](https://img.shields.io/github/stars/nostorg/homebrew-nostr?style=social) - Homebrew tap for Nostr software.
 * [nostr GitHub Action](https://github.com/theborakompanioni/nostr-action) ⭐ 12 | 🐛 6 | 🌐 JavaScript | 📅 2025-06-06![stars](https://img.shields.io/github/stars/theborakompanioni/nostr-action.svg?style=social) - send events from GitHub Actions
-* [nostr-notification-server](https://github.com/mmalmi/nostr-notification-server) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-10-08![stars](https://img.shields.io/github/stars/mmalmi/nostr-notification-server.svg?style=social) - Rust & LMDB server for sending event notifications to webhooks and web push endpoints
+* [nostr-notification-server](https://github.com/mmalmi/nostr-notification-server) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2026-10-17![stars](https://img.shields.io/github/stars/mmalmi/nostr-notification-server.svg?style=social) - Rust & LMDB server for sending event notifications to webhooks and web push endpoints
 * [NostrReply](https://github.com/gourcetools/nostreply) ⭐ 11 | 🐛 1 | 🌐 Shell | 📅 2023-04-05![stars](https://img.shields.io/github/stars/gourcetools/nostreply.svg?style=social) - Bot that replies to specified text on nostr global feed using NIP50
 * [lightning-memory](https://github.com/singularityjason/lightning-memory) ⭐ 9 | 🐛 6 | 🌐 Python | 📅 2026-03-25![stars](https://img.shields.io/github/stars/singularityjason/lightning-memory.svg?style=social) - Decentralized agent memory for the Lightning economy. Nostr identity, L402 payments, MCP server.
 * [anonroom](https://github.com/vinliao/anonroom) ⭐ 8 | 🐛 1 | 🌐 CSS | 📅 2022-03-05![stars](https://img.shields.io/github/stars/vinliao/anonroom.svg?style=social) - anonymous chat room inside nostr
@@ -722,7 +723,7 @@ Websites with lists of relays and their performance/health:
   * [liquiditystr.space](https://liquiditystr.space/) - live instance
 * [deed](https://github.com/zig-nostr/deed) ⭐ 5 | 🐛 0 | 🌐 Zig | 📅 2026-10-11![stars](https://img.shields.io/github/stars/zig-nostr/deed.svg?style=social) - Fastest and smallest nostr command line, built for AI agents and humans.
 * [nostr-badges](https://github.com/neilck/nostr-badges) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2024-08-29![stars](https://img.shields.io/github/stars/neilck/nostr-badges.svg?style=social) - Nostr badge microservice for managing self-awarded badges. Live at [app.akaprofiles.com](https://app.akaprofiles.com)
-* [NostrComments](https://github.com/briskness-byte/NostrComments) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Browser extension adding a comment thread to any web page, stored on relays rather than on the site being discussed, so the page owner cannot remove it. Chrome, Firefox and userscript. [⚡ zap](https://nostr.net/grant/?zap=slurpnc@coinos.io)
+* [NostrComments](https://github.com/briskness-byte/NostrComments) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-17 - Browser extension adding a comment thread to any web page, stored on relays rather than on the site being discussed, so the page owner cannot remove it. Chrome, Firefox and userscript. [⚡ zap](https://nostr.net/grant/?zap=slurpnc@coinos.io)
 * [nostr-wtf](https://github.com/LightningK0ala/nostr-wtf) ⭐ 5 | 🐛 3 | 🌐 Svelte | 📅 2023-06-06![stars](https://img.shields.io/github/stars/LightningK0ala/nostr-wtf.svg?style=social) - A set of nostr tools available and deployed on a web app including a [pubkey converter](https://lightningk0ala.github.io/nostr-wtf/) and [relay query tool](https://lightningk0ala.github.io/nostr-wtf/query).
 * [Nostrocket](https://github.com/nostrocket/oxygen) ⭐ 5 | 🐛 3 | 🌐 Svelte | 📅 2024-08-22![stars](https://img.shields.io/github/stars/nostrocket/oxygen.svg?style=social) - Decentralized project management on Nostr.
 * [Spotstr](https://github.com/k0sti/spotstr) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-09![stars](https://img.shields.io/github/stars/k0sti/spotstr.svg?style=social) - Location sharing client on Nostr.
@@ -760,7 +761,7 @@ Websites with lists of relays and their performance/health:
 * [nostraap](https://github.com/ccs-mz/nostraap) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-13 - NostraApp is a decentralized messaging application inspired by WhatsApp, built on the Nostr protocol, with native support for end-to-end encryption, distributed relay networks, and Bitcoin Lightning payments (Zaps)
 * [rate](https://github.com/pippellia-btc/rate) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-02-05![stars](https://img.shields.io/github/stars/pippellia-btc/rate.svg?style=social) - A low-level, highly-concurrent, in-memory, generic token bucket rate limiter, designed for IP-based and pubkey-based rate limiting in Nostr relay and Blossom server contexts.
 * [NEET](https://github.com/justinmoon/neet-native) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2025-09-27![stars](https://img.shields.io/github/stars/justinmoon/neet-native.svg?style=social) - Native Nostr application toolkit.
-* [kithmoot](https://github.com/forgesworn/kithmoot) ⭐ 0 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/forgesworn/kithmoot.svg?style=social) - Multi-device conference rooms over Nostr: a town hall nobody owns
+* [kithmoot](https://github.com/forgesworn/kithmoot) ⭐ 0 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/forgesworn/kithmoot.svg?style=social) - Multi-device conference rooms over Nostr: a town hall nobody owns
 * [nostrclaw](https://github.com/rzazo24/nostrclaw) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-12![stars](https://img.shields.io/github/stars/rzazo24/nostrclaw.svg?style=social) - MCP server for read-only Nostr relay analysis, with optional publishing via a NIP-46 signer.
 * [Amethyst crawler](https://crawler.amethyst.social/) - Find and broadcast nostr events
 * [Bech32 for Nostr](https://nostr.xport.top/bech32-for-nostr/) - bech32 Nostr converter.
@@ -884,10 +885,10 @@ Websites with lists of relays and their performance/health:
 * [Clave](https://github.com/DocNR/clave) ⭐ 16 | 🐛 19 | 🌐 Swift | 📅 2026-09-06![stars](https://img.shields.io/github/stars/DocNR/clave.svg?style=social) - NIP-46 remote signer for iOS. Keys are created and kept in the iPhone Keychain, with per-app trust levels, an activity log, multiple identities, and background signing over end-to-end encrypted relays.
   * [clave.casa](https://clave.casa) - website
   * [App Store](https://apps.apple.com/us/app/clave-nostr-signer/id6762104155) - iOS app
-* [Keep](https://github.com/privkeyio/keep) ⭐ 16 | 🐛 26 | 🌐 Rust | 📅 2026-10-16![stars](https://img.shields.io/github/stars/privkeyio/keep.svg?style=social) - Encrypted vault for Nostr and Bitcoin keys with FROST threshold signatures and NIP-46 remote signing, across CLI, desktop, and mobile.
-* [vador](https://vador.codeberg.page) - Nostr encrypted key vault and bunker (desktop). Based on [keep](https://github.com/privkeyio/keep) ⭐ 16 | 🐛 26 | 🌐 Rust | 📅 2026-10-16 and egui.
+* [Keep](https://github.com/privkeyio/keep) ⭐ 16 | 🐛 27 | 🌐 Rust | 📅 2026-10-17![stars](https://img.shields.io/github/stars/privkeyio/keep.svg?style=social) - Encrypted vault for Nostr and Bitcoin keys with FROST threshold signatures and NIP-46 remote signing, across CLI, desktop, and mobile.
+* [vador](https://vador.codeberg.page) - Nostr encrypted key vault and bunker (desktop). Based on [keep](https://github.com/privkeyio/keep) ⭐ 16 | 🐛 27 | 🌐 Rust | 📅 2026-10-17 and egui.
 * [Notary](https://github.com/zig-nostr/notary) ⭐ 11 | 🐛 1 | 🌐 Zig | 📅 2026-10-14![stars](https://img.shields.io/github/stars/zig-nostr/notary.svg?style=social) - Native NIP-46 remote signer for macOS and Linux, written in Zig. The key stays in a local daemon, encrypted with NIP-49, and a native window shows each request before it is signed.
-* [Keep for Android](https://github.com/privkeyio/keep-android) ⭐ 10 | 🐛 4 | 🌐 Kotlin | 📅 2026-10-16![stars](https://img.shields.io/github/stars/privkeyio/keep-android.svg?style=social) - FROST threshold signer for Android implementing NIP-55 and NIP-46, splitting keys across multiple devices.
+* [Keep for Android](https://github.com/privkeyio/keep-android) ⭐ 10 | 🐛 3 | 🌐 Kotlin | 📅 2026-10-17![stars](https://img.shields.io/github/stars/privkeyio/keep-android.svg?style=social) - FROST threshold signer for Android implementing NIP-55 and NIP-46, splitting keys across multiple devices.
 * [OAuth Bunker](https://github.com/flox1an/oauth-bunker) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2026-03-06![stars](https://img.shields.io/github/stars/flox1an/oauth-bunker.svg?style=social) - OAuth-style NIP-46 bunker for Nostr.
 * [Keep ESP32](https://github.com/privkeyio/keep-esp32) ⭐ 5 | 🐛 18 | 🌐 C | 📅 2026-10-10![stars](https://img.shields.io/github/stars/privkeyio/keep-esp32.svg?style=social) - Air-gapped ESP32-S3 hardware signer supporting FROST threshold signatures and Bitcoin PSBT signing over USB.
 * [keyNest](https://github.com/gzuuus/keynest) ⭐ 5 | 🐛 1 | 🌐 Svelte | 📅 2024-03-07![stars](https://img.shields.io/github/stars/gzuuus/keynest.svg?style=social) - Nostr key management tool.
@@ -916,7 +917,7 @@ Websites with lists of relays and their performance/health:
 
 ## Peer-to-peer markets
 
-* [mostro](https://github.com/MostroP2P/mostro) ⭐ 336 | 🐛 96 | 🌐 Rust | 📅 2026-10-15 ![stars](https://img.shields.io/github/stars/MostroP2P/mostro.svg?style=social) -  Daemon for Lightning Network peer-to-peer exchange platform on Nostr (WIP)
+* [mostro](https://github.com/MostroP2P/mostro) ⭐ 337 | 🐛 96 | 🌐 Rust | 📅 2026-10-15 ![stars](https://img.shields.io/github/stars/MostroP2P/mostro.svg?style=social) -  Daemon for Lightning Network peer-to-peer exchange platform on Nostr (WIP)
 * [n3xB](https://github.com/nobu-maeda/n3xb) ⭐ 68 | 🐛 4 | 📅 2024-07-23 ![stars](https://img.shields.io/github/stars/nobu-maeda/n3xb.svg?style=social) - Proposal for a Bitcoin exchange protocol and a globally shared order book on Nostr
 * [mostro-cli](https://github.com/MostroP2P/mostro-cli) ⭐ 40 | 🐛 7 | 🌐 Rust | 📅 2026-10-16 ![stars](https://img.shields.io/github/stars/MostroP2P/mostro-cli.svg?style=social) - CLI client to operate with Mostro (WIP)
 * [crusty-n3xb](https://github.com/nobu-maeda/crusty-n3xb) ⭐ 2 | 🐛 1 | 🌐 Rust | 📅 2024-07-23 ![stars](https://img.shields.io/github/stars/nobu-maeda/crusty-n3xb.svg?style=social) - Rust library implementing the n3xB Bitcoin exchange protocol
@@ -960,8 +961,8 @@ Allow you to sign Nostr events on web-apps without having to give them your keys
 
 Clients (apps using NWC to access a LN wallet)
 
-* [Amethyst](https://github.com/vitorpamplona/amethyst) ⭐ 1,611 | 🐛 119 | 🌐 Kotlin | 📅 2026-10-16![stars](https://img.shields.io/github/stars/vitorpamplona/amethyst.svg?style=social) - Android-only app
-* [nostter](https://github.com/SnowCait/nostter) ⭐ 184 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-14![stars](https://img.shields.io/github/stars/SnowCait/nostter.svg?style=social) - Twitter-like web client
+* [Amethyst](https://github.com/vitorpamplona/amethyst) ⭐ 1,612 | 🐛 120 | 🌐 Kotlin | 📅 2026-10-17![stars](https://img.shields.io/github/stars/vitorpamplona/amethyst.svg?style=social) - Android-only app
+* [nostter](https://github.com/SnowCait/nostter) ⭐ 184 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/SnowCait/nostter.svg?style=social) - Twitter-like web client
 * [nostrcheck-server](https://github.com/quentintaranpino/nostrcheck-server) ⭐ 157 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-02![stars](https://img.shields.io/github/stars/quentintaranpino/nostrcheck-server.svg?style=social) - server with relay, File Hosting, Nostr Address, Lightning Redirects, NWC and WoT.
 * [Nostrmo](https://github.com/haorendashu/nostrmo) ⭐ 122 | 🐛 17 | 🌐 Dart | 📅 2026-05-27![stars](https://img.shields.io/github/stars/haorendashu/nostrmo.svg?style=social) - A flutter nostr client for Android, IOS, MacOS, Windows, Web and Linux.
 * [awesome-nwc](https://github.com/getAlby/awesome-nwc) ⭐ 96 | 🐛 3 | 📅 2026-09-11![stars](https://img.shields.io/github/stars/getAlby/awesome-nwc.svg?style=social) - Curated list of awesome projects implementing Nostr Wallet Connect (NWC)
@@ -978,9 +979,9 @@ Endpoints (services or apps that expose a LN wallet via NWC)
 
 * [mutiny-node](https://github.com/MutinyWallet/mutiny-node) ⚠️ Archived![stars](https://img.shields.io/github/stars/MutinyWallet/mutiny-node.svg?style=social) - Lightning node implementation that powers the Mutiny wallet, with NWC support.
 * [Bitcoin Connect](https://github.com/getAlby/bitcoin-connect) ⭐ 154 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-13![stars](https://img.shields.io/github/stars/getAlby/bitcoin-connect.svg?style=social) - Drop-in connect button for web apps to use NWC-compatible wallets.
-* [Npub.cash](https://github.com/cashubtc/npubcash-server) ⭐ 51 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-08![stars](https://img.shields.io/github/stars/cashubtc/npubcash-server.svg?style=social) - Lightning Address service backed by Cashu, accessible via your npub.
+* [Npub.cash](https://github.com/cashubtc/npubcash-server) ⭐ 52 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-08![stars](https://img.shields.io/github/stars/cashubtc/npubcash-server.svg?style=social) - Lightning Address service backed by Cashu, accessible via your npub.
 * [mcp-money](https://github.com/pablof7z/mcp-money) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2025-06-05![stars](https://img.shields.io/github/stars/pablof7z/mcp-money.svg?style=social) - MCP server that exposes a Lightning wallet over NWC to AI agents.
-* [lawalletio/lawallet-nwc](https://github.com/lawalletio/lawallet-nwc) ⭐ 11 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/lawalletio/lawallet-nwc.svg?style=social) - LaWallet v2 NWC
+* [lawalletio/lawallet-nwc](https://github.com/lawalletio/lawallet-nwc) ⭐ 11 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/lawalletio/lawallet-nwc.svg?style=social) - LaWallet v2 NWC
 * [cln-nip47](https://github.com/daywalker90/cln-nip47) ⭐ 9 | 🐛 3 | 🌐 Rust | 📅 2026-10-13![stars](https://img.shields.io/github/stars/daywalker90/cln-nip47.svg?style=social) - Core Lightning (CLN) plugin to connect wallets via Nostr Wallet Connect (NWC)
 * [Alby NWC (Umbrel)](https://apps.umbrel.com/app/alby-nostr-wallet-connect) - Umbrel app for exposing your self-custodial Umbrel LN Wallet over NWC
 * [Alby NWC (Web)](https://nwc.getalby.com/) - Web portal for exposing your custodial Alby account over NWC
@@ -992,8 +993,8 @@ Endpoints (services or apps that expose a LN wallet via NWC)
 
 ## NIP-57 Zaps compatible wallets and solutions
 
-* [ZeusLN](https://github.com/ZeusLN/zeus) ⭐ 1,399 | 🐛 534 | 🌐 TypeScript | 📅 2026-10-16![stars](https://img.shields.io/github/stars/ZeusLN/zeus.svg?style=social) - A mobile Bitcoin/Lightning app for LND, Core Lightning, and Eclair node operators [⚡ zap](https://nostr.net/grant/?zap=tips@pay.zeusln.app)
-* [LNbits](https://github.com/lnbits/lnbits) ⭐ 1,239 | 🐛 51 | 🌐 Python | 📅 2026-10-16![stars](https://img.shields.io/github/stars/lnbits/lnbits.svg?style=social) - Bitcoin Lightning accounting system, zappable LNaddresses
+* [ZeusLN](https://github.com/ZeusLN/zeus) ⭐ 1,400 | 🐛 612 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/ZeusLN/zeus.svg?style=social) - A mobile Bitcoin/Lightning app for LND, Core Lightning, and Eclair node operators [⚡ zap](https://nostr.net/grant/?zap=tips@pay.zeusln.app)
+* [LNbits](https://github.com/lnbits/lnbits) ⭐ 1,240 | 🐛 52 | 🌐 Python | 📅 2026-10-16![stars](https://img.shields.io/github/stars/lnbits/lnbits.svg?style=social) - Bitcoin Lightning accounting system, zappable LNaddresses
 * [Minibits](https://github.com/minibits-cash/minibits_wallet) ⭐ 121 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-13![stars](https://img.shields.io/github/stars/minibits-cash/minibits_wallet.svg?style=social) - Mobile Cashu ecash wallet with Lightning and Nostr.
 * [nostdress](https://github.com/believethehype/nostdress) ⭐ 54 | 🐛 5 | 🌐 Go | 📅 2025-05-02![stars](https://img.shields.io/github/stars/believethehype/nostdress.svg?style=social) - Lightning addresses server based on satdress. Adapted to work with Nostr features (NIP05, NIP57)
 * [Nutoff](https://github.com/gzuuus/nutoff-wallet) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-09![stars](https://img.shields.io/github/stars/gzuuus/nutoff-wallet.svg?style=social) - Cashu wallet integrated with Nostr.
@@ -1056,7 +1057,7 @@ Endpoints (services or apps that expose a LN wallet via NWC)
 ## Web of Trust (WOT)
 
 * [WoT relay](https://github.com/bitvora/wot-relay.git) ⭐ 88 | 🐛 11 | 🌐 Go | 📅 2026-04-22![stars](https://img.shields.io/github/stars/bitvora/wot-relay.svg?style=social) - relay for every note in your web of trust
-* [nostr-wot-extension](https://github.com/nostr-wot/nostr-wot-extension) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-15![stars](https://img.shields.io/github/stars/nostr-wot/nostr-wot-extension.svg?style=social) - WoT browser extension, create your own custom trust scoring and query social distance between pubkeys via remote oracle or local graph.
+* [nostr-wot-extension](https://github.com/nostr-wot/nostr-wot-extension) ⭐ 19 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-17![stars](https://img.shields.io/github/stars/nostr-wot/nostr-wot-extension.svg?style=social) - WoT browser extension, create your own custom trust scoring and query social distance between pubkeys via remote oracle or local graph.
 * [relatr](https://github.com/contextvm/relatr) ⭐ 12 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-26![stars](https://img.shields.io/github/stars/contextvm/relatr.svg?style=social)
 * [graperank-nodejs](https://github.com/Pretty-Good-Freedom-Tech/graperank-nodejs) ⭐ 11 | 🐛 2 | 🌐 TypeScript | 📅 2025-04-18![stars](https://img.shields.io/github/stars/Pretty-Good-Freedom-Tech/graperank-nodejs.svg?style=social) - My Grapevine web of trust recommendation engine
 * [nostr-wot-oracle](https://github.com/nostr-wot/nostr-wot-oracle) ⭐ 6 | 🐛 1 | 🌐 Rust | 📅 2026-10-12![stars](https://img.shields.io/github/stars/nostr-wot/nostr-wot-oracle.svg?style=social) -A global follow-graph indexer that answers pairwise distance queries between any two Nostr pubkeys, returning hop count, path count, and bridging nodes.
@@ -1068,8 +1069,8 @@ Endpoints (services or apps that expose a LN wallet via NWC)
 ## Blossom
 
 * [Blossom](https://github.com/hzrd149/blossom) ⭐ 322 | 🐛 26 | 📅 2026-09-25 - Blobs stored simply on mediaservers
-* [hashtree](https://github.com/mmalmi/hashtree) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-10-16![stars](https://img.shields.io/github/stars/mmalmi/hashtree.svg?style=social) - Content-addressed storage for files and Git, with encrypted data on Blossom servers or peers and mutable Nostr names
-  * [git-remote-htree](https://github.com/mmalmi/hashtree/tree/master/rust/crates/git-remote-htree) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-10-16 - Git remote helper for cloning, pushing, and pulling repositories over Nostr and hashtree
+* [hashtree](https://github.com/mmalmi/hashtree) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-10-17![stars](https://img.shields.io/github/stars/mmalmi/hashtree.svg?style=social) - Content-addressed storage for files and Git, with encrypted data on Blossom servers or peers and mutable Nostr names
+  * [git-remote-htree](https://github.com/mmalmi/hashtree/tree/master/rust/crates/git-remote-htree) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2026-10-17 - Git remote helper for cloning, pushing, and pulling repositories over Nostr and hashtree
   * [hashtree.cc](https://hashtree.cc) - introduction and documentation
   * [git.iris.to](https://git.iris.to) - web interface for Git repositories
 * [blossy](https://github.com/pippellia-btc/blossy) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2026-04-02![stars](https://img.shields.io/github/stars/pippellia-btc/blossy.svg?style=social) - A framework for building fully custom Blossom servers, designed for the best developer experience. Supports all Blossom endpoints and allows developers to express custom business logic on top of a protocol-compliant foundation.
@@ -1222,4 +1223,4 @@ This directory is maintained by [aljaz](https://disobey.dev/contact/). Your cont
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
