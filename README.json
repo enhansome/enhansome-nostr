@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "nostr-protocol",
             "repo": "nostr",
-            "stars": 12124,
+            "stars": 12126,
             "topics": [
               "nostr"
             ]
@@ -39,7 +39,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-27T21:52:17Z",
-            "open_issues": 756,
+            "open_issues": 759,
             "owner": "nostr-protocol",
             "repo": "nips",
             "stars": 3134,
@@ -61,8 +61,8 @@
             "id": 1060207673,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T21:09:49Z",
-            "open_issues": 38,
+            "last_commit": "2026-11-03T11:26:04Z",
+            "open_issues": 37,
             "owner": "marmot-protocol",
             "repo": "marmot",
             "stars": 145,
@@ -226,7 +226,7 @@
             "id": 798435885,
             "language": "Shell",
             "license": "Unlicense",
-            "last_commit": "2026-11-02T12:10:39Z",
+            "last_commit": "2026-11-03T12:09:51Z",
             "open_issues": 3,
             "owner": "adamdecaf",
             "repo": "nostr-book",
@@ -368,11 +368,11 @@
                 "id": 482383845,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T21:37:51Z",
-                "open_issues": 112,
+                "last_commit": "2026-11-03T22:42:09Z",
+                "open_issues": 108,
                 "owner": "cameri",
                 "repo": "nostream",
-                "stars": 834,
+                "stars": 833,
                 "topics": [
                   "decentralized-social-network",
                   "i2p-network",
@@ -397,11 +397,11 @@
                 "id": 580128737,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T16:16:02Z",
+                "last_commit": "2026-11-03T20:04:58Z",
                 "open_issues": 49,
                 "owner": "hoytech",
                 "repo": "strfry",
-                "stars": 737,
+                "stars": 736,
                 "topics": [
                   "nostr"
                 ]
@@ -424,7 +424,7 @@
                 "open_issues": 2,
                 "owner": "fiatjaf",
                 "repo": "relayer",
-                "stars": 344,
+                "stars": 343,
                 "topics": [
                   "nostr",
                   "relay"
@@ -458,34 +458,6 @@
                   "relay",
                   "self-hosted",
                   "social-media"
-                ]
-              },
-              "first_seen": "2026-08-29T01:23:33.140Z"
-            },
-            {
-              "node_type": "item",
-              "title": "blastr",
-              "description": "A nostr cloudflare workers proxy relay that publishes to all known relays",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A nostr cloudflare workers proxy relay that publishes to all known relays",
-                "homepage": "wss://nostr.mutinywallet.com",
-                "id": 603264643,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2024-01-26T00:09:56Z",
-                "open_issues": 0,
-                "owner": "MutinyWallet",
-                "repo": "blastr",
-                "stars": 157,
-                "topics": [
-                  "cloudflare",
-                  "nostr",
-                  "proxy",
-                  "relay",
-                  "rust",
-                  "wasm"
                 ]
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
@@ -531,6 +503,34 @@
             },
             {
               "node_type": "item",
+              "title": "blastr",
+              "description": "A nostr cloudflare workers proxy relay that publishes to all known relays",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A nostr cloudflare workers proxy relay that publishes to all known relays",
+                "homepage": "wss://nostr.mutinywallet.com",
+                "id": 603264643,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2024-01-26T00:09:56Z",
+                "open_issues": 0,
+                "owner": "MutinyWallet",
+                "repo": "blastr",
+                "stars": 156,
+                "topics": [
+                  "cloudflare",
+                  "nostr",
+                  "proxy",
+                  "relay",
+                  "rust",
+                  "wasm"
+                ]
+              },
+              "first_seen": "2026-08-29T01:23:33.140Z"
+            },
+            {
+              "node_type": "item",
               "title": "khatru",
               "description": ". a framework for making custom Nostr relays",
               "children": [],
@@ -564,7 +564,7 @@
                 "id": 753026283,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-10-29T18:23:01Z",
+                "last_commit": "2026-11-03T10:22:43Z",
                 "open_issues": 13,
                 "owner": "greenart7c3",
                 "repo": "Citrine",
@@ -1563,7 +1563,7 @@
                 "language": "Zig",
                 "license": "MIT",
                 "last_commit": "2026-10-31T09:23:11Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "privkeyio",
                 "repo": "wisp",
                 "stars": 21,
@@ -1590,7 +1590,7 @@
                 "id": 1331773821,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T11:56:14Z",
+                "last_commit": "2026-11-03T07:13:30Z",
                 "open_issues": 2,
                 "owner": "iqbqioza",
                 "repo": "nostrfy",
@@ -1943,7 +1943,7 @@
             {
               "node_type": "item",
               "title": "swarm",
-              "description": "Nostr Team Relay with additional controls for kinds, blossom media mirroring",
+              "description": "Nostr Team Relay with additional controls for kinds, blossom media mirroring⚡ zap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2189,11 +2189,11 @@
                 "id": 1043652948,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-11-02T07:00:58Z",
+                "last_commit": "2026-11-03T06:56:37Z",
                 "open_issues": 2,
                 "owner": "permissionlesstech",
                 "repo": "georelays",
-                "stars": 139,
+                "stars": 140,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
@@ -2362,11 +2362,11 @@
                 "id": 1002271234,
                 "language": "Dart",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-02T22:02:18Z",
-                "open_issues": 679,
+                "last_commit": "2026-11-03T20:50:32Z",
+                "open_issues": 659,
                 "owner": "divinevideo",
                 "repo": "divine-mobile",
-                "stars": 265,
+                "stars": 264,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
@@ -2374,7 +2374,7 @@
             {
               "node_type": "item",
               "title": "HiveTalk",
-              "description": "Hivetalk is an open source real-time Video and screensharing platform built on mirotalk that integrates Nostr and Lightning.",
+              "description": "Hivetalk is an open source real-time Video and screensharing platform built on mirotalk that integrates Nostr and Lightning. ⚡ zap",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2435,7 +2435,7 @@
                 "id": 997642368,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T21:50:54Z",
+                "last_commit": "2026-11-03T20:37:58Z",
                 "open_issues": 28,
                 "owner": "flox1an",
                 "repo": "nostube",
@@ -2463,7 +2463,7 @@
                 "open_issues": 17,
                 "owner": "vicariousdrama",
                 "repo": "cornychat",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "audio",
                   "bitcoin",
@@ -2488,7 +2488,7 @@
                 "id": 849554141,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T20:01:11Z",
+                "last_commit": "2026-11-03T11:49:02Z",
                 "open_issues": 14,
                 "owner": "v0l",
                 "repo": "zap-stream-core",
@@ -2517,7 +2517,7 @@
                 "open_issues": 5,
                 "owner": "r0d8lsh0p",
                 "repo": "shosho-releases",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "ecommerce",
                   "live",
@@ -2639,7 +2639,7 @@
                 "open_issues": 128,
                 "owner": "damus-io",
                 "repo": "damus",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "bitcoin",
                   "freedom",
@@ -2683,7 +2683,7 @@
                 "language": "Dart",
                 "license": "MIT",
                 "last_commit": "2026-10-30T15:31:08Z",
-                "open_issues": 7,
+                "open_issues": 13,
                 "owner": "nogringo",
                 "repo": "nostr-mail-client",
                 "stars": 85,
@@ -2712,7 +2712,7 @@
                 "open_issues": 1,
                 "owner": "Spl0itable",
                 "repo": "NYM",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "android",
                   "android-app",
@@ -2832,6 +2832,27 @@
             },
             {
               "node_type": "item",
+              "title": "monostr",
+              "description": "Android nostr client with private Monero tips on likes and reposts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Nostr client for Android with Monero tips",
+                "homepage": "https://monostr.com",
+                "id": 1411912343,
+                "language": "Kotlin",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-03T14:32:21Z",
+                "open_issues": 3,
+                "owner": "schmidt1024",
+                "repo": "monostr",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-11-03T22:48:07.466Z"
+            },
+            {
+              "node_type": "item",
               "title": "Feather",
               "description": "Native Android client with signer login, swipeable feeds, full-screen media, and NWC zaps.",
               "children": [],
@@ -2912,11 +2933,11 @@
                 "id": 1174789082,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T00:22:43Z",
-                "open_issues": 3773,
+                "last_commit": "2026-11-03T22:40:09Z",
+                "open_issues": 3774,
                 "owner": "block",
                 "repo": "buzz",
-                "stars": 36688,
+                "stars": 36710,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
@@ -2933,11 +2954,11 @@
                 "id": 587850619,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-03T00:16:06Z",
-                "open_issues": 120,
+                "last_commit": "2026-11-03T22:47:27Z",
+                "open_issues": 118,
                 "owner": "vitorpamplona",
                 "repo": "amethyst",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": [
                   "android",
                   "kotlin",
@@ -2963,7 +2984,7 @@
                 "open_issues": 213,
                 "owner": "mikedilger",
                 "repo": "gossip",
-                "stars": 888,
+                "stars": 887,
                 "topics": [
                   "chat",
                   "nostr",
@@ -2988,7 +3009,7 @@
                 "open_issues": 113,
                 "owner": "irislib",
                 "repo": "iris-messenger",
-                "stars": 738,
+                "stars": 737,
                 "topics": [
                   "nostr"
                 ]
@@ -3007,7 +3028,7 @@
                 "id": 966768509,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-28T16:35:37Z",
+                "last_commit": "2026-11-03T12:02:54Z",
                 "open_issues": 12,
                 "owner": "UwUDev",
                 "repo": "francisca",
@@ -3036,7 +3057,7 @@
                 "open_issues": 9,
                 "owner": "vishalxl",
                 "repo": "nostr_console",
-                "stars": 445,
+                "stars": 444,
                 "topics": [
                   "chat",
                   "cross-platform",
@@ -3091,8 +3112,8 @@
                 "id": 570628699,
                 "language": "Svelte",
                 "license": "MIT",
-                "last_commit": "2026-10-28T14:55:59Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-03T21:59:18Z",
+                "open_issues": 98,
                 "owner": "coracle-social",
                 "repo": "coracle",
                 "stars": 368,
@@ -3115,11 +3136,11 @@
                 "id": 579689245,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T21:16:42Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-03T16:14:23Z",
+                "open_issues": 7,
                 "owner": "v0l",
                 "repo": "snort",
-                "stars": 348,
+                "stars": 347,
                 "topics": [
                   "nostr",
                   "react"
@@ -3214,11 +3235,11 @@
                 "id": 1021671308,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-03T00:19:57Z",
+                "last_commit": "2026-11-03T21:46:45Z",
                 "open_issues": 16,
                 "owner": "VectorPrivacy",
                 "repo": "Vector",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "encryption",
                   "messenger",
@@ -3329,7 +3350,7 @@
                 "id": 878484385,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T15:12:59Z",
+                "last_commit": "2026-11-03T14:09:04Z",
                 "open_issues": 195,
                 "owner": "CodyTseng",
                 "repo": "jumble",
@@ -3628,7 +3649,7 @@
                 "open_issues": 0,
                 "owner": "KotlinGeekDev",
                 "repo": "Nosky",
-                "stars": 90,
+                "stars": 89,
                 "topics": [
                   "android",
                   "jetpack-compose",
@@ -3654,7 +3675,7 @@
                 "open_issues": 19,
                 "owner": "lapulpeta",
                 "repo": "Nostrid",
-                "stars": 90,
+                "stars": 89,
                 "topics": [
                   "nostr"
                 ]
@@ -3674,7 +3695,7 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-18T12:56:12Z",
-                "open_issues": 108,
+                "open_issues": 109,
                 "owner": "syusui-s",
                 "repo": "rabbit",
                 "stars": 89,
@@ -4192,8 +4213,8 @@
                 "id": 585619089,
                 "language": "JavaScript",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-01T18:44:51Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-03T20:51:54Z",
+                "open_issues": 18,
                 "owner": "carlitoplatanito",
                 "repo": "disgus",
                 "stars": 54,
@@ -4488,8 +4509,8 @@
                 "id": 1113911825,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T13:38:10Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-03T11:28:14Z",
+                "open_issues": 39,
                 "owner": "purrgrammer",
                 "repo": "grimoire",
                 "stars": 41,
@@ -4515,7 +4536,7 @@
                 "open_issues": 8,
                 "owner": "emeceve",
                 "repo": "loquaz",
-                "stars": 36,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
@@ -5695,7 +5716,7 @@
                 "id": 1382738248,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T02:15:17Z",
+                "last_commit": "2026-11-03T13:21:28Z",
                 "open_issues": 6,
                 "owner": "nostrichOS",
                 "repo": "nostrich-client",
@@ -6208,7 +6229,7 @@
                     "id": 1269968918,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T23:30:44Z",
+                    "last_commit": "2026-11-03T14:00:54Z",
                     "open_issues": 0,
                     "owner": "irislib",
                     "repo": "iris-chat-rs",
@@ -6230,7 +6251,7 @@
                 "id": 1141263989,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-28T22:38:10Z",
+                "last_commit": "2026-11-03T13:37:27Z",
                 "open_issues": 0,
                 "owner": "irislib",
                 "repo": "iris-chat",
@@ -6416,8 +6437,8 @@
                 "id": 1369841494,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T23:20:02Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-03T22:12:26Z",
+                "open_issues": 7,
                 "owner": "dergigi",
                 "repo": "goop",
                 "stars": 2,
@@ -6527,6 +6548,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T01:23:33.140Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Rougee",
+              "description": "Instagram-style photo, video & reels client mixing Nostr and RougeChain posts, with private custom feeds (NIP-51). rougee.app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Decentralized, un-deplatformable Instagram on RougeChain — post-quantum identity, on-chain social graph, IPFS photos.",
+                "homepage": null,
+                "id": 1370655892,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-03T06:25:01Z",
+                "open_issues": 0,
+                "owner": "cyberdreadx",
+                "repo": "rougee-gram",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-03T22:48:07.466Z"
             },
             {
               "node_type": "item",
@@ -6660,7 +6702,7 @@
                 "id": 1162649168,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T15:04:55Z",
+                "last_commit": "2026-11-03T22:29:46Z",
                 "open_issues": 1,
                 "owner": "lonniev",
                 "repo": "dpyc-oracle",
@@ -6745,8 +6787,8 @@
                 "id": 1332765577,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-02T21:29:42Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-03T21:14:43Z",
+                "open_issues": 9,
                 "owner": "forgesworn",
                 "repo": "kintrinsic",
                 "stars": 0,
@@ -6986,8 +7028,8 @@
                 "id": 1154829623,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T23:14:54Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-03T15:36:50Z",
+                "open_issues": 40,
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 12,
@@ -7015,8 +7057,8 @@
                 "id": 1154829623,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T23:14:54Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-03T15:36:50Z",
+                "open_issues": 40,
                 "owner": "Conduit-BTC",
                 "repo": "conduit-mono",
                 "stars": 12,
@@ -7092,7 +7134,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-27T21:52:17Z",
-            "open_issues": 756,
+            "open_issues": 759,
             "owner": "nostr-protocol",
             "repo": "nips",
             "stars": 3134,
@@ -7238,7 +7280,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-27T21:52:17Z",
-            "open_issues": 756,
+            "open_issues": 759,
             "owner": "nostr-protocol",
             "repo": "nips",
             "stars": 3134,
@@ -7267,7 +7309,7 @@
                 "open_issues": 3,
                 "owner": "vishalxl",
                 "repo": "Nostr-Clients-Features-List",
-                "stars": 177,
+                "stars": 176,
                 "topics": [
                   "nostr",
                   "wiki"
@@ -7357,7 +7399,7 @@
             "open_issues": 29,
             "owner": "nbd-wtf",
             "repo": "nostr-tools",
-            "stars": 854,
+            "stars": 853,
             "topics": [
               "nostr"
             ]
@@ -7376,8 +7418,8 @@
             "id": 563266322,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-02T16:47:02Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-03T08:00:42Z",
+            "open_issues": 31,
             "owner": "nostrdevkit",
             "repo": "nostr",
             "stars": 678,
@@ -7463,7 +7505,7 @@
             "open_issues": 2,
             "owner": "fiatjaf",
             "repo": "relayer",
-            "stars": 344,
+            "stars": 343,
             "topics": [
               "nostr",
               "relay"
@@ -7743,31 +7785,6 @@
         },
         {
           "node_type": "item",
-          "title": "nostr-relaypool-ts",
-          "description": "a TypeScript relay pool library on top of nostr-tools that simplifies handling subscriptions to multiple servers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Nostr RelayPool implementation in TypeScript using only nostr-tools library as a dependency ",
-            "homepage": "https://www.npmjs.com/package/nostr-relaypool",
-            "id": 584917034,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-02T03:06:21Z",
-            "open_issues": 16,
-            "owner": "adamritter",
-            "repo": "nostr-relaypool-ts",
-            "stars": 58,
-            "topics": [
-              "javascript",
-              "nostr",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-29T01:23:33.140Z"
-        },
-        {
-          "node_type": "item",
           "title": "rx-nostr",
           "description": "Supports high quality and flexible communication with multiple Nostr relays.",
           "children": [],
@@ -7849,6 +7866,31 @@
         },
         {
           "node_type": "item",
+          "title": "nostr-relaypool-ts",
+          "description": "a TypeScript relay pool library on top of nostr-tools that simplifies handling subscriptions to multiple servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Nostr RelayPool implementation in TypeScript using only nostr-tools library as a dependency ",
+            "homepage": "https://www.npmjs.com/package/nostr-relaypool",
+            "id": 584917034,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-02T03:06:21Z",
+            "open_issues": 16,
+            "owner": "adamritter",
+            "repo": "nostr-relaypool-ts",
+            "stars": 57,
+            "topics": [
+              "javascript",
+              "nostr",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
           "title": "nostr-fetch",
           "description": "A utility library that allows JS/TS apps to effortlessly fetch past events from Nostr relays.",
           "children": [],
@@ -7885,7 +7927,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-02T20:25:50Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "hzrd149",
             "repo": "applesauce",
             "stars": 54,
@@ -8132,8 +8174,8 @@
             "id": 701688640,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-02T18:51:53Z",
-            "open_issues": 88,
+            "last_commit": "2026-11-03T16:58:19Z",
+            "open_issues": 89,
             "owner": "relaystr",
             "repo": "ndk",
             "stars": 29,
@@ -8213,7 +8255,7 @@
             "id": 618895012,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T17:52:01Z",
+            "last_commit": "2026-11-03T21:23:38Z",
             "open_issues": 0,
             "owner": "coracle-social",
             "repo": "welshman",
@@ -8262,7 +8304,7 @@
             "open_issues": 6,
             "owner": "KiPSOFT",
             "repo": "nostr-deno",
-            "stars": 24,
+            "stars": 23,
             "topics": [
               "client",
               "deno",
@@ -8304,32 +8346,6 @@
         },
         {
           "node_type": "item",
-          "title": "NostrKit",
-          "description": "a Swift library for interacting with relays",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple Swift library providing data types for interacting with Nostr relays.",
-            "homepage": "https://github.com/cnixbtc/NostrKit",
-            "id": 528878244,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2024-01-25T13:49:45Z",
-            "open_issues": 3,
-            "owner": "cnixbtc",
-            "repo": "NostrKit",
-            "stars": 19,
-            "topics": [
-              "ios",
-              "macos",
-              "nostr",
-              "swift"
-            ]
-          },
-          "first_seen": "2026-08-29T01:23:33.140Z"
-        },
-        {
-          "node_type": "item",
           "title": "nostr-sdk-ffi",
           "description": "Nostr SDK native language bindings — enables using the Rust nostr-sdk from other languages via FFI",
           "children": [],
@@ -8353,6 +8369,32 @@
               "nostr-protocol",
               "python",
               "rust-nostr",
+              "swift"
+            ]
+          },
+          "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
+          "title": "NostrKit",
+          "description": "a Swift library for interacting with relays",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple Swift library providing data types for interacting with Nostr relays.",
+            "homepage": "https://github.com/cnixbtc/NostrKit",
+            "id": 528878244,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2024-01-25T13:49:45Z",
+            "open_issues": 3,
+            "owner": "cnixbtc",
+            "repo": "NostrKit",
+            "stars": 18,
+            "topics": [
+              "ios",
+              "macos",
+              "nostr",
               "swift"
             ]
           },
@@ -8448,7 +8490,7 @@
             "id": 858647878,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-30T21:40:21Z",
+            "last_commit": "2026-11-03T13:28:06Z",
             "open_issues": 2,
             "owner": "mmalmi",
             "repo": "nostr-social-graph",
@@ -8876,8 +8918,8 @@
             "id": 1137297056,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-02T23:43:13Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-03T21:39:21Z",
+            "open_issues": 0,
             "owner": "yysskk",
             "repo": "swift-nostr",
             "stars": 7,
@@ -9055,8 +9097,8 @@
             "id": 1299010984,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T01:31:38Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-03T10:26:42Z",
+            "open_issues": 0,
             "owner": "qntx",
             "repo": "nostr",
             "stars": 3,
@@ -9366,8 +9408,8 @@
             "id": 1383740099,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T21:07:41Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-03T06:44:24Z",
+            "open_issues": 1,
             "owner": "DreamLab-AI",
             "repo": "sidestr-rs",
             "stars": 0,
@@ -9725,7 +9767,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-11-02T00:28:32Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "spacecowboy",
             "repo": "Feeder",
             "stars": 3107,
@@ -9753,8 +9795,8 @@
             "id": 1179199801,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-02T10:23:23Z",
-            "open_issues": 87,
+            "last_commit": "2026-11-03T17:18:20Z",
+            "open_issues": 82,
             "owner": "mmalmi",
             "repo": "nostr-vpn",
             "stars": 1242,
@@ -9780,8 +9822,8 @@
             "id": 1172886754,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T16:28:52Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-03T22:20:59Z",
+            "open_issues": 2,
             "owner": "aeonfun",
             "repo": "aeon",
             "stars": 787,
@@ -9811,7 +9853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🎭 Not an assistant. Someone you built. 💫",
+            "description": "🤝 From Concept, to Confidant. 💫",
             "homepage": "https://steve02081504.github.io/fount/",
             "id": 862251163,
             "language": "JavaScript",
@@ -10068,7 +10110,7 @@
             "open_issues": 11,
             "owner": "jb55",
             "repo": "nostril",
-            "stars": 115,
+            "stars": 114,
             "topics": [
               "nostr"
             ]
@@ -10216,7 +10258,7 @@
             "open_issues": 3,
             "owner": "0xtrr",
             "repo": "nostr-tool",
-            "stars": 78,
+            "stars": 77,
             "topics": [
               "cli",
               "hacktoberfest",
@@ -10651,31 +10693,6 @@
         },
         {
           "node_type": "item",
-          "title": "nostrends",
-          "description": "Trending on Nostr, like Twitter trends. Live at nostrends.vercel.app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "What's trending on nostr?",
-            "homepage": "https://nostrends.vercel.app",
-            "id": 598843393,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-31T17:06:04Z",
-            "open_issues": 5,
-            "owner": "akiomik",
-            "repo": "nostrends",
-            "stars": 27,
-            "topics": [
-              "nostr",
-              "trend-analysis",
-              "trends"
-            ]
-          },
-          "first_seen": "2026-08-29T01:23:33.140Z"
-        },
-        {
-          "node_type": "item",
           "title": "Nostrobots",
           "description": "a set of community nodes for using n8n workflow automation with Nostr",
           "children": [],
@@ -10692,6 +10709,31 @@
             "repo": "n8n-nodes-nostrobots",
             "stars": 27,
             "topics": []
+          },
+          "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nostrends",
+          "description": "Trending on Nostr, like Twitter trends. Live at nostrends.vercel.app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "What's trending on nostr?",
+            "homepage": "https://nostrends.vercel.app",
+            "id": 598843393,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-31T17:06:04Z",
+            "open_issues": 5,
+            "owner": "akiomik",
+            "repo": "nostrends",
+            "stars": 26,
+            "topics": [
+              "nostr",
+              "trend-analysis",
+              "trends"
+            ]
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
         },
@@ -10725,33 +10767,6 @@
         },
         {
           "node_type": "item",
-          "title": "nostr-spam-detection",
-          "description": "An experiment in building a machine learning model to label Nostr spam content for filtering and relay rejection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An experiment in building a machine learning model to label Nostr spam content for filtering and relay rejection.",
-            "homepage": null,
-            "id": 600062373,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2023-02-25T21:49:01Z",
-            "open_issues": 0,
-            "owner": "blakejakopovic",
-            "repo": "nostr-spam-detection",
-            "stars": 25,
-            "topics": [
-              "machine-learning",
-              "nostr",
-              "proof-of-concept",
-              "spam-detection",
-              "spam-filtering"
-            ]
-          },
-          "first_seen": "2026-08-29T01:23:33.140Z"
-        },
-        {
-          "node_type": "item",
           "title": "Blossom Drive",
           "description": "File-sharing client built on top of Blossom and Nostr.",
           "children": [],
@@ -10772,6 +10787,33 @@
               "file-manager",
               "file-storage",
               "nostr"
+            ]
+          },
+          "first_seen": "2026-08-29T01:23:33.140Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nostr-spam-detection",
+          "description": "An experiment in building a machine learning model to label Nostr spam content for filtering and relay rejection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An experiment in building a machine learning model to label Nostr spam content for filtering and relay rejection.",
+            "homepage": null,
+            "id": 600062373,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2023-02-25T21:49:01Z",
+            "open_issues": 0,
+            "owner": "blakejakopovic",
+            "repo": "nostr-spam-detection",
+            "stars": 24,
+            "topics": [
+              "machine-learning",
+              "nostr",
+              "proof-of-concept",
+              "spam-detection",
+              "spam-filtering"
             ]
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
@@ -12841,8 +12883,8 @@
             "id": 1346075794,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T00:19:56Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-03T22:23:45Z",
+            "open_issues": 5,
             "owner": "forgesworn",
             "repo": "kithmoot",
             "stars": 0,
@@ -12876,7 +12918,7 @@
             "id": 1406910920,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T13:20:25Z",
+            "last_commit": "2026-11-03T13:47:39Z",
             "open_issues": 0,
             "owner": "rzazo24",
             "repo": "nostrclaw",
@@ -13101,11 +13143,11 @@
             "id": 671206453,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-02T15:31:00Z",
+            "last_commit": "2026-11-03T14:52:45Z",
             "open_issues": 10,
             "owner": "greenart7c3",
             "repo": "Amber",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "fdroid",
               "nostr"
@@ -13716,7 +13758,7 @@
             "open_issues": 6,
             "owner": "grunch",
             "repo": "rana",
-            "stars": 295,
+            "stars": 294,
             "topics": [
               "mining",
               "nostr",
@@ -13941,7 +13983,7 @@
             "open_issues": 90,
             "owner": "MostroP2P",
             "repo": "mostro",
-            "stars": 341,
+            "stars": 340,
             "topics": [
               "bitcoin",
               "lightning",
@@ -13987,7 +14029,7 @@
             "id": 583342682,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T21:32:11Z",
+            "last_commit": "2026-11-03T22:24:27Z",
             "open_issues": 16,
             "owner": "MostroP2P",
             "repo": "mostro-cli",
@@ -14099,7 +14141,7 @@
             "open_issues": 1,
             "owner": "susumuota",
             "repo": "nostr-keyx",
-            "stars": 83,
+            "stars": 82,
             "topics": [
               "browser-extension",
               "chrome-extension",
@@ -14496,11 +14538,11 @@
             "id": 587850619,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-03T00:16:06Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-03T22:47:27Z",
+            "open_issues": 118,
             "owner": "vitorpamplona",
             "repo": "amethyst",
-            "stars": 1617,
+            "stars": 1618,
             "topics": [
               "android",
               "kotlin",
@@ -14687,8 +14729,8 @@
             "id": 1016786146,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T00:33:52Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-03T22:25:38Z",
+            "open_issues": 16,
             "owner": "Buho-Ecosystem",
             "repo": "Buho_go",
             "stars": 14,
@@ -14825,7 +14867,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-28T15:30:42Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "lawalletio",
             "repo": "lawallet-nwc",
             "stars": 13,
@@ -14878,11 +14920,11 @@
             "id": 171051201,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T23:17:46Z",
-            "open_issues": 698,
+            "last_commit": "2026-11-03T19:30:45Z",
+            "open_issues": 707,
             "owner": "ZeusLN",
             "repo": "zeus",
-            "stars": 1405,
+            "stars": 1406,
             "topics": [
               "android",
               "bitcoin",
@@ -14918,11 +14960,11 @@
             "id": 226972903,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T14:37:54Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-03T14:18:03Z",
+            "open_issues": 38,
             "owner": "lnbits",
             "repo": "lnbits",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "bitcoin",
               "lightning-network",
@@ -15134,7 +15176,7 @@
             "id": 1206299549,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T17:38:52Z",
+            "last_commit": "2026-11-03T19:07:25Z",
             "open_issues": 3,
             "owner": "elisymlabs",
             "repo": "elisym",
@@ -15170,7 +15212,7 @@
             "id": 1206299549,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T17:38:52Z",
+            "last_commit": "2026-11-03T19:07:25Z",
             "open_issues": 3,
             "owner": "elisymlabs",
             "repo": "elisym",
@@ -15691,7 +15733,7 @@
                 "id": 1136069729,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-11-02T20:41:42Z",
+                "last_commit": "2026-11-03T22:37:29Z",
                 "open_issues": 0,
                 "owner": "mmalmi",
                 "repo": "hashtree",
@@ -15714,7 +15756,7 @@
             "id": 1136069729,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-02T20:41:42Z",
+            "last_commit": "2026-11-03T22:37:29Z",
             "open_issues": 0,
             "owner": "mmalmi",
             "repo": "hashtree",
@@ -15862,7 +15904,7 @@
             "open_issues": 8,
             "owner": "BlockChainCaffe",
             "repo": "Nostr-Relay-Setup-Guide",
-            "stars": 112,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-29T01:23:33.140Z"
@@ -16212,8 +16254,8 @@
             "id": 1297474421,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T23:11:30Z",
-            "open_issues": 152,
+            "last_commit": "2026-11-03T21:30:21Z",
+            "open_issues": 156,
             "owner": "styx-secure",
             "repo": "styx",
             "stars": 0,
@@ -16279,7 +16321,7 @@
             "open_issues": 26,
             "owner": "monlovesmango",
             "repo": "astral",
-            "stars": 100,
+            "stars": 99,
             "topics": [
               "nostr"
             ]
@@ -16615,7 +16657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T00:23:03.099Z",
+    "last_updated": "2026-11-03T22:48:07.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things ",
@@ -16623,16 +16665,16 @@
       "id": 450941276,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-11-02T10:55:06Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-03T19:42:02Z",
+      "open_issues": 4,
       "owner": "aljazceru",
       "repo": "awesome-nostr",
-      "stars": 2975,
+      "stars": 2974,
       "topics": [
         "nostr"
       ]
     },
-    "original_repository_sha": "941f33e8e8e7b835a1c9f6afc16b8a7de29ee977",
+    "original_repository_sha": "3e8a8cd135fa11cac76dcd6219044676ddc1aec7",
     "enhanced_repository": "enhansome/enhansome-nostr",
     "enhanced_repository_description": null,
     "title": "Awesome nostr with stars"
